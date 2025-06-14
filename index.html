@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ship's Movie Library</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        netflix: {
+                            red: '#E50914',
+                            dark: '#141414',
+                            gray: '#2F2F2F'
+                        }
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.5s ease-in-out',
+                        'slide-up': 'slideUp 0.3s ease-out',
+                        'pulse-slow': 'pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' }
+                        },
+                        slideUp: {
+                            '0%': { transform: 'translateY(20px)', opacity: '0' },
+                            '100%': { transform: 'translateY(0)', opacity: '1' }
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body class="bg-white dark:bg-netflix-dark text-gray-900 dark:text-white transition-colors duration-300">
+    <!-- Header -->
+    <header class="bg-white dark:bg-netflix-gray shadow-lg sticky top-0 z-50 transition-colors duration-300">
+        <div class="container mx-auto px-4 py-3">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-4">
+                    <h1 class="text-2xl font-bold text-netflix-red">🎬 Ship's Library</h1>
+                    <div class="hidden md:flex space-x-4">
+                        <button id="moviesTab" class="tab-button active px-4 py-2 rounded-lg font-medium transition-all duration-200">
+                            Movies
+                        </button>
+                        <button id="tvShowsTab" class="tab-button px-4 py-2 rounded-lg font-medium transition-all duration-200">
+                            TV Shows
+                        </button>
+                    </div>
+                </div>
+
+                <div class="flex items-center space-x-4">
+                    <!-- Search -->
+                    <div class="relative">
+                        <input type="text" id="searchInput" placeholder="Search titles..." 
+                               class="w-64 px-4 py-2 bg-gray-100 dark:bg-netflix-gray border border-gray-300 dark:border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-netflix-red focus:border-transparent transition-all duration-200">
+                        <svg class="absolute right-3 top-2.5 h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M18 10.5a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0z"></path>
+                        </svg>
+                    </div>
+
+                    <!-- Theme Toggle -->
+                    <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-netflix-gray hover:bg-gray-200 dark:hover:bg-gray-600 transition-all duration-200">
+                        <svg id="sunIcon" class="h-5 w-5 text-yellow-500 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" clip-rule="evenodd"></path>
+                        </svg>
+                        <svg id="moonIcon" class="h-5 w-5 text-gray-600 dark:text-gray-300" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Mobile Tabs -->
+            <div class="md:hidden mt-3 flex space-x-2">
+                <button id="moviesTabMobile" class="tab-button-mobile active flex-1 py-2 rounded-lg font-medium transition-all duration-200">
+                    Movies
+                </button>
+                <button id="tvShowsTabMobile" class="tab-button-mobile flex-1 py-2 rounded-lg font-medium transition-all duration-200">
+                    TV Shows
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Filters -->
+    <div class="bg-gray-50 dark:bg-netflix-gray/50 border-b border-gray-200 dark:border-gray-700 transition-colors duration-300">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex flex-wrap items-center gap-4">
+                <div class="flex items-center space-x-2">
+                    <label class="text-sm font-medium">Genre:</label>
+                    <select id="genreFilter" class="px-3 py-1 bg-white dark:bg-netflix-gray border border-gray-300 dark:border-gray-600 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-netflix-red">
+                        <option value="">All Genres</option>
+                    </select>
+                </div>
+
+                <div class="flex items-center space-x-2">
+                    <label class="text-sm font-medium">Year:</label>
+                    <select id="yearFilter" class="px-3 py-1 bg-white dark:bg-netflix-gray border border-gray-300 dark:border-gray-600 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-netflix-red">
+                        <option value="">All Years</option>
+                    </select>
+                </div>
+
+                <div class="flex items-center space-x-2">
+                    <label class="text-sm font-medium">Rating:</label>
+                    <select id="ratingFilter" class="px-3 py-1 bg-white dark:bg-netflix-gray border border-gray-300 dark:border-gray-600 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-netflix-red">
+                        <option value="">Any Rating</option>
+                        <option value="8">8.0+ ⭐</option>
+                        <option value="7">7.0+ ⭐</option>
+                        <option value="6">6.0+ ⭐</option>
+                        <option value="5">5.0+ ⭐</option>
+                    </select>
+                </div>
+
+                <div class="flex items-center space-x-2">
+                    <label class="text-sm font-medium">Sort:</label>
+                    <select id="sortFilter" class="px-3 py-1 bg-white dark:bg-netflix-gray border border-gray-300 dark:border-gray-600 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-netflix-red">
+                        <option value="title">Title A-Z</option>
+                        <option value="year">Year (Newest)</option>
+                        <option value="rating">Rating (Highest)</option>
+                    </select>
+                </div>
+
+                <button id="clearFilters" class="px-4 py-1 bg-netflix-red text-white rounded-lg text-sm hover:bg-red-700 transition-colors duration-200">
+                    Clear Filters
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="container mx-auto px-4 py-4">
+        <div class="text-sm text-gray-600 dark:text-gray-400">
+            Showing <span id="resultCount">0</span> of <span id="totalCount">0</span> titles
+        </div>
+    </div>
+
+    <!-- Content Grid -->
+    <main class="container mx-auto px-4 pb-8">
+        <div id="contentGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+            <!-- Content will be populated by JavaScript -->
+        </div>
+
+        <!-- Loading State -->
+        <div id="loadingState" class="flex items-center justify-center py-12">
+            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-netflix-red"></div>
+        </div>
+
+        <!-- No Results -->
+        <div id="noResults" class="hidden text-center py-12">
+            <div class="text-6xl mb-4">🎬</div>
+            <h3 class="text-xl font-semibold mb-2">No titles found</h3>
+            <p class="text-gray-600 dark:text-gray-400">Try adjusting your search or filters</p>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div id="modal" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50 hidden">
+        <div class="bg-white dark:bg-netflix-gray rounded-lg max-w-4xl w-full max-h-[90vh] overflow-y-auto animate-slide-up">
+            <div id="modalContent">
+                <!-- Modal content will be populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/data.js"></script>
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
