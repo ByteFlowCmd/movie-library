@@ -25,7 +25,7 @@ class MovieLibraryApp {
     setupEventListeners() {
         // Tab switching
         document.getElementById('moviesTab').addEventListener('click', () => this.switchTab('movies'));
-        document.getElementById('tvShowsTab').addEventListener('click', () => this.switchTab('movies'));
+        document.getElementById('tvShowsTab').addEventListener('click', () => this.switchTab('tvShows'));
         document.getElementById('moviesTabMobile').addEventListener('click', () => this.switchTab('movies'));
         document.getElementById('tvShowsTabMobile').addEventListener('click', () => this.switchTab('tvShows'));
 
