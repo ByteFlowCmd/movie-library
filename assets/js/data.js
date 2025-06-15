@@ -1664,6 +1664,73 @@ const MOVIES = [
     "tmdb_id": 799766
   },
   {
+    "id": 808159,
+    "title": "Bisping",
+    "year": "2021",
+    "overview": "After a tumultuous decade-long career filled with injuries and missed opportunities, 38-year-old UFC middleweight Michael Bisping finally got his due, and he plans to go out swinging.",
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 5.8,
+    "runtime": 109,
+    "director": "Michael Adam Hamilton",
+    "cast": [
+      {
+        "name": "Michael Bisping",
+        "character": "Self",
+        "profile_path": "/xF6wdVG9pYbYRhS0ncaweWPpb7Y.jpg"
+      },
+      {
+        "name": "Vin Diesel",
+        "character": "Self",
+        "profile_path": "/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+      },
+      {
+        "name": "Mickey Rourke",
+        "character": "Self",
+        "profile_path": "/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg"
+      },
+      {
+        "name": "Scott Adkins",
+        "character": "Self",
+        "profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+      },
+      {
+        "name": "Michael Jai White",
+        "character": "Self",
+        "profile_path": "/YPoHYuzR37wFpPpwEXZYQlhLln.jpg"
+      },
+      {
+        "name": "Joe Rogan",
+        "character": "Self",
+        "profile_path": "/njXw71USHBtW01JWRImeOU3P18C.jpg"
+      },
+      {
+        "name": "Georges St-Pierre",
+        "character": "Self",
+        "profile_path": "/1gRSxCOOf9jxJdGtYNi5FPoXS9l.jpg"
+      },
+      {
+        "name": "Tito Ortiz",
+        "character": "Self",
+        "profile_path": "/ivG0rCc5FE1XWdh6CIBTWfeIgBk.jpg"
+      },
+      {
+        "name": "Dana White",
+        "character": "Self",
+        "profile_path": "/urhiqgeFAnzuZUse32YwtL0xr53.jpg"
+      },
+      {
+        "name": "Rashad Evans",
+        "character": "Self",
+        "profile_path": "/fx00k6N013HaHVvLuhJCK6eyCcw.jpg"
+      }
+    ],
+    "poster": "assets/posters/808159.jpg",
+    "media_type": "movie",
+    "tmdb_id": 808159
+  },
+  {
     "id": 1233575,
     "title": "Black Bag",
     "year": "2025",
@@ -4395,6 +4462,74 @@ const MOVIES = [
     "poster": "assets/posters/369972.jpg",
     "media_type": "movie",
     "tmdb_id": 369972
+  },
+  {
+    "id": 1126166,
+    "title": "Flight Risk",
+    "year": "2025",
+    "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 6.095,
+    "runtime": 91,
+    "director": "Mel Gibson",
+    "cast": [
+      {
+        "name": "Mark Wahlberg",
+        "character": "Daryl",
+        "profile_path": "/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+      },
+      {
+        "name": "Michelle Dockery",
+        "character": "Madolyn",
+        "profile_path": "/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Winston",
+        "profile_path": "/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+      },
+      {
+        "name": "Leah Remini",
+        "character": "Van Sant (voice)",
+        "profile_path": "/19QpURecs6wDY9G46AmT7JnTchS.jpg"
+      },
+      {
+        "name": "Maaz Ali",
+        "character": "Hassan (voice)",
+        "profile_path": "/o9vhi2B5f0XfwYPNAG49nrhzDFW.jpg"
+      },
+      {
+        "name": "Paul Ben-Victor",
+        "character": "Coleridge (voice)",
+        "profile_path": "/qhxGWVppbnwF4YuzQQtIym5z99E.jpg"
+      },
+      {
+        "name": "Eilise Patton",
+        "character": "Janine (voice)",
+        "profile_path": "/2QPmKLkfs56ca7Qp4OaAUwdxUsk.jpg"
+      },
+      {
+        "name": "Senor Pablo",
+        "character": "Bush Pilot (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Savanah Joeckel",
+        "character": "Rescue Worker #1",
+        "profile_path": "/yMTCTH5F0U8o8GIItR6hGJVmavx.jpg"
+      },
+      {
+        "name": "Mark 'Cowboy' Schotz",
+        "character": "Rescue Worker #2",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1126166.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1126166
   },
   {
     "id": 37495,
@@ -8241,6 +8376,73 @@ const MOVIES = [
     "tmdb_id": 631843
   },
   {
+    "id": 1280672,
+    "title": "One of Them Days",
+    "year": "2025",
+    "overview": "Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa\u2019s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.",
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 6.7,
+    "runtime": 97,
+    "director": "Lawrence Lamont",
+    "cast": [
+      {
+        "name": "Keke Palmer",
+        "character": "Dreux",
+        "profile_path": "/f5i3WzdMt02mlfm9I9LHKRJtZ4J.jpg"
+      },
+      {
+        "name": "SZA",
+        "character": "Alyssa",
+        "profile_path": "/l6v3ewyk2RYoRVREp5fgIRYCx2l.jpg"
+      },
+      {
+        "name": "Joshua David Neal",
+        "character": "Keshawn",
+        "profile_path": "/8h0bJRTwaRxhvILAkbearNxqQwm.jpg"
+      },
+      {
+        "name": "Aziza Scott",
+        "character": "Berniece",
+        "profile_path": "/n4RvSPbL3Hul4F2o7uzY3lDK46X.jpg"
+      },
+      {
+        "name": "Patrick Cage",
+        "character": "Maniac",
+        "profile_path": "/7VyIICsE8ico2ID6hB4KZwCkX6J.jpg"
+      },
+      {
+        "name": "Katt Williams",
+        "character": "Lucky",
+        "profile_path": "/bMz1OCDMC0MyLob6KIf5X3MS23m.jpg"
+      },
+      {
+        "name": "Maude Apatow",
+        "character": "Bethany",
+        "profile_path": "/xWj49QAsGlC92YcguaEEYvoMEsg.jpg"
+      },
+      {
+        "name": "Vanessa Bell Calloway",
+        "character": "Mama Ruth",
+        "profile_path": "/6gJua6IKvhGrCTU1UzgRhOM9oyl.jpg"
+      },
+      {
+        "name": "Gabrielle Dennis",
+        "character": "Shayla",
+        "profile_path": "/rKhkx7aBAlGegA87JNedmhziUTN.jpg"
+      },
+      {
+        "name": "Janelle James",
+        "character": "Ruby",
+        "profile_path": "/vLiXGdCRCfWhamrPdUGYiBRZk6y.jpg"
+      }
+    ],
+    "poster": "assets/posters/1280672.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1280672
+  },
+  {
     "id": 872585,
     "title": "Oppenheimer",
     "year": "2023",
@@ -10766,6 +10968,73 @@ const MOVIES = [
     "tmdb_id": 600354
   },
   {
+    "id": 1213395,
+    "title": "The Firing Squad",
+    "year": "2024",
+    "overview": "Based on the true story of three Christian prisoners who face execution in a third world country and how their joy in Christ results in a stunning conclusion.",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 5.5,
+    "runtime": 93,
+    "director": "Timothy A. Chey",
+    "cast": [
+      {
+        "name": "James Barrington",
+        "character": "Peter Lone",
+        "profile_path": null
+      },
+      {
+        "name": "Kevin Sorbo",
+        "character": "Pastor Lynbrook",
+        "profile_path": "/a6rDi3tkNJwaVoP7VGbdGelwtYw.jpg"
+      },
+      {
+        "name": "Cuba Gooding Jr.",
+        "character": "Samuel Wilson",
+        "profile_path": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+      },
+      {
+        "name": "Tupua Ainu'u",
+        "character": "Captain Tanu",
+        "profile_path": null
+      },
+      {
+        "name": "Eric Roberts",
+        "character": "Adam Markman",
+        "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+      },
+      {
+        "name": "Edmund Kwan",
+        "character": "Liu Fat",
+        "profile_path": null
+      },
+      {
+        "name": "Alexander Cruzet",
+        "character": "Missionary",
+        "profile_path": null
+      },
+      {
+        "name": "Darren Cruz",
+        "character": "Prosecutor Setiawan",
+        "profile_path": "/1ZiRoAZcC7wEcdFUtZed7M4G6G5.jpg"
+      },
+      {
+        "name": "Christian Segura",
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Jonathan Nagy",
+        "character": "John Thornton",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1213395.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1213395
+  },
+  {
     "id": 522627,
     "title": "The Gentlemen",
     "year": "2020",
@@ -11036,6 +11305,74 @@ const MOVIES = [
     "poster": "assets/posters/8645.jpg",
     "media_type": "movie",
     "tmdb_id": 8645
+  },
+  {
+    "id": 1061117,
+    "title": "The Hatchet Wielding Hitchhiker",
+    "year": "2023",
+    "overview": "This shocking documentary chronicles a happy-go-lucky nomad's ascent to viral stardom and the steep downward spiral that resulted in his imprisonment.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "rating": 6.205,
+    "runtime": 87,
+    "director": "Colette Camden",
+    "cast": [
+      {
+        "name": "Caleb Lawrence McGillvary",
+        "character": "Self - Viral Internet Personality",
+        "profile_path": "/e5QczBBcMtyQDq9o7viQzLXXiYe.jpg"
+      },
+      {
+        "name": "Jessob Reisbeck",
+        "character": "Self - KMPH News Anchor",
+        "profile_path": null
+      },
+      {
+        "name": "Terry Woods",
+        "character": "Self - Cameraperson",
+        "profile_path": null
+      },
+      {
+        "name": "Brad Mulcahy",
+        "character": "Self - Human Interest Researcher, Jimmy Kimmel Live!",
+        "profile_path": null
+      },
+      {
+        "name": "Lisa Samsky",
+        "character": "Self - Reality TV Brand Manager",
+        "profile_path": null
+      },
+      {
+        "name": "Alex Aguirre",
+        "character": "Self - Cameraperson",
+        "profile_path": null
+      },
+      {
+        "name": "Jeff Stricker",
+        "character": "Self - Former Homicide Detective, Fresno County Sheriff's Office",
+        "profile_path": null
+      },
+      {
+        "name": "Gabriel Francisco",
+        "character": "Self - Singer for The Redcoats",
+        "profile_path": null
+      },
+      {
+        "name": "Tony Martin",
+        "character": "Self - Manager, Fulton 55",
+        "profile_path": null
+      },
+      {
+        "name": "Jeremy McGillvary Wolfe",
+        "character": "Self - Kai's Cousin",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1061117.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1061117
   },
   {
     "id": 273248,
