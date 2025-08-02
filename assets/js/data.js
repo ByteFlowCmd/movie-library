@@ -13813,6 +13813,1247 @@ const MOVIES = [
     "poster": "assets/posters/774531.jpg",
     "media_type": "movie",
     "tmdb_id": 774531
+  },
+  {
+    "id": 329,
+    "title": "Jurassic Park",
+    "year": "1993",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "genres": [
+      "Adventure",
+      "Science Fiction"
+    ],
+    "rating": 7.96,
+    "runtime": 127,
+    "director": "Steven Spielberg",
+    "cast": [
+      {
+        "name": "Sam Neill",
+        "character": "Grant",
+        "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Ellie",
+        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Malcolm",
+        "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+      },
+      {
+        "name": "Richard Attenborough",
+        "character": "Hammond",
+        "profile_path": "/6DRvtpCCmgDT90EKifGTDN1sXY2.jpg"
+      },
+      {
+        "name": "Bob Peck",
+        "character": "Muldoon",
+        "profile_path": "/lu4NA4mIEutkoPJ4AcKTg9vWVZe.jpg"
+      },
+      {
+        "name": "Martin Ferrero",
+        "character": "Gennaro",
+        "profile_path": "/exNDaap66dmsfBQkCf7vHGj3TBK.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Wu",
+        "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      },
+      {
+        "name": "Joseph Mazzello",
+        "character": "Tim",
+        "profile_path": "/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
+      },
+      {
+        "name": "Ariana Richards",
+        "character": "Lex",
+        "profile_path": "/vExv1HJqOjM1ui0rRiOxD3XNapf.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Arnold",
+        "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+      }
+    ],
+    "poster": "assets/posters/329.jpg",
+    "media_type": "movie",
+    "tmdb_id": 329
+  },
+  {
+    "id": 330,
+    "title": "The Lost World: Jurassic Park",
+    "year": "1997",
+    "overview": "Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "rating": 6.557,
+    "runtime": 129,
+    "director": "Steven Spielberg",
+    "cast": [
+      {
+        "name": "Jeff Goldblum",
+        "character": "Ian Malcolm",
+        "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+      },
+      {
+        "name": "Julianne Moore",
+        "character": "Sarah Harding",
+        "profile_path": "/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+      },
+      {
+        "name": "Pete Postlethwaite",
+        "character": "Roland Tembo",
+        "profile_path": "/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg"
+      },
+      {
+        "name": "Arliss Howard",
+        "character": "Peter Ludlow",
+        "profile_path": "/28bQJ5fqLem4Ml7x9LZ7QEnwaTa.jpg"
+      },
+      {
+        "name": "Richard Attenborough",
+        "character": "John Hammond",
+        "profile_path": "/6DRvtpCCmgDT90EKifGTDN1sXY2.jpg"
+      },
+      {
+        "name": "Vince Vaughn",
+        "character": "Nick Van Owen",
+        "profile_path": "/A9fJ88dfXZGpgFTnQIK0bOtjMrj.jpg"
+      },
+      {
+        "name": "Vanessa Lee Chester",
+        "character": "Kelly Curtis",
+        "profile_path": "/u5jWHnrCJO843KLHgkw1ZchbPOk.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "Dieter Stark",
+        "profile_path": "/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
+      },
+      {
+        "name": "Harvey Jason",
+        "character": "Ajay Sidhu",
+        "profile_path": "/xKcX26VDSRfIfe3F7TQHDQC69wY.jpg"
+      },
+      {
+        "name": "Richard Schiff",
+        "character": "Eddie Carr",
+        "profile_path": "/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+      }
+    ],
+    "poster": "assets/posters/330.jpg",
+    "media_type": "movie",
+    "tmdb_id": 330
+  },
+  {
+    "id": 331,
+    "title": "Jurassic Park III",
+    "year": "2001",
+    "overview": "In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn't long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "rating": 6.2,
+    "runtime": 92,
+    "director": "Joe Johnston",
+    "cast": [
+      {
+        "name": "Sam Neill",
+        "character": "Dr. Alan Grant",
+        "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+      },
+      {
+        "name": "William H. Macy",
+        "character": "Paul Kirby",
+        "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+      },
+      {
+        "name": "T\u00e9a Leoni",
+        "character": "Amanda Kirby",
+        "profile_path": "/vWijsKTlNs9bgKdUVgsr2w4msGo.jpg"
+      },
+      {
+        "name": "Alessandro Nivola",
+        "character": "Billy Brennan",
+        "profile_path": "/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+      },
+      {
+        "name": "Trevor Morgan",
+        "character": "Eric Kirby",
+        "profile_path": "/txZ59fUmdyyv5cowmFDu85HiBeF.jpg"
+      },
+      {
+        "name": "Michael Jeter",
+        "character": "Udesky",
+        "profile_path": "/9QUh9fO8A5Dt6AIl9jCd4ZIQxTp.jpg"
+      },
+      {
+        "name": "John Diehl",
+        "character": "Cooper",
+        "profile_path": "/fSaOexgc31Xmp4koMu0HvlkJMr4.jpg"
+      },
+      {
+        "name": "Bruce A. Young",
+        "character": "Nash",
+        "profile_path": "/6IFRI8plA00HKPcrubGYo9K23Kj.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Ellie",
+        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Taylor Nichols",
+        "character": "Mark",
+        "profile_path": "/2VnYWsBXx19tNvBX1diwfjdLkjU.jpg"
+      }
+    ],
+    "poster": "assets/posters/331.jpg",
+    "media_type": "movie",
+    "tmdb_id": 331
+  },
+  {
+    "id": 135397,
+    "title": "Jurassic World",
+    "year": "2015",
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "rating": 6.699,
+    "runtime": 124,
+    "director": "Colin Trevorrow",
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Owen",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Claire",
+        "profile_path": "/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+      },
+      {
+        "name": "Irrfan Khan",
+        "character": "Masrani",
+        "profile_path": "/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+      },
+      {
+        "name": "Vincent D'Onofrio",
+        "character": "Hoskins",
+        "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+      },
+      {
+        "name": "Ty Simpkins",
+        "character": "Gray",
+        "profile_path": "/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg"
+      },
+      {
+        "name": "Nick Robinson",
+        "character": "Zach",
+        "profile_path": "/mzYszYVPvTdirjkUueziWUHvye7.jpg"
+      },
+      {
+        "name": "Jake Johnson",
+        "character": "Lowery",
+        "profile_path": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+      },
+      {
+        "name": "Omar Sy",
+        "character": "Barry",
+        "profile_path": "/laNZay6AfEzvEvY1NUH9UFiSD0a.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Dr. Henry Wu",
+        "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      },
+      {
+        "name": "Judy Greer",
+        "character": "Karen",
+        "profile_path": "/qiwvGgbbgwiE8gA4oBQpFnTNzl2.jpg"
+      }
+    ],
+    "poster": "assets/posters/135397.jpg",
+    "media_type": "movie",
+    "tmdb_id": 135397
+  },
+  {
+    "id": 351286,
+    "title": "Jurassic World: Fallen Kingdom",
+    "year": "2018",
+    "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "rating": 6.54,
+    "runtime": 129,
+    "director": "J.A. Bayona",
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Owen Grady",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Claire Dearing",
+        "profile_path": "/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+      },
+      {
+        "name": "Rafe Spall",
+        "character": "Eli Mills",
+        "profile_path": "/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
+      },
+      {
+        "name": "Justice Smith",
+        "character": "Franklin Webb",
+        "profile_path": "/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+      },
+      {
+        "name": "Daniella Pineda",
+        "character": "Zia Rodriguez",
+        "profile_path": "/o8h5qbyy8A0zKTRN57YOlQOafyQ.jpg"
+      },
+      {
+        "name": "James Cromwell",
+        "character": "Benjamin Lockwood",
+        "profile_path": "/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+      },
+      {
+        "name": "Toby Jones",
+        "character": "Mr. Eversoll",
+        "profile_path": "/eOZe7EZ0Ojq8PaIn1HLVex5dZwc.jpg"
+      },
+      {
+        "name": "Ted Levine",
+        "character": "Ken Wheatley",
+        "profile_path": "/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Ian Malcolm",
+        "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Dr. Wu",
+        "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      }
+    ],
+    "poster": "assets/posters/351286.jpg",
+    "media_type": "movie",
+    "tmdb_id": 351286
+  },
+  {
+    "id": 507086,
+    "title": "Jurassic World Dominion",
+    "year": "2022",
+    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live\u2014and hunt\u2014alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "rating": 6.644,
+    "runtime": 147,
+    "director": "Colin Trevorrow",
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Owen Grady",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Claire Dearing",
+        "profile_path": "/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Ellie Sattler",
+        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Sam Neill",
+        "character": "Alan Grant",
+        "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Ian Malcolm",
+        "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+      },
+      {
+        "name": "DeWanda Wise",
+        "character": "Kayla Watts",
+        "profile_path": "/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+      },
+      {
+        "name": "Mamoudou Athie",
+        "character": "Ramsay Cole",
+        "profile_path": "/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
+      },
+      {
+        "name": "Isabella Sermon",
+        "character": "Maisie Lockwood / Young Charlotte Lockwood",
+        "profile_path": "/zPakMdPK3KSzhSHCZsLWnvTJVeQ.jpg"
+      },
+      {
+        "name": "Campbell Scott",
+        "character": "Lewis Dodgson",
+        "profile_path": "/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Henry Wu",
+        "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      }
+    ],
+    "poster": "assets/posters/507086.jpg",
+    "media_type": "movie",
+    "tmdb_id": 507086
+  },
+  {
+    "id": 1234821,
+    "title": "Jurassic World Rebirth",
+    "year": "2025",
+    "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "rating": 6.33,
+    "runtime": 134,
+    "director": "Gareth Edwards",
+    "cast": [
+      {
+        "name": "Scarlett Johansson",
+        "character": "Zora Bennett",
+        "profile_path": "/mjReG6rR7NPMEIWb1T4YWtV11ty.jpg"
+      },
+      {
+        "name": "Jonathan Bailey",
+        "character": "Dr. Henry Loomis",
+        "profile_path": "/kMtZtavkXIXYA0CnhaWqbNo6uFV.jpg"
+      },
+      {
+        "name": "Mahershala Ali",
+        "character": "Duncan Kincaid",
+        "profile_path": "/y9mf12rlZBlVJS6JYuCPpjTaLT6.jpg"
+      },
+      {
+        "name": "Rupert Friend",
+        "character": "Martin Krebs",
+        "profile_path": "/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg"
+      },
+      {
+        "name": "Manuel Garcia-Rulfo",
+        "character": "Reuben Delgado",
+        "profile_path": "/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg"
+      },
+      {
+        "name": "Luna Blaise",
+        "character": "Teresa Delgado",
+        "profile_path": "/y4GIzipFLyC90WcA27XRrokggYR.jpg"
+      },
+      {
+        "name": "David Iacono",
+        "character": "Xavier Dobbs",
+        "profile_path": "/3QTinnl70cvU3a22fLKCLk4Wpbx.jpg"
+      },
+      {
+        "name": "Audrina Miranda",
+        "character": "Isabella Delgado",
+        "profile_path": "/nkKWtafw6r7ekbjbHr3AmKNlybZ.jpg"
+      },
+      {
+        "name": "Bechir Sylvain",
+        "character": "LeClerc",
+        "profile_path": "/wpZZVoUR9IrtsdxsX6A7Rth6AXz.jpg"
+      },
+      {
+        "name": "Philippine Velge",
+        "character": "Nina",
+        "profile_path": "/gqTkAEIlcDisOnfuyusqZtBb1IG.jpg"
+      }
+    ],
+    "poster": "assets/posters/1234821.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1234821
+  },
+  {
+    "id": 170,
+    "title": "28 Days Later",
+    "year": "2002",
+    "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "rating": 7.2,
+    "runtime": 113,
+    "director": "Danny Boyle",
+    "cast": [
+      {
+        "name": "Cillian Murphy",
+        "character": "Jim",
+        "profile_path": "/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
+      },
+      {
+        "name": "Naomie Harris",
+        "character": "Selena",
+        "profile_path": "/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Frank",
+        "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+      },
+      {
+        "name": "Megan Burns",
+        "character": "Hannah",
+        "profile_path": "/xOZbpZH5E6YlUvsM2DDd6iYpsnk.jpg"
+      },
+      {
+        "name": "Christopher Eccleston",
+        "character": "Major Henry West",
+        "profile_path": "/v6ezjezzDo6xP2wlONO5ZzBciwl.jpg"
+      },
+      {
+        "name": "Noah Huntley",
+        "character": "Mark",
+        "profile_path": "/dAwfkCqQOFqADngR4vAE9lG7D8Z.jpg"
+      },
+      {
+        "name": "Luke Mably",
+        "character": "Private Clifton",
+        "profile_path": "/jTMAb14IELP0s2FjpFsM0Bo5rJk.jpg"
+      },
+      {
+        "name": "Stuart McQuarrie",
+        "character": "Seargent Farrell",
+        "profile_path": "/uK7JmNrNrHUvueKyIvNrN1SlHKO.jpg"
+      },
+      {
+        "name": "Ricci Harnett",
+        "character": "Corporal Mitchell",
+        "profile_path": "/93q0fCLqtMLlWrBPbpF4vgNmW8H.jpg"
+      },
+      {
+        "name": "Leo Bill",
+        "character": "Private Jones",
+        "profile_path": "/2x0eBDkpaZ4CGrI5H5w006YEoKk.jpg"
+      }
+    ],
+    "poster": "assets/posters/170.jpg",
+    "media_type": "movie",
+    "tmdb_id": 170
+  },
+  {
+    "id": 1562,
+    "title": "28 Weeks Later",
+    "year": "2007",
+    "overview": "Twenty-eight weeks after the spread of a deadly rage virus, the inhabitants of the British Isles have lost their battle against the onslaught, as the virus has killed everyone there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "rating": 6.6,
+    "runtime": 100,
+    "director": "Juan Carlos Fresnadillo",
+    "cast": [
+      {
+        "name": "Mackintosh Muggleton",
+        "character": "Andy Harris",
+        "profile_path": "/nWhYVUA0aVriQo6KTvW41tE8FKi.jpg"
+      },
+      {
+        "name": "Imogen Poots",
+        "character": "Tammy Harris",
+        "profile_path": "/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
+      },
+      {
+        "name": "Robert Carlyle",
+        "character": "Donald Harris",
+        "profile_path": "/yOdTewlmmvxqDaKbWJ7eAk0ULCf.jpg"
+      },
+      {
+        "name": "Rose Byrne",
+        "character": "Scarlet",
+        "profile_path": "/6YauDiiTBwRGC1xnwspPmNvPWUu.jpg"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Sergeant Doyle",
+        "profile_path": "/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+      },
+      {
+        "name": "Harold Perrineau",
+        "character": "Flynn",
+        "profile_path": "/bVSLpGUaislREbujmknOqadrxYM.jpg"
+      },
+      {
+        "name": "Catherine McCormack",
+        "character": "Alice",
+        "profile_path": "/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
+      },
+      {
+        "name": "Idris Elba",
+        "character": "General Stone",
+        "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+      },
+      {
+        "name": "Amanda Walker",
+        "character": "Sally",
+        "profile_path": "/g24boQMXNvZzWDKMPZFFs4x4h5f.jpg"
+      },
+      {
+        "name": "Shahid Ahmed",
+        "character": "Jacob",
+        "profile_path": "/dZLAEH5soXDhtC6devzHmPARkht.jpg"
+      }
+    ],
+    "poster": "assets/posters/1562.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1562
+  },
+  {
+    "id": 574475,
+    "title": "Final Destination Bloodlines",
+    "year": "2025",
+    "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "rating": 7.166,
+    "runtime": 110,
+    "director": "Adam B. Stein",
+    "cast": [
+      {
+        "name": "Kaitlyn Santa Juana",
+        "character": "Stefani Reyes",
+        "profile_path": "/75Tdc3wg9mklJHy5LEj8OMjcPw8.jpg"
+      },
+      {
+        "name": "Teo Briones",
+        "character": "Charlie Reyes",
+        "profile_path": "/cyykbm4Xht2Pi7brr88FcmS1LPb.jpg"
+      },
+      {
+        "name": "Rya Kihlstedt",
+        "character": "Darlene Campbell",
+        "profile_path": "/86ysgxNPkckt8jp715X79CdopB7.jpg"
+      },
+      {
+        "name": "Richard Harmon",
+        "character": "Erik",
+        "profile_path": "/OMc1TCt9GEJddnVI1o5BPIAoLV.jpg"
+      },
+      {
+        "name": "Owen Patrick Joyner",
+        "character": "Bobby",
+        "profile_path": "/eTZiPEsHZmmgQKEhC8HDf28sFmY.jpg"
+      },
+      {
+        "name": "Anna Lore",
+        "character": "Julia",
+        "profile_path": "/zNurGVtAxvVGnpgyG9kvBUG4nVf.jpg"
+      },
+      {
+        "name": "Alex Zahara",
+        "character": "Uncle Howard",
+        "profile_path": "/8T6k1sBrWyLI368Mk9iyYuwpqv2.jpg"
+      },
+      {
+        "name": "April Telek",
+        "character": "Aunt Brenda",
+        "profile_path": "/2D80ewwe0KVbsyXRFIVoyzKbIe.jpg"
+      },
+      {
+        "name": "Andrew Tinpo Lee",
+        "character": "Marty Reyes",
+        "profile_path": "/hod73YmXiv3ZfDCMoJwBYXPqPzZ.jpg"
+      },
+      {
+        "name": "Tony Todd",
+        "character": "William John Bludworth",
+        "profile_path": "/5fZ0hKcRtFIFdgBFSL40LVFylfW.jpg"
+      }
+    ],
+    "poster": "assets/posters/574475.jpg",
+    "media_type": "movie",
+    "tmdb_id": 574475
+  },
+  {
+    "id": 1011477,
+    "title": "Karate Kid: Legends",
+    "year": "2025",
+    "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition \u2013 but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": 7.2,
+    "runtime": 94,
+    "director": "Jonathan Entwistle",
+    "cast": [
+      {
+        "name": "Jackie Chan",
+        "character": "Mr. Han",
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+      },
+      {
+        "name": "Ben Wang",
+        "character": "Li Fong",
+        "profile_path": "/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg"
+      },
+      {
+        "name": "Joshua Jackson",
+        "character": "Victor Lipani",
+        "profile_path": "/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
+      },
+      {
+        "name": "Sadie Stanley",
+        "character": "Mia Lipani",
+        "profile_path": "/zfjr9nkUTWJ2EekyiWmYdxscrSJ.jpg"
+      },
+      {
+        "name": "Ming-Na Wen",
+        "character": "Dr. Fong",
+        "profile_path": "/eqCzFF83It56cUdjpskzvg8jgq.jpg"
+      },
+      {
+        "name": "Wyatt Oleff",
+        "character": "Alan",
+        "profile_path": "/9i2EuZz7Oh2zOV6Y2ijThW94MeM.jpg"
+      },
+      {
+        "name": "Aramis Knight",
+        "character": "Conor",
+        "profile_path": "/l1w7atqr6aJuxwzcM4soZ9ZWBJc.jpg"
+      },
+      {
+        "name": "Ralph Macchio",
+        "character": "Daniel LaRusso",
+        "profile_path": "/8zw5vcKlg05Is12Fww4QxRjO1f3.jpg"
+      },
+      {
+        "name": "Olivia Yang Avis",
+        "character": "Young Girl",
+        "profile_path": null
+      },
+      {
+        "name": "Aaron Wang",
+        "character": "Young Student",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1011477.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1011477
+  },
+  {
+    "id": 1253003,
+    "title": "Marching Powder",
+    "year": "2025",
+    "overview": "Middle-aged Jack, arrested for drugs, strives in six weeks to repair his marriage, curb a bullying in-law, and guide his stepbrother in the right direction, but all efforts fail as his life spirals further out of control.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Comedy",
+      "Romance"
+    ],
+    "rating": 6.188,
+    "runtime": 96,
+    "director": "Nick Love",
+    "cast": [
+      {
+        "name": "Danny Dyer",
+        "character": "Jack",
+        "profile_path": "/jkRpiR5pwkyeiIBdQF8og9D4reP.jpg"
+      },
+      {
+        "name": "Stephanie Leonidas",
+        "character": "Dani",
+        "profile_path": "/b1Cs2UI6FoPM64OZL2XgshIF241.jpg"
+      },
+      {
+        "name": "Calum MacNab",
+        "character": "Kenny Boy",
+        "profile_path": null
+      },
+      {
+        "name": "Arty Dyer",
+        "character": "JJ",
+        "profile_path": null
+      },
+      {
+        "name": "Bailey Patrick",
+        "character": "Vinny",
+        "profile_path": "/zWd5n2gEOmV0aeFHJtjsRtQodHq.jpg"
+      },
+      {
+        "name": "Lex Shrapnel",
+        "character": "Vaughn",
+        "profile_path": "/yO3DCrc8aOO8orKGn1QcuGHbIFv.jpg"
+      },
+      {
+        "name": "Janet Kumah",
+        "character": "Gloria",
+        "profile_path": null
+      },
+      {
+        "name": "Geoff Bell",
+        "character": "Ron",
+        "profile_path": "/8aNglSp8fyxZLaJ1YtkYrssBGgN.jpg"
+      },
+      {
+        "name": "Philippe Brenninkmeyer",
+        "character": "Judge",
+        "profile_path": "/cfYuU75rDWr5xnpodR7FLbzvv4o.jpg"
+      },
+      {
+        "name": "Dean Harrison",
+        "character": "Roger",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1253003.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1253003
+  },
+  {
+    "id": 575265,
+    "title": "Mission: Impossible - The Final Reckoning",
+    "year": "2025",
+    "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity \u2014 which has infiltrated intelligence networks all over the globe \u2014 with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "rating": 7.161,
+    "runtime": 170,
+    "director": "Christopher McQuarrie",
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Ethan Hunt",
+        "profile_path": "/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+      },
+      {
+        "name": "Hayley Atwell",
+        "character": "Grace",
+        "profile_path": "/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+      },
+      {
+        "name": "Ving Rhames",
+        "character": "Luther Stickell",
+        "profile_path": "/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg"
+      },
+      {
+        "name": "Simon Pegg",
+        "character": "Benji Dunn",
+        "profile_path": "/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+      },
+      {
+        "name": "Esai Morales",
+        "character": "Gabriel",
+        "profile_path": "/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+      },
+      {
+        "name": "Pom Klementieff",
+        "character": "Paris",
+        "profile_path": "/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+      },
+      {
+        "name": "Henry Czerny",
+        "character": "Kittridge",
+        "profile_path": "/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+      },
+      {
+        "name": "Holt McCallany",
+        "character": "Serling",
+        "profile_path": "/tnXVshv7CD9b53BRjYrLjVJvnDS.jpg"
+      },
+      {
+        "name": "Janet McTeer",
+        "character": "Walters",
+        "profile_path": "/kl8cHLOQbwLrBfMWtAwtP4hUXFk.jpg"
+      },
+      {
+        "name": "Nick Offerman",
+        "character": "General Sidney",
+        "profile_path": "/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+      }
+    ],
+    "poster": "assets/posters/575265.jpg",
+    "media_type": "movie",
+    "tmdb_id": 575265
+  },
+  {
+    "id": 1233413,
+    "title": "Sinners",
+    "year": "2025",
+    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "genres": [
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "rating": 7.561,
+    "runtime": 138,
+    "director": "Ryan Coogler",
+    "cast": [
+      {
+        "name": "Michael B. Jordan",
+        "character": "Smoke / Stack",
+        "profile_path": "/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "character": "Mary",
+        "profile_path": "/ev7Vs8XdjehzAxlHIw4YB6FDTsM.jpg"
+      },
+      {
+        "name": "Miles Caton",
+        "character": "Sammie Moore",
+        "profile_path": "/yff2DK1Sc2baRGHbSfcmwMwX8HW.jpg"
+      },
+      {
+        "name": "Jack O'Connell",
+        "character": "Remmick",
+        "profile_path": "/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
+      },
+      {
+        "name": "Wunmi Mosaku",
+        "character": "Annie",
+        "profile_path": "/yWM19CjCv66MqNkwHBp6Dpvtn9x.jpg"
+      },
+      {
+        "name": "Jayme Lawson",
+        "character": "Pearline",
+        "profile_path": "/8Qe9dYt0multkpd1QIhspD0W7yF.jpg"
+      },
+      {
+        "name": "Omar Benson Miller",
+        "character": "Cornbread",
+        "profile_path": "/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+      },
+      {
+        "name": "Delroy Lindo",
+        "character": "Delta Slim",
+        "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+      },
+      {
+        "name": "Li Jun Li",
+        "character": "Grace Chow",
+        "profile_path": "/n0Pys3SLZ56nM9FmBQYMVCbf9Jf.jpg"
+      },
+      {
+        "name": "Yao",
+        "character": "Bo Chow",
+        "profile_path": "/hRMKy14F6zvDnwM3nRGOCVMTDmQ.jpg"
+      }
+    ],
+    "poster": "assets/posters/1233413.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1233413
+  },
+  {
+    "id": 1087891,
+    "title": "The Amateur",
+    "year": "2025",
+    "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "rating": 6.976,
+    "runtime": 123,
+    "director": "James Hawes",
+    "cast": [
+      {
+        "name": "Rami Malek",
+        "character": "Heller",
+        "profile_path": "/ewr46CGOdsx5NzAJdIzEBz2yIQh.jpg"
+      },
+      {
+        "name": "Holt McCallany",
+        "character": "Director Moore",
+        "profile_path": "/tnXVshv7CD9b53BRjYrLjVJvnDS.jpg"
+      },
+      {
+        "name": "Danny Sapani",
+        "character": "Caleb",
+        "profile_path": "/h6goTpKA74Z6ePB2BAEEyQnGtCF.jpg"
+      },
+      {
+        "name": "Rachel Brosnahan",
+        "character": "Sarah",
+        "profile_path": "/vc0P2UslcxTbAJaBHqnSEAkCdiv.jpg"
+      },
+      {
+        "name": "Michael Stuhlbarg",
+        "character": "Schiller",
+        "profile_path": "/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Henderson",
+        "profile_path": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+      },
+      {
+        "name": "Julianne Nicholson",
+        "character": "Director O'Brien",
+        "profile_path": "/2RJ30pPSQQxteuoMjhN1FWTwxlZ.jpg"
+      },
+      {
+        "name": "Caitr\u00edona Balfe",
+        "character": "Inquiline",
+        "profile_path": "/6OrGRPRleWsouviVNUQpwC77X70.jpg"
+      },
+      {
+        "name": "Jon Bernthal",
+        "character": "The Bear",
+        "profile_path": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+      },
+      {
+        "name": "Adrian Martinez",
+        "character": "Carlos",
+        "profile_path": "/id70SLEpj9jelZZepJlapaXH8lR.jpg"
+      }
+    ],
+    "poster": "assets/posters/1087891.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1087891
+  },
+  {
+    "id": 1100988,
+    "title": "28 Years Later",
+    "year": "2025",
+    "overview": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "rating": 6.954,
+    "runtime": 115,
+    "director": "Danny Boyle",
+    "cast": [
+      {
+        "name": "Alfie Williams",
+        "character": "Spike",
+        "profile_path": "/wqfyAhZH6uCu5J4THsz2gJxsizB.jpg"
+      },
+      {
+        "name": "Jodie Comer",
+        "character": "Isla",
+        "profile_path": "/iOP2tHyxtPiUzIBHzxxehBy9Khu.jpg"
+      },
+      {
+        "name": "Aaron Taylor-Johnson",
+        "character": "Jamie",
+        "profile_path": "/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+      },
+      {
+        "name": "Ralph Fiennes",
+        "character": "Dr. Ian Kelson",
+        "profile_path": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+      },
+      {
+        "name": "Edvin Ryding",
+        "character": "Erik Sundqvist",
+        "profile_path": "/bzecSnoxJJrax5PjdDupdPivt1F.jpg"
+      },
+      {
+        "name": "Christopher Fulford",
+        "character": "Sam",
+        "profile_path": "/2n73aEyiU4fJprC2vHIf0M7YJ62.jpg"
+      },
+      {
+        "name": "Stella Gonet",
+        "character": "Jenny",
+        "profile_path": "/cUmDfX4fNvtAl5199HUc29ZDsAc.jpg"
+      },
+      {
+        "name": "Chi Lewis-Parry",
+        "character": "'The Alpha'/'Samson'",
+        "profile_path": "/eS5mcqDMYtwHJ8lnwXkIjkz88WO.jpg"
+      },
+      {
+        "name": "Jack O'Connell",
+        "character": "Jimmy Crystal",
+        "profile_path": "/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
+      },
+      {
+        "name": "Rocco Haynes",
+        "character": "Young Jimmy",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1100988.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1100988
+  },
+  {
+    "id": 1263256,
+    "title": "Happy Gilmore 2",
+    "year": "2025",
+    "overview": "Happy Gilmore isn't done with golf \u2014 not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 6.749,
+    "runtime": 118,
+    "director": "Kyle Newacheck",
+    "cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Happy Gilmore",
+        "profile_path": "/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+      },
+      {
+        "name": "Julie Bowen",
+        "character": "Virginia",
+        "profile_path": "/5ewqnbPAY0EzZObGHIKU4VsCanD.jpg"
+      },
+      {
+        "name": "Christopher McDonald",
+        "character": "Shooter McGavin",
+        "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+      },
+      {
+        "name": "Benny Safdie",
+        "character": "Frank Manatee",
+        "profile_path": "/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
+      },
+      {
+        "name": "Ben Stiller",
+        "character": "Hal L",
+        "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+      },
+      {
+        "name": "Bad Bunny",
+        "character": "Oscar Mej\u00edas",
+        "profile_path": "/9W0wolhRLqKBpL8afcZnp2Xseu0.jpg"
+      },
+      {
+        "name": "John Daly",
+        "character": "John Daly",
+        "profile_path": "/28fGFbdeKIn9B0cJuo3oVqHxnEc.jpg"
+      },
+      {
+        "name": "Dennis Dugan",
+        "character": "Doug Thompson",
+        "profile_path": "/fnAaknflGp2Phr1Q0dWkA41ohNO.jpg"
+      },
+      {
+        "name": "Haley Joel Osment",
+        "character": "Billy Jenkins",
+        "profile_path": "/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+      },
+      {
+        "name": "Lavell Crawford",
+        "character": "Slim Peterson",
+        "profile_path": "/mvDs3bWKicnC98nGJNqrm4NaALd.jpg"
+      }
+    ],
+    "poster": "assets/posters/1263256.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1263256
+  },
+  {
+    "id": 1013601,
+    "title": "The Alto Knights",
+    "year": "2025",
+    "overview": "Two of New York's most notorious organized crime bosses, Frank Costello and Vito Genovese, vie for control of the city's streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that will reshape the Mafia (and America) forever.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "rating": 6.3,
+    "runtime": 122,
+    "director": "Barry Levinson",
+    "cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Vito Genovese / Frank Costello",
+        "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Debra Messing",
+        "character": "Bobbie Costello",
+        "profile_path": "/7YmWcP0VmO1AIoviqXoREMbjQ2V.jpg"
+      },
+      {
+        "name": "Cosmo Jarvis",
+        "character": "Vincent Gigante",
+        "profile_path": "/1kgghZ558CxZCJip5ufO6BAqUGp.jpg"
+      },
+      {
+        "name": "Kathrine Narducci",
+        "character": "Anna Genovese",
+        "profile_path": "/bOxhHtEtmhdfVmnL0KyG4SPDlwJ.jpg"
+      },
+      {
+        "name": "Michael Rispoli",
+        "character": "Albert Anastasia",
+        "profile_path": "/4rtCKJTtPq9cSHFQqZSbyCLLWCO.jpg"
+      },
+      {
+        "name": "Michael Adler",
+        "character": "Senator Tobey",
+        "profile_path": "/aYMEJIL6XbpxSyFTFMqZhu2nmUz.jpg"
+      },
+      {
+        "name": "Ed Amatrudo",
+        "character": "Rudolph Halley",
+        "profile_path": "/425tSvu0USMcnjLiXnKr4XoeexF.jpg"
+      },
+      {
+        "name": "Joe Bacino",
+        "character": "Joe Profaci",
+        "profile_path": "/p1V6C3xcZ9R0U6uEfu3eDwEfKhF.jpg"
+      },
+      {
+        "name": "Anthony J. Gallo",
+        "character": "Tommy Lucchese",
+        "profile_path": "/8Ht6ZPzBM1xGu9NdUsTVCy9VzyH.jpg"
+      },
+      {
+        "name": "Wallace Langham",
+        "character": "Senator Estes Kefauver",
+        "profile_path": "/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
+      }
+    ],
+    "poster": "assets/posters/1013601.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1013601
   }
 ];
 const TV_SHOWS = [
@@ -16551,6 +17792,210 @@ const TV_SHOWS = [
     "poster": "assets/posters/73586.jpg",
     "media_type": "tv",
     "tmdb_id": 73586
+  },
+  {
+    "id": 79299,
+    "title": "A Very English Scandal",
+    "year": "2018",
+    "overview": "It's the late 1960s, homosexuality has only just been legalised and Jeremy Thorpe, the leader of the Liberal party, has a secret he's desperate to hide.",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.09,
+    "runtime": 60,
+    "director": "John Preston, Russell T Davies",
+    "cast": [
+      {
+        "name": "Hugh Grant",
+        "character": "Jeremy Thorpe",
+        "profile_path": "/hsSfxSHzkKJ6ZKq1Ofngcp7aAnT.jpg"
+      },
+      {
+        "name": "Ben Whishaw",
+        "character": "Norman Scott",
+        "profile_path": "/2GBtQ6scGeSHkX1urOP1EJbmksx.jpg"
+      },
+      {
+        "name": "Alex Jennings",
+        "character": "Peter Bessell",
+        "profile_path": "/8U9T8b2V4AWlENgSmuy4SIAckM9.jpg"
+      },
+      {
+        "name": "Monica Dolan",
+        "character": "Marion Thorpe",
+        "profile_path": "/lR61knP6P7ESFYUapWNhG22TA3s.jpg"
+      },
+      {
+        "name": "Jonathan Hyde",
+        "character": "David Napley",
+        "profile_path": "/iNLNW7tH8GRpCP9INLXGmwVU1hK.jpg"
+      },
+      {
+        "name": "Jason Watkins",
+        "character": "Emlyn Hooson",
+        "profile_path": "/jGQOdzZ1sCz7WKtYSROMWv4menu.jpg"
+      },
+      {
+        "name": "Patricia Hodge",
+        "character": "Ursula Thorpe",
+        "profile_path": "/e9IwLFI1kB9hWCyH47S2GDkkpp6.jpg"
+      },
+      {
+        "name": "Naomi Battrick",
+        "character": "Diana Stainton",
+        "profile_path": "/jZedmlK22j9B5hzjeHfizx9A0gR.jpg"
+      },
+      {
+        "name": "David Bamber",
+        "character": "Lord Arran",
+        "profile_path": "/1J5smU02X7125OgIyOLH6TVenDM.jpg"
+      },
+      {
+        "name": "Karl Farrer",
+        "character": "DS Davey Greenough",
+        "profile_path": "/jGoptAD2twZ3dwI3q8GHNfJ3Tgl.jpg"
+      }
+    ],
+    "poster": "assets/posters/79299.jpg",
+    "media_type": "tv",
+    "tmdb_id": 79299
+  },
+  {
+    "id": 1399,
+    "title": "Game of Thrones",
+    "year": "2011",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "rating": 8.456,
+    "runtime": 0,
+    "director": "David Benioff, D. B. Weiss",
+    "cast": [
+      {
+        "name": "Peter Dinklage",
+        "character": "Tyrion 'The Halfman' Lannister",
+        "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+      },
+      {
+        "name": "Kit Harington",
+        "character": "Jon Snow",
+        "profile_path": "/iCFQAQqb0SgvxEdVYhJtZLhM9kp.jpg"
+      },
+      {
+        "name": "Nikolaj Coster-Waldau",
+        "character": "Sir Jaime 'Kingslayer' Lannister",
+        "profile_path": "/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
+      },
+      {
+        "name": "Lena Headey",
+        "character": "Cersei Lannister",
+        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+      },
+      {
+        "name": "Emilia Clarke",
+        "character": "Daenerys Targaryen",
+        "profile_path": "/58ZhsLDVFgxx6fePJQ2K8RVpc1s.jpg"
+      },
+      {
+        "name": "Liam Cunningham",
+        "character": "Davos Seaworth",
+        "profile_path": "/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg"
+      },
+      {
+        "name": "Maisie Williams",
+        "character": "Arya Stark",
+        "profile_path": "/5RjD4dDpRDAhalFtvcUj7zdLWYB.jpg"
+      },
+      {
+        "name": "Isaac Hempstead Wright",
+        "character": "Brandon 'Bran' Stark",
+        "profile_path": "/f3kTscNB4XVhEBHqmGWSf853UtW.jpg"
+      },
+      {
+        "name": "Sophie Turner",
+        "character": "Sansa Stark",
+        "profile_path": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+      },
+      {
+        "name": "John Bradley",
+        "character": "Samwell 'Sam' Tarly",
+        "profile_path": "/lQuxVtH8GkSLSZQhpmSdIi88DSF.jpg"
+      }
+    ],
+    "poster": "assets/posters/1399.jpg",
+    "media_type": "tv",
+    "tmdb_id": 1399
+  },
+  {
+    "id": 71694,
+    "title": "Snowfall",
+    "year": "2017",
+    "overview": "Los Angeles. 1983. A storm is coming and its name is crack. Set against the infancy of the crack cocaine epidemic and its ultimate radical impact on the culture as we know it, the story follows numerous characters on a violent collision course.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating": 8.36,
+    "runtime": 0,
+    "director": "Eric Amadio, Dave Andron, John Singleton",
+    "cast": [
+      {
+        "name": "Damson Idris",
+        "character": "Franklin Saint",
+        "profile_path": "/4jKOg4jCqNwXyrYd3coqgmCqkMy.jpg"
+      },
+      {
+        "name": "Carter Hudson",
+        "character": "Teddy McDonald",
+        "profile_path": "/iW6Pk9aFaC5o86IxpViI1OTMZed.jpg"
+      },
+      {
+        "name": "Sergio Peris-Mencheta",
+        "character": "Gustavo 'El Oso' Zapata",
+        "profile_path": "/uPE1n0JpbicJ5gm2fNarbsx6Nc4.jpg"
+      },
+      {
+        "name": "Michael Hyatt",
+        "character": "Cissy Saint",
+        "profile_path": "/zXJ1mV2NlZuWYgTj8eTuUFhCgp5.jpg"
+      },
+      {
+        "name": "Amin Joseph",
+        "character": "Jerome Saint",
+        "profile_path": "/kTr5Lf7NUullsj0g1klTOScwzRp.jpg"
+      },
+      {
+        "name": "Angela Lewis",
+        "character": "Louanne 'Louie' Jones-Saint",
+        "profile_path": "/5edEvw6KxxQcVJ4hT1zogwiyZDU.jpg"
+      },
+      {
+        "name": "Isaiah John",
+        "character": "Leon Simmons",
+        "profile_path": "/mKCuf0BZFsBUYnSTPTHaUtxmKa0.jpg"
+      },
+      {
+        "name": "Devyn A. Tyler",
+        "character": "Veronique Turner",
+        "profile_path": "/pxaSlugqt0Xea801qneVSBAK5g7.jpg"
+      },
+      {
+        "name": "Alejandro Edda",
+        "character": "Ruben",
+        "profile_path": "/zqCvFCY9kWd3AkVv5Brwi7pZJ9W.jpg"
+      },
+      {
+        "name": "Gail Bean",
+        "character": "Wanda Bell",
+        "profile_path": "/8Ez5A8hoDwTLiWXZ7xSNlJAvCu7.jpg"
+      }
+    ],
+    "poster": "assets/posters/71694.jpg",
+    "media_type": "tv",
+    "tmdb_id": 71694
   }
 ];
 
