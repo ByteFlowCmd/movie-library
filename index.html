@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ship's Movie Library</title>
+    <title>Eurus' Movie Library</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -162,8 +162,8 @@
 
     <!-- Modal -->
     <div id="modal" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50 hidden">
-        <div class="bg-white dark:bg-netflix-gray rounded-lg max-w-4xl w-full max-h-[90vh] overflow-y-auto animate-slide-up">
-            <div id="modalContent">
+        <div class="bg-white dark:bg-netflix-gray rounded-lg max-w-4xl w-full max-h-[95vh] overflow-hidden animate-slide-up flex flex-col">
+            <div id="modalContent" class="overflow-y-auto flex-1">
                 <!-- Modal content will be populated by JavaScript -->
             </div>
         </div>
