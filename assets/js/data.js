@@ -16710,6 +16710,322 @@ const MOVIES = [
     "poster": "assets/posters/862552.jpg",
     "media_type": "movie",
     "tmdb_id": 862552
+  },
+  {
+    "id": 1078605,
+    "title": "Weapons",
+    "year": "2025",
+    "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "rating": 7.363,
+    "runtime": 129,
+    "director": "Zach Cregger",
+    "cast": [
+      {
+        "name": "Julia Garner",
+        "character": "Justine",
+        "profile_path": "/ud1RXbvW70J89iqeic7no8olxvb.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Archer",
+        "profile_path": "/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+      },
+      {
+        "name": "Alden Ehrenreich",
+        "character": "Paul",
+        "profile_path": "/bx86TPUmeHp0QkijQb16r2qIwEr.jpg"
+      },
+      {
+        "name": "Austin Abrams",
+        "character": "James",
+        "profile_path": "/9pSpSAk9NsYC5puqAVsmSK3OSeu.jpg"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Marcus",
+        "profile_path": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+      },
+      {
+        "name": "Amy Madigan",
+        "character": "Gladys",
+        "profile_path": "/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg"
+      },
+      {
+        "name": "Cary Christopher",
+        "character": "Alex",
+        "profile_path": "/id5UrEyjXvr1KgQB4pnmD8JpSUR.jpg"
+      },
+      {
+        "name": "Toby Huss",
+        "character": "Captain Ed",
+        "profile_path": "/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+      },
+      {
+        "name": "Whitmer Thomas",
+        "character": "Alex's Dad",
+        "profile_path": "/ivz8rehM5WFKsUpDSULUFgPYyze.jpg"
+      },
+      {
+        "name": "Callie Schuttera",
+        "character": "Alex's Mom",
+        "profile_path": "/rStZupJY2T9bRr8Y1kg4CEgnHUX.jpg"
+      }
+    ],
+    "poster": "assets/posters/1078605.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1078605
+  },
+  {
+    "id": 507086,
+    "title": "Jurassic World Dominion",
+    "year": "2022",
+    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live\u2014and hunt\u2014alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "rating": 6.644,
+    "runtime": 147,
+    "director": "Colin Trevorrow",
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Owen Grady",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Claire Dearing",
+        "profile_path": "/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Ellie Sattler",
+        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Sam Neill",
+        "character": "Alan Grant",
+        "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Ian Malcolm",
+        "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+      },
+      {
+        "name": "DeWanda Wise",
+        "character": "Kayla Watts",
+        "profile_path": "/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+      },
+      {
+        "name": "Mamoudou Athie",
+        "character": "Ramsay Cole",
+        "profile_path": "/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
+      },
+      {
+        "name": "Isabella Sermon",
+        "character": "Maisie Lockwood / Young Charlotte Lockwood",
+        "profile_path": "/zPakMdPK3KSzhSHCZsLWnvTJVeQ.jpg"
+      },
+      {
+        "name": "Campbell Scott",
+        "character": "Lewis Dodgson",
+        "profile_path": "/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Henry Wu",
+        "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      }
+    ],
+    "poster": "assets/posters/507086.jpg",
+    "media_type": "movie",
+    "tmdb_id": 507086
+  },
+  {
+    "id": 1550785,
+    "title": "My Father, the BTK Killer",
+    "year": "2025",
+    "overview": "Raised by a man leading a monstrous double life, the daughter of the BTK serial killer shares her chilling story.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "rating": 6.68,
+    "runtime": 94,
+    "director": "Skye Borgman",
+    "cast": [
+      {
+        "name": "Kerri Rawson",
+        "character": "Self - Daughter of BTK",
+        "profile_path": null
+      },
+      {
+        "name": "Dennis Rader",
+        "character": "Self - Serial Killer (archive footage)",
+        "profile_path": "/xymUEpgJai8fUmfw1csXVPJQPt1.jpg"
+      },
+      {
+        "name": "Richard LaMunyon",
+        "character": "Self - Former Chief of Police, Wichita",
+        "profile_path": null
+      },
+      {
+        "name": "Larry Hatteberg",
+        "character": "Self - Former Journalist, KAKE TV Wichita",
+        "profile_path": null
+      },
+      {
+        "name": "Andrea Rogers",
+        "character": "Self - Kerri's Childhood Friend",
+        "profile_path": "/78Ic9N0caslp4lamIh84LxkicuZ.jpg"
+      },
+      {
+        "name": "Bill Hirschman",
+        "character": "Self - Former Journalist, The Wichita Eagle",
+        "profile_path": null
+      },
+      {
+        "name": "James Reed",
+        "character": "Self - Osage County Sheriff's Office",
+        "profile_path": null
+      },
+      {
+        "name": "Susan Peters",
+        "character": "Self - Former Anchor, KAKE TV Wichita",
+        "profile_path": null
+      },
+      {
+        "name": "Ray Lundin",
+        "character": "Self - Former Agent, Kansas Bureau of Investigation",
+        "profile_path": null
+      },
+      {
+        "name": "Rita Sheffield",
+        "character": "Self - Kerri's Childhood Friend",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1550785.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1550785
+  },
+  {
+    "id": 1527153,
+    "title": "Sharon & Ozzy Osbourne: Coming Home",
+    "year": "2025",
+    "overview": "Follow the final three years of Ozzy Osbourne's life as he and Sharon plan a return home after 25 years in LA and prepare for the ultimate farewell gig.",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "rating": 8.8,
+    "runtime": 59,
+    "director": "Paula Wittig",
+    "cast": [
+      {
+        "name": "Ozzy Osbourne",
+        "character": "Self",
+        "profile_path": "/e6xwFbTYKA0JJmkZZmvUv08hAqL.jpg"
+      },
+      {
+        "name": "Sharon Osbourne",
+        "character": "Self",
+        "profile_path": "/xVDX3uc1TzlsmkBkWobXtU2NNQg.jpg"
+      },
+      {
+        "name": "Kelly Osbourne",
+        "character": "Self",
+        "profile_path": "/l1wpUPSH2BydVGXrE093YGztgoZ.jpg"
+      },
+      {
+        "name": "Jack Osbourne",
+        "character": "Self",
+        "profile_path": "/wfFwjLaRGmgLDzTyVV7pgJwu3K5.jpg"
+      },
+      {
+        "name": "Billy Morrison",
+        "character": "Self",
+        "profile_path": "/40d7OevT3384GeH7sUp303yTseK.jpg"
+      }
+    ],
+    "poster": "assets/posters/1527153.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1527153
+  },
+  {
+    "id": 1007734,
+    "title": "Nobody 2",
+    "year": "2025",
+    "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 7.081,
+    "runtime": 89,
+    "director": "Timo Tjahjanto",
+    "cast": [
+      {
+        "name": "Bob Odenkirk",
+        "character": "Hutch Mansell",
+        "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        "name": "Connie Nielsen",
+        "character": "Becca Mansell",
+        "profile_path": "/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg"
+      },
+      {
+        "name": "John Ortiz",
+        "character": "Wyatt Martin",
+        "profile_path": "/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+      },
+      {
+        "name": "Colin Hanks",
+        "character": "Sheriff Abel",
+        "profile_path": "/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
+      },
+      {
+        "name": "RZA",
+        "character": "Harry Mansell",
+        "profile_path": "/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
+      },
+      {
+        "name": "Colin Salmon",
+        "character": "The Barber",
+        "profile_path": "/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+      },
+      {
+        "name": "Christopher Lloyd",
+        "character": "David Mansell",
+        "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+      },
+      {
+        "name": "Sharon Stone",
+        "character": "Lendina",
+        "profile_path": "/AqwJtz1uoXVbYBfPq1vT3dLL0ce.jpg"
+      },
+      {
+        "name": "Daniel Bernhardt",
+        "character": "Kartoush",
+        "profile_path": "/b59qhg5VJOCypx9eMXrXHAjauLd.jpg"
+      },
+      {
+        "name": "Paisley Cadorath",
+        "character": "Sammy Mansell",
+        "profile_path": "/4fbnxs6x5I2f4lSkegDP021ISTJ.jpg"
+      }
+    ],
+    "poster": "assets/posters/1007734.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1007734
   }
 ];
 const TV_SHOWS = [
@@ -20890,6 +21206,287 @@ const TV_SHOWS = [
     "poster": "assets/posters/120911.jpg",
     "media_type": "tv",
     "tmdb_id": 120911
+  },
+  {
+    "id": 286801,
+    "title": "Monster: The Ed Gein Story",
+    "year": "2025",
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating": 7.383,
+    "runtime": 0,
+    "director": "Ian Brennan",
+    "cast": [
+      {
+        "name": "Charlie Hunnam",
+        "character": "Ed Gein",
+        "profile_path": "/nw9LsDNsDkPwotG7YpxRNBXmaCQ.jpg"
+      },
+      {
+        "name": "Suzanna Son",
+        "character": "Adeline Watkins",
+        "profile_path": "/85ROAQ2XoXWFGWOFk78GGCCZTGv.jpg"
+      },
+      {
+        "name": "Vicky Krieps",
+        "character": "Ilse Koch",
+        "profile_path": "/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+      },
+      {
+        "name": "Laurie Metcalf",
+        "character": "Augusta Gein",
+        "profile_path": "/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
+      }
+    ],
+    "poster": "assets/posters/286801.jpg",
+    "media_type": "tv",
+    "tmdb_id": 286801
+  },
+  {
+    "id": 1418,
+    "title": "The Big Bang Theory",
+    "year": "2007",
+    "overview": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.911,
+    "runtime": 22,
+    "director": "Chuck Lorre, Bill Prady",
+    "cast": [
+      {
+        "name": "Johnny Galecki",
+        "character": "Leonard Hofstadter",
+        "profile_path": "/5zTHvvKpR9VUkzHxGnbrdB51Kyc.jpg"
+      },
+      {
+        "name": "Jim Parsons",
+        "character": "Sheldon Cooper",
+        "profile_path": "/gbFlludUECPpy70K4tZLbOwmoUr.jpg"
+      },
+      {
+        "name": "Kaley Cuoco",
+        "character": "Penny",
+        "profile_path": "/jZdgOfncpYjks4AFd6ndYIwpAez.jpg"
+      },
+      {
+        "name": "Simon Helberg",
+        "character": "Howard Wolowitz",
+        "profile_path": "/9tLEc6N4lImJX4FohLWHRHFbFXD.jpg"
+      },
+      {
+        "name": "Kunal Nayyar",
+        "character": "Rajesh Koothrappali",
+        "profile_path": "/4e2zbGYxBTHHzDDGKo5SnNyOUx3.jpg"
+      },
+      {
+        "name": "Melissa Rauch",
+        "character": "Bernadette Rostenkowski",
+        "profile_path": "/xOXtwPwYskh42BxIGu09ocDUIX7.jpg"
+      },
+      {
+        "name": "Mayim Bialik",
+        "character": "Amy Farrah Fowler",
+        "profile_path": "/kPsafWVc5H565iTuwS85LtDvvsf.jpg"
+      }
+    ],
+    "poster": "assets/posters/1418.jpg",
+    "media_type": "tv",
+    "tmdb_id": 1418
+  },
+  {
+    "id": 66732,
+    "title": "Stranger Things",
+    "year": "2016",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "rating": 8.593,
+    "runtime": 0,
+    "director": "Ross Duffer, Matt Duffer",
+    "cast": [
+      {
+        "name": "Millie Bobby Brown",
+        "character": "Jane 'Eleven' Hopper",
+        "profile_path": "/3acTGpxrCxdJ1sB9fnw6EpVjWBj.jpg"
+      },
+      {
+        "name": "Finn Wolfhard",
+        "character": "Mike Wheeler",
+        "profile_path": "/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
+      },
+      {
+        "name": "Noah Schnapp",
+        "character": "Will Byers",
+        "profile_path": "/PoyZVIeEK14NfBDQXCBbsWdHQY.jpg"
+      },
+      {
+        "name": "Gaten Matarazzo",
+        "character": "Dustin Henderson",
+        "profile_path": "/gfxSa9pwafFEyzok6N4sIVbJLS.jpg"
+      },
+      {
+        "name": "Caleb McLaughlin",
+        "character": "Lucas Sinclair",
+        "profile_path": "/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+      },
+      {
+        "name": "Sadie Sink",
+        "character": "Max Mayfield",
+        "profile_path": "/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg"
+      },
+      {
+        "name": "David Harbour",
+        "character": "Jim Hopper",
+        "profile_path": "/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+      },
+      {
+        "name": "Winona Ryder",
+        "character": "Joyce Byers",
+        "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+      },
+      {
+        "name": "Natalia Dyer",
+        "character": "Nancy Wheeler",
+        "profile_path": "/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
+      },
+      {
+        "name": "Joe Keery",
+        "character": "Steve Harrington",
+        "profile_path": "/ayIAVLMfZGEGIFwAo3pPnY7p59.jpg"
+      }
+    ],
+    "poster": "assets/posters/66732.jpg",
+    "media_type": "tv",
+    "tmdb_id": 66732
+  },
+  {
+    "id": 1399,
+    "title": "Game of Thrones",
+    "year": "2011",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "rating": 8.456,
+    "runtime": 0,
+    "director": "David Benioff, D. B. Weiss",
+    "cast": [
+      {
+        "name": "Peter Dinklage",
+        "character": "Tyrion 'The Halfman' Lannister",
+        "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+      },
+      {
+        "name": "Kit Harington",
+        "character": "Jon Snow",
+        "profile_path": "/iCFQAQqb0SgvxEdVYhJtZLhM9kp.jpg"
+      },
+      {
+        "name": "Nikolaj Coster-Waldau",
+        "character": "Sir Jaime 'Kingslayer' Lannister",
+        "profile_path": "/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
+      },
+      {
+        "name": "Lena Headey",
+        "character": "Cersei Lannister",
+        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+      },
+      {
+        "name": "Emilia Clarke",
+        "character": "Daenerys Targaryen",
+        "profile_path": "/58ZhsLDVFgxx6fePJQ2K8RVpc1s.jpg"
+      },
+      {
+        "name": "Liam Cunningham",
+        "character": "Davos Seaworth",
+        "profile_path": "/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg"
+      },
+      {
+        "name": "Maisie Williams",
+        "character": "Arya Stark",
+        "profile_path": "/5RjD4dDpRDAhalFtvcUj7zdLWYB.jpg"
+      },
+      {
+        "name": "Isaac Hempstead Wright",
+        "character": "Brandon 'Bran' Stark",
+        "profile_path": "/f3kTscNB4XVhEBHqmGWSf853UtW.jpg"
+      },
+      {
+        "name": "Sophie Turner",
+        "character": "Sansa Stark",
+        "profile_path": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+      },
+      {
+        "name": "John Bradley",
+        "character": "Samwell 'Sam' Tarly",
+        "profile_path": "/lQuxVtH8GkSLSZQhpmSdIi88DSF.jpg"
+      }
+    ],
+    "poster": "assets/posters/1399.jpg",
+    "media_type": "tv",
+    "tmdb_id": 1399
+  },
+  {
+    "id": 120399,
+    "title": "Shameless",
+    "year": "2021",
+    "overview": "Is it SHAMELESS to feel like having a lot of sex when you are a young woman? In DR3\u2019s new reportage series, we follow three strong young women who defy prejudice and shame and set their sexual desires free. Here it is Inger, Asmita and Sofie who \"take and give\" as the most natural. They refuse to degrade female sexuality into something that should be overlooked, suppressed, or felt wrong. We open the door to the most intimate of their lives and experience all that is not normally said out loud. For Inger, Asmita and Sofie insist that it should be possible to have an open sex life as a woman in 2021 without being labeled \"cheap\".",
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 2.0,
+    "runtime": 0,
+    "director": "",
+    "cast": [],
+    "poster": "assets/posters/120399.jpg",
+    "media_type": "tv",
+    "tmdb_id": 120399
+  },
+  {
+    "id": 2316,
+    "title": "The Office",
+    "year": "2005",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 8.6,
+    "runtime": 0,
+    "director": "Greg Daniels",
+    "cast": [
+      {
+        "name": "Rainn Wilson",
+        "character": "Dwight Schrute",
+        "profile_path": "/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
+      },
+      {
+        "name": "John Krasinski",
+        "character": "Jim Halpert",
+        "profile_path": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+      },
+      {
+        "name": "Jenna Fischer",
+        "character": "Pam Beesly",
+        "profile_path": "/mfKRbOHTPNi9jFSthtjl4FGVZv6.jpg"
+      },
+      {
+        "name": "Ed Helms",
+        "character": "Andy Bernard",
+        "profile_path": "/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+      }
+    ],
+    "poster": "assets/posters/2316.jpg",
+    "media_type": "tv",
+    "tmdb_id": 2316
   }
 ];
 
