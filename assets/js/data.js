@@ -687,6 +687,60 @@ const MOVIES = [
     "tmdb_id": 448776
   },
   {
+    "id": 447332,
+    "title": "A Quiet Place",
+    "year": "2018",
+    "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Science Fiction"
+    ],
+    "rating": 7.393,
+    "runtime": 91,
+    "director": "John Krasinski",
+    "cast": [
+      {
+        "name": "Emily Blunt",
+        "character": "Evelyn Abbott",
+        "profile_path": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+      },
+      {
+        "name": "John Krasinski",
+        "character": "Lee Abbott",
+        "profile_path": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+      },
+      {
+        "name": "Millicent Simmonds",
+        "character": "Regan Abbott",
+        "profile_path": "/3iDxFc3e2PExQgP9zxDUzXOwzrW.jpg"
+      },
+      {
+        "name": "Noah Jupe",
+        "character": "Marcus Abbott",
+        "profile_path": "/sOsr4SgcnVqpLofasvy0B6dxPuf.jpg"
+      },
+      {
+        "name": "Cade Woodward",
+        "character": "Beau Abbott",
+        "profile_path": "/6tXfrNe9ilHeAby6Eg5tNvq5MGY.jpg"
+      },
+      {
+        "name": "Leon Russom",
+        "character": "Man in the Woods",
+        "profile_path": "/lLBJc5ThJEMafNUlsQyYQ7x1efg.jpg"
+      },
+      {
+        "name": "Rhoda Pell",
+        "character": "Old Man's Dead Wife (uncredited)",
+        "profile_path": "/bpZOS9oDeawi9zveJ3Gzw5P5A3j.jpg"
+      }
+    ],
+    "poster": "assets/posters/447332.jpg",
+    "media_type": "movie",
+    "tmdb_id": 447332
+  },
+  {
     "id": 762441,
     "title": "A Quiet Place: Day One",
     "year": "2024",
@@ -1643,6 +1697,75 @@ const MOVIES = [
     "tmdb_id": 10147
   },
   {
+    "id": 541671,
+    "title": "Ballerina",
+    "year": "2025",
+    "overview": "Taking place during the events of John Wick: Chapter 3 \u2013 Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "rating": 7.368,
+    "runtime": 125,
+    "director": "Len Wiseman",
+    "cast": [
+      {
+        "name": "Ana de Armas",
+        "character": "Eve",
+        "profile_path": "/5Qne374OM0ewMM7uSN9eq9jNrWq.jpg"
+      },
+      {
+        "name": "Keanu Reeves",
+        "character": "John Wick",
+        "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+      },
+      {
+        "name": "Ian McShane",
+        "character": "Winston",
+        "profile_path": "/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+      },
+      {
+        "name": "Anjelica Huston",
+        "character": "The Director",
+        "profile_path": "/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+      },
+      {
+        "name": "Gabriel Byrne",
+        "character": "The Chancellor",
+        "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+      },
+      {
+        "name": "Catalina Sandino Moreno",
+        "character": "Lena",
+        "profile_path": "/78V4H40NXJ6dzqFZaEe1fBelw56.jpg"
+      },
+      {
+        "name": "Ava McCarthy",
+        "character": "Ella",
+        "profile_path": "/9HcCr2p1ofBHPb9uuTNBAsxtj0T.jpg"
+      },
+      {
+        "name": "Juliet Doherty",
+        "character": "Tatiana",
+        "profile_path": "/pKZjcSanPllyEiHe3rac6OfeQ9a.jpg"
+      },
+      {
+        "name": "Norman Reedus",
+        "character": "Daniel Pine",
+        "profile_path": "/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+      },
+      {
+        "name": "Lance Reddick",
+        "character": "Charon",
+        "profile_path": "/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+      }
+    ],
+    "poster": "assets/posters/541671.jpg",
+    "media_type": "movie",
+    "tmdb_id": 541671
+  },
+  {
     "id": 917496,
     "title": "Beetlejuice Beetlejuice",
     "year": "2024",
@@ -2052,73 +2175,73 @@ const MOVIES = [
     "tmdb_id": 840705
   },
   {
-    "id": 55846,
+    "id": 896151,
     "title": "Blitz",
-    "year": "2011",
-    "overview": "A tough cop is dispatched to take down a serial killer who has been targeting police officers.",
+    "year": "2024",
+    "overview": "In World War II London, nine-year-old George is evacuated to the countryside by his mother, Rita, to escape the bombings. Defiant and determined to return to his family, George embarks on an epic, perilous journey back home as Rita searches for him.",
     "genres": [
-      "Crime",
-      "Action",
-      "Thriller"
+      "War",
+      "Drama",
+      "History"
     ],
-    "rating": 6.18,
-    "runtime": 97,
-    "director": "Elliott Lester",
+    "rating": 5.989,
+    "runtime": 120,
+    "director": "Steve McQueen",
     "cast": [
       {
-        "name": "Jason Statham",
-        "character": "Tom Brant",
-        "profile_path": "/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
+        "name": "Elliott Heffernan",
+        "character": "George",
+        "profile_path": "/gXn6pP5F42Z2Es5Jc2ePBj5KcIO.jpg"
       },
       {
-        "name": "Paddy Considine",
-        "character": "Porter Nash",
-        "profile_path": "/96bZA8JRDjBgCE7ZHHgOMPmykc4.jpg"
+        "name": "Saoirse Ronan",
+        "character": "Rita",
+        "profile_path": "/w88uhQ5f8CXw9pQx5HtDrDpzQ4x.jpg"
       },
       {
-        "name": "Aidan Gillen",
-        "character": "Barry Weiss",
-        "profile_path": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
+        "name": "Benjamin Clementine",
+        "character": "Ife",
+        "profile_path": "/johpHbzqrue6XDG63vapfugGbnn.jpg"
       },
       {
-        "name": "Zawe Ashton",
-        "character": "Elizabeth Falls",
-        "profile_path": "/zbxVfvhPhCfgpgmWTdtHWurNqYu.jpg"
+        "name": "Paul Weller",
+        "character": "Gerald",
+        "profile_path": "/3dOUHcW9YM9JBlkpPjdXJ1hdmON.jpg"
       },
       {
-        "name": "Luke Evans",
-        "character": "Craig Stokes",
-        "profile_path": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
+        "name": "Stephen Graham",
+        "character": "Albert",
+        "profile_path": "/1m9RWRRkQzJEAphJm9kQhMk1r1Q.jpg"
       },
       {
-        "name": "David Morrissey",
-        "character": "Dunlop",
-        "profile_path": "/s2nSDzPcxycHyYaC4m8NiMl8V2v.jpg"
+        "name": "Harris Dickinson",
+        "character": "Jack",
+        "profile_path": "/pqqnYWWHa3Va80EXofXrVlRqIDM.jpg"
       },
       {
-        "name": "Ron Donachie",
-        "character": "Sergeant Cross",
-        "profile_path": "/vnBM7idgiyXoat1E8IBKGekx2GS.jpg"
+        "name": "Kathy Burke",
+        "character": "Beryl",
+        "profile_path": "/q3z7nP1ryyGuwixShrBmghcmm0F.jpg"
       },
       {
-        "name": "Joe Dempsie",
-        "character": "Theo Nelson",
-        "profile_path": "/lnR0AMIwxQR6zUCOhp99GnMaRet.jpg"
+        "name": "Leigh Gill",
+        "character": "Michael Davies",
+        "profile_path": "/ke4D7YZcH2uVPZGgPHJPrR7yywn.jpg"
       },
       {
-        "name": "Elly Fairman",
-        "character": "Sandra Bates",
-        "profile_path": "/rRb5BNMFgm4irhnbk6SfLrYeu4t.jpg"
+        "name": "Mica Ricketts",
+        "character": "Jess",
+        "profile_path": "/NDdbpAbRO4MhOdeeXrUcO2hZl.jpg"
       },
       {
-        "name": "Ned Dennehy",
-        "character": "Radnor",
-        "profile_path": "/wTacXk4meFOJRK38rED0lrhlLw3.jpg"
+        "name": "CJ Beckford",
+        "character": "Marcus",
+        "profile_path": null
       }
     ],
-    "poster": "assets/posters/55846.jpg",
+    "poster": "assets/posters/896151.jpg",
     "media_type": "movie",
-    "tmdb_id": 55846
+    "tmdb_id": 896151
   },
   {
     "id": 4133,
@@ -2393,6 +2516,75 @@ const MOVIES = [
     "poster": "assets/posters/1272149.jpg",
     "media_type": "movie",
     "tmdb_id": 1272149
+  },
+  {
+    "id": 822119,
+    "title": "Captain America: Brave New World",
+    "year": "2025",
+    "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "rating": 5.993,
+    "runtime": 119,
+    "director": "Julius Onah",
+    "cast": [
+      {
+        "name": "Anthony Mackie",
+        "character": "Sam Wilson / Captain America",
+        "profile_path": "/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+      },
+      {
+        "name": "Harrison Ford",
+        "character": "President Thaddeus Ross",
+        "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+      },
+      {
+        "name": "Danny Ramirez",
+        "character": "Joaquin Torres",
+        "profile_path": "/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+      },
+      {
+        "name": "Shira Haas",
+        "character": "Ruth Bat-Seraph",
+        "profile_path": "/eZRs79ZMoctjDk0SbPhzMNcs34a.jpg"
+      },
+      {
+        "name": "Tim Blake Nelson",
+        "character": "Samuel Sterns",
+        "profile_path": "/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+      },
+      {
+        "name": "Carl Lumbly",
+        "character": "Isaiah Bradley",
+        "profile_path": "/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+      },
+      {
+        "name": "Giancarlo Esposito",
+        "character": "Sidewinder",
+        "profile_path": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+      },
+      {
+        "name": "Liv Tyler",
+        "character": "Betty Ross",
+        "profile_path": "/eQnuADVICaY40nl2ZseYvfkGQCc.jpg"
+      },
+      {
+        "name": "Xosha Roquemore",
+        "character": "Leila Taylor",
+        "profile_path": "/k596seeX26xKN8bZ3Uir9zFJ2gS.jpg"
+      },
+      {
+        "name": "J\u00f3hannes Haukur J\u00f3hannesson",
+        "character": "Copperhead",
+        "profile_path": "/oqZftP0WS1rD5NFpR7vLp6JU52I.jpg"
+      }
+    ],
+    "poster": "assets/posters/822119.jpg",
+    "media_type": "movie",
+    "tmdb_id": 822119
   },
   {
     "id": 1005331,
@@ -2805,71 +2997,140 @@ const MOVIES = [
     "tmdb_id": 929590
   },
   {
-    "id": 1177375,
-    "title": "Companion",
-    "year": "2025",
-    "overview": "To their respective conservative Indian parents, Vir and Nitya are a happily married couple living in Parramatta, Sydney. They love to play the sitar together, she is a successful dentist, and he is studying for his accounting exam. However, as the cultural expectations ingrained into them from childhood start to take their toll, they both face challenges in their personal and professional lives. After reaching a breaking point, Vir comes out to Nitya about his sexuality, which causes a rift between them and brings shame to their families. Vir then decides to explore his own sexual identity with another man.",
+    "id": 484718,
+    "title": "Coming 2 America",
+    "year": "2021",
+    "overview": "Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a son he never knew about in America \u2013 a street savvy Queens native named Lavelle. Honoring his royal father's dying wish to groom this son as the crown prince, Akeem and Semmi set off to America once again.",
     "genres": [
-      "Drama"
+      "Comedy"
     ],
-    "rating": 5.0,
-    "runtime": 93,
-    "director": "Raghuvir Joshi",
+    "rating": 6.361,
+    "runtime": 108,
+    "director": "Craig Brewer",
     "cast": [
       {
-        "name": "Antonio Aakeel",
-        "character": "Vir Oza",
-        "profile_path": "/bZQM9rdsngwVVcnxCQEQEYA9Ycf.jpg"
+        "name": "Eddie Murphy",
+        "character": "Prince Akeem / Clarence / Saul / Randy Watson",
+        "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
       },
       {
-        "name": "Anula Navlekar",
-        "character": "Nitya Behl",
-        "profile_path": "/999AIGuEkb9ExFBVpCtQBGbvbwx.jpg"
+        "name": "Arsenio Hall",
+        "character": "Semmi / Morris / Reverend Brown / Baba",
+        "profile_path": "/8oqVGysLVXkWlTOWIWkWIbL4i2q.jpg"
       },
       {
-        "name": "Harish Patel",
-        "character": "Amit Oza",
-        "profile_path": "/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg"
+        "name": "Jermaine Fowler",
+        "character": "Lavelle Junson",
+        "profile_path": "/tUovrCcFKncccMY7yarqeLBeVPk.jpg"
       },
       {
-        "name": "Nicholas Brown",
-        "character": "Makrand",
-        "profile_path": "/v1FPnpfquoxth9OrW2P5IfDK4Uj.jpg"
+        "name": "Leslie Jones",
+        "character": "Mary Junson",
+        "profile_path": "/1rBpNNijHRg4Ha3PxlpOjcbPVeN.jpg"
       },
       {
-        "name": "Sheeba Chaddha",
-        "character": "Leena Behl",
-        "profile_path": "/yWBQeR47GmnGJn33w4c8QzakkSh.jpg"
+        "name": "Tracy Morgan",
+        "character": "Uncle Reem",
+        "profile_path": "/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg"
       },
       {
-        "name": "Georgia Blizzard",
-        "character": "Amanda",
-        "profile_path": "/uEfBOQdEHjUCzpAlIAjMdjvnfxM.jpg"
+        "name": "KiKi Layne",
+        "character": "Meeka",
+        "profile_path": "/nwLS3A1NGXbYWUPLE9Sj6yPBbhW.jpg"
       },
       {
-        "name": "Gus Murray",
-        "character": "Nathan",
-        "profile_path": null
+        "name": "Shari Headley",
+        "character": "Lisa",
+        "profile_path": "/hPsuuE1C7FSNmjHUQ9Mj3YEZfSk.jpg"
       },
       {
-        "name": "Nicholas Burton",
-        "character": "Josh",
-        "profile_path": "/afneggcY8kMGJM6ZQi11pEMKUhy.jpg"
+        "name": "Wesley Snipes",
+        "character": "General Izzi",
+        "profile_path": "/232tIFkJYkmtQIM31Pi5dmLRR8p.jpg"
       },
       {
-        "name": "Saba Zaidi Abdi",
-        "character": "Nani",
-        "profile_path": null
+        "name": "James Earl Jones",
+        "character": "King Jaffe Joffer",
+        "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
       },
       {
-        "name": "Zain Ayub",
-        "character": "Vishnu",
-        "profile_path": null
+        "name": "John Amos",
+        "character": "Cleo McDowell",
+        "profile_path": "/b2zYGkMG28wYDHC9CunfYAeoeMQ.jpg"
       }
     ],
-    "poster": "assets/posters/1177375.jpg",
+    "poster": "assets/posters/484718.jpg",
     "media_type": "movie",
-    "tmdb_id": 1177375
+    "tmdb_id": 484718
+  },
+  {
+    "id": 1084199,
+    "title": "Companion",
+    "year": "2025",
+    "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "rating": 7.0,
+    "runtime": 97,
+    "director": "Drew Hancock",
+    "cast": [
+      {
+        "name": "Sophie Thatcher",
+        "character": "Iris",
+        "profile_path": "/rUEPZaDxFdDGM76t4g6cYa8Ru7b.jpg"
+      },
+      {
+        "name": "Jack Quaid",
+        "character": "Josh",
+        "profile_path": "/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+      },
+      {
+        "name": "Lukas Gage",
+        "character": "Patrick",
+        "profile_path": "/sftjB0MjD92meZqnL9OLtcTI02d.jpg"
+      },
+      {
+        "name": "Megan Suri",
+        "character": "Kat",
+        "profile_path": "/krZBtMPTqVvteqYFXbAU6nnQShy.jpg"
+      },
+      {
+        "name": "Harvey Guill\u00e9n",
+        "character": "Eli",
+        "profile_path": "/yiNBonobPwqMVweB02JWufzp2l9.jpg"
+      },
+      {
+        "name": "Rupert Friend",
+        "character": "Sergey",
+        "profile_path": "/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg"
+      },
+      {
+        "name": "Jaboukie Young-White",
+        "character": "Teddy",
+        "profile_path": "/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+      },
+      {
+        "name": "Matthew J. McCarthy",
+        "character": "Sid",
+        "profile_path": "/eHKjDZPdHTz5lV1UySfMdRqMrH6.jpg"
+      },
+      {
+        "name": "Marc Menchaca",
+        "character": "Deputy Hendrix",
+        "profile_path": "/fL0LmdBwau30M4AFPVJrpLRXXsU.jpg"
+      },
+      {
+        "name": "Woody Fu",
+        "character": "Mateo",
+        "profile_path": "/305m52CIr9Jtb1whdc5i1Lx2iEd.jpg"
+      }
+    ],
+    "poster": "assets/posters/1084199.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1084199
   },
   {
     "id": 974576,
@@ -3211,75 +3472,6 @@ const MOVIES = [
     "poster": "assets/posters/296524.jpg",
     "media_type": "movie",
     "tmdb_id": 296524
-  },
-  {
-    "id": 7551,
-    "title": "D\u00e9j\u00e0 Vu",
-    "year": "2006",
-    "overview": "Called in to recover evidence in the aftermath of a horrific explosion on a New Orleans ferry, Federal agent Doug Carlin gets pulled away from the scene and taken to a top-secret government lab that uses a time-shifting surveillance device to help prevent crime.",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Science Fiction"
-    ],
-    "rating": 6.868,
-    "runtime": 126,
-    "director": "Tony Scott",
-    "cast": [
-      {
-        "name": "Denzel Washington",
-        "character": "Doug Carlin",
-        "profile_path": "/9Iyt3wbsla5bM6IzbICDVnBhkER.jpg"
-      },
-      {
-        "name": "Paula Patton",
-        "character": "Claire Kuchever",
-        "profile_path": "/6slgkfmRRfTSIG3NIJdbVoDHWeL.jpg"
-      },
-      {
-        "name": "Val Kilmer",
-        "character": "Agent Pryzwarra",
-        "profile_path": "/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
-      },
-      {
-        "name": "Jim Caviezel",
-        "character": "Carroll Oerstadt",
-        "profile_path": "/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
-      },
-      {
-        "name": "Adam Goldberg",
-        "character": "Denny",
-        "profile_path": "/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
-      },
-      {
-        "name": "Elden Henson",
-        "character": "Gunnars",
-        "profile_path": "/8U5g30U76UJe0erbJdWjGLVz7NF.jpg"
-      },
-      {
-        "name": "Erika Alexander",
-        "character": "Shanti",
-        "profile_path": "/8o9KbXYoRi9v1u94nbjrslOzE0n.jpg"
-      },
-      {
-        "name": "Bruce Greenwood",
-        "character": "Jack McCready",
-        "profile_path": "/AmfylDaijUHq8cHMq002xfkW7Vk.jpg"
-      },
-      {
-        "name": "Rich Hutchman",
-        "character": "Agent Stalhuth",
-        "profile_path": "/9UYtBar8UGieprOMbyTre5xIju.jpg"
-      },
-      {
-        "name": "Matt Craven",
-        "character": "Minuti",
-        "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
-      }
-    ],
-    "poster": "assets/posters/7551.jpg",
-    "media_type": "movie",
-    "tmdb_id": 7551
   },
   {
     "id": 562,
@@ -3759,6 +3951,75 @@ const MOVIES = [
     "tmdb_id": 693134
   },
   {
+    "id": 7551,
+    "title": "D\u00e9j\u00e0 Vu",
+    "year": "2006",
+    "overview": "Called in to recover evidence in the aftermath of a horrific explosion on a New Orleans ferry, Federal agent Doug Carlin gets pulled away from the scene and taken to a top-secret government lab that uses a time-shifting surveillance device to help prevent crime.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "rating": 6.868,
+    "runtime": 126,
+    "director": "Tony Scott",
+    "cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "Doug Carlin",
+        "profile_path": "/9Iyt3wbsla5bM6IzbICDVnBhkER.jpg"
+      },
+      {
+        "name": "Paula Patton",
+        "character": "Claire Kuchever",
+        "profile_path": "/6slgkfmRRfTSIG3NIJdbVoDHWeL.jpg"
+      },
+      {
+        "name": "Val Kilmer",
+        "character": "Agent Pryzwarra",
+        "profile_path": "/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+      },
+      {
+        "name": "Jim Caviezel",
+        "character": "Carroll Oerstadt",
+        "profile_path": "/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
+      },
+      {
+        "name": "Adam Goldberg",
+        "character": "Denny",
+        "profile_path": "/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
+      },
+      {
+        "name": "Elden Henson",
+        "character": "Gunnars",
+        "profile_path": "/8U5g30U76UJe0erbJdWjGLVz7NF.jpg"
+      },
+      {
+        "name": "Erika Alexander",
+        "character": "Shanti",
+        "profile_path": "/8o9KbXYoRi9v1u94nbjrslOzE0n.jpg"
+      },
+      {
+        "name": "Bruce Greenwood",
+        "character": "Jack McCready",
+        "profile_path": "/AmfylDaijUHq8cHMq002xfkW7Vk.jpg"
+      },
+      {
+        "name": "Rich Hutchman",
+        "character": "Agent Stalhuth",
+        "profile_path": "/9UYtBar8UGieprOMbyTre5xIju.jpg"
+      },
+      {
+        "name": "Matt Craven",
+        "character": "Minuti",
+        "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
+      }
+    ],
+    "poster": "assets/posters/7551.jpg",
+    "media_type": "movie",
+    "tmdb_id": 7551
+  },
+  {
     "id": 10557,
     "title": "East Is East",
     "year": "1999",
@@ -4236,6 +4497,75 @@ const MOVIES = [
     "poster": "assets/posters/974950.jpg",
     "media_type": "movie",
     "tmdb_id": 974950
+  },
+  {
+    "id": 1259102,
+    "title": "Eternity",
+    "year": "2025",
+    "overview": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 7.1,
+    "runtime": 114,
+    "director": "David Freyne",
+    "cast": [
+      {
+        "name": "Elizabeth Olsen",
+        "character": "Joan",
+        "profile_path": "/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+      },
+      {
+        "name": "Miles Teller",
+        "character": "Larry",
+        "profile_path": "/aciu7YM8fD0BzrrA6cJ5wDKZIA6.jpg"
+      },
+      {
+        "name": "Callum Turner",
+        "character": "Luke",
+        "profile_path": "/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg"
+      },
+      {
+        "name": "Da'Vine Joy Randolph",
+        "character": "Anna",
+        "profile_path": "/7RuYeGxTwFRt2q8fkT8nuEz1nIC.jpg"
+      },
+      {
+        "name": "John Early",
+        "character": "Ryan",
+        "profile_path": "/byDLwLfv267cqrhIMlGrQffcSn4.jpg"
+      },
+      {
+        "name": "Barry Primus",
+        "character": "Older Larry",
+        "profile_path": "/aHGNNA8YkPQfRavLvLhKodoCkdf.jpg"
+      },
+      {
+        "name": "Betty Buckley",
+        "character": "Older Joan",
+        "profile_path": "/szxY6tMCiSnKqH5bQg49ZcdukIM.jpg"
+      },
+      {
+        "name": "Darryl Scheelar",
+        "character": "Man in Car",
+        "profile_path": "/ee7Mr2N7eKIQEZ9XhlFyElZgDs0.jpg"
+      },
+      {
+        "name": "Danny Mac",
+        "character": "Sam",
+        "profile_path": "/ga92rNUVGl538zqFVKX54CdkTJ6.jpg"
+      },
+      {
+        "name": "Damon Johnson",
+        "character": "Zach",
+        "profile_path": "/5b0aHHijeunC0e053M6XyLKgaeZ.jpg"
+      }
+    ],
+    "poster": "assets/posters/1259102.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1259102
   },
   {
     "id": 8413,
@@ -4920,6 +5250,75 @@ const MOVIES = [
     "tmdb_id": 956842
   },
   {
+    "id": 13,
+    "title": "Forrest Gump",
+    "year": "1994",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 8.462,
+    "runtime": 142,
+    "director": "Robert Zemeckis",
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Forrest Gump",
+        "profile_path": "/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Jenny Curran",
+        "profile_path": "/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+      },
+      {
+        "name": "Gary Sinise",
+        "character": "Lieutenant Dan Taylor",
+        "profile_path": "/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+      },
+      {
+        "name": "Sally Field",
+        "character": "Mrs. Gump",
+        "profile_path": "/5fBK36MdmdwQQMuP0W70rXADXih.jpg"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "Bubba Blue",
+        "profile_path": "/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "name": "Michael Conner Humphreys",
+        "character": "Young Forrest Gump",
+        "profile_path": "/irYRs3COggVHg91jL3CrlCIWmnx.jpg"
+      },
+      {
+        "name": "Hanna Hall",
+        "character": "Young Jenny Curran",
+        "profile_path": "/xkZ2Hwz1QLXvQCgGlWgVgx00Rtd.jpg"
+      },
+      {
+        "name": "Haley Joel Osment",
+        "character": "Forrest Junior",
+        "profile_path": "/jft0dGgR5bJ6mR7QRYriMVBC6QH.jpg"
+      },
+      {
+        "name": "Siobhan Fallon Hogan",
+        "character": "School Bus Driver",
+        "profile_path": "/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+      },
+      {
+        "name": "Rebecca Williams",
+        "character": "Nurse at Park Bench",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/13.jpg",
+    "media_type": "movie",
+    "tmdb_id": 13
+  },
+  {
     "id": 37495,
     "title": "Four Lions",
     "year": "2010",
@@ -4987,6 +5386,75 @@ const MOVIES = [
     "poster": "assets/posters/37495.jpg",
     "media_type": "movie",
     "tmdb_id": 37495
+  },
+  {
+    "id": 1062722,
+    "title": "Frankenstein",
+    "year": "2025",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "rating": 7.698,
+    "runtime": 150,
+    "director": "Guillermo del Toro",
+    "cast": [
+      {
+        "name": "Oscar Isaac",
+        "character": "Victor Frankenstein",
+        "profile_path": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+      },
+      {
+        "name": "Jacob Elordi",
+        "character": "The Creature",
+        "profile_path": "/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+      },
+      {
+        "name": "Christoph Waltz",
+        "character": "Harlander",
+        "profile_path": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+      },
+      {
+        "name": "Mia Goth",
+        "character": "Elizabeth / Claire Frankenstein",
+        "profile_path": "/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg"
+      },
+      {
+        "name": "Felix Kammerer",
+        "character": "William Frankenstein",
+        "profile_path": "/T12faHW0QXunSZbv6YNmDWG7bC.jpg"
+      },
+      {
+        "name": "Charles Dance",
+        "character": "Leopold Frankenstein",
+        "profile_path": "/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+      },
+      {
+        "name": "David Bradley",
+        "character": "Blind Man",
+        "profile_path": "/znpkwHitb3pcaJbUmgDqG0YenYp.jpg"
+      },
+      {
+        "name": "Lars Mikkelsen",
+        "character": "Captain Anderson",
+        "profile_path": "/xw3bJxjf8yT8TS8zigEGWQYSaXH.jpg"
+      },
+      {
+        "name": "Christian Convery",
+        "character": "Young Victor Frankenstein",
+        "profile_path": "/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg"
+      },
+      {
+        "name": "Nikolaj Lie Kaas",
+        "character": "Chief Officer Larsen",
+        "profile_path": "/zRu68e0GSwHJC7QOcbO77xIAM9J.jpg"
+      }
+    ],
+    "poster": "assets/posters/1062722.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1062722
   },
   {
     "id": 550988,
@@ -5127,6 +5595,74 @@ const MOVIES = [
     "tmdb_id": 768
   },
   {
+    "id": 600,
+    "title": "Full Metal Jacket",
+    "year": "1987",
+    "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "rating": 8.121,
+    "runtime": 117,
+    "director": "Stanley Kubrick",
+    "cast": [
+      {
+        "name": "Matthew Modine",
+        "character": "Pvt. Joker",
+        "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+      },
+      {
+        "name": "Adam Baldwin",
+        "character": "Animal Mother",
+        "profile_path": "/rtRCD2rl9k3RVgyv3cHaUJer0Ms.jpg"
+      },
+      {
+        "name": "Vincent D'Onofrio",
+        "character": "Pvt. Pyle",
+        "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+      },
+      {
+        "name": "R. Lee Ermey",
+        "character": "Gny. Sgt. Hartman",
+        "profile_path": "/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+      },
+      {
+        "name": "Dorian Harewood",
+        "character": "Eightball",
+        "profile_path": "/j3Nc0uNpe3MkonLtOrzVegO22QO.jpg"
+      },
+      {
+        "name": "Kevyn Major Howard",
+        "character": "Rafterman",
+        "profile_path": "/utYdHRALnc34u49jm3Mc6U5R98u.jpg"
+      },
+      {
+        "name": "Arliss Howard",
+        "character": "Pvt. Cowboy",
+        "profile_path": "/28bQJ5fqLem4Ml7x9LZ7QEnwaTa.jpg"
+      },
+      {
+        "name": "Ed O'Ross",
+        "character": "Lt. Touchdown",
+        "profile_path": "/6hzovUAs5hFcrZvPdk84NR3KcHU.jpg"
+      },
+      {
+        "name": "John Terry",
+        "character": "Lt. Lockhart",
+        "profile_path": "/2paelsnx3mEZam5ZJZMmUuurgJq.jpg"
+      },
+      {
+        "name": "Kieron Jecchinis",
+        "character": "Crazy Earl",
+        "profile_path": "/gYtqlYJylewxBf1iHRcZ2G5l3M1.jpg"
+      }
+    ],
+    "poster": "assets/posters/600.jpg",
+    "media_type": "movie",
+    "tmdb_id": 600
+  },
+  {
     "id": 786892,
     "title": "Furiosa: A Mad Max Saga",
     "year": "2024",
@@ -5194,6 +5730,63 @@ const MOVIES = [
     "poster": "assets/posters/786892.jpg",
     "media_type": "movie",
     "tmdb_id": 786892
+  },
+  {
+    "id": 343981,
+    "title": "Gascoigne",
+    "year": "2015",
+    "overview": "A feature length, theatrical documentary on the life of Paul Gascoigne, one of the greatest footballers that ever lived: delving deep into his psyche, vulnerabilities, fears and triumphs.",
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 6.3,
+    "runtime": 90,
+    "director": "Jane Preston",
+    "cast": [
+      {
+        "name": "Paul Gascoigne",
+        "character": "Self",
+        "profile_path": "/iP4rl0Mq0QrRIGKrEgSguLORP0U.jpg"
+      },
+      {
+        "name": "Gary Lineker",
+        "character": "Self",
+        "profile_path": "/mfHN34kbcqbkN8zYyfjE5fk5dpX.jpg"
+      },
+      {
+        "name": "Jos\u00e9 Mourinho",
+        "character": "Self",
+        "profile_path": "/4VaRnylQXIwTmmgXdYKpFwYJb0s.jpg"
+      },
+      {
+        "name": "Wayne Rooney",
+        "character": "Self",
+        "profile_path": "/pIUmu6SkoZpF5wT96mx0cEtyv2N.jpg"
+      },
+      {
+        "name": "Vinnie Jones",
+        "character": "Self (archive footage)",
+        "profile_path": "/eoXiIzxQILJtCMgJrF42xpkkK0a.jpg"
+      },
+      {
+        "name": "Diego Maradona",
+        "character": "Self (archive footage)",
+        "profile_path": "/m4qVLeVSRzwcCpt6MdAT305YdDC.jpg"
+      },
+      {
+        "name": "Bobby Robson",
+        "character": "Self (archive footage)",
+        "profile_path": "/sB0MNoxNnZoerdQoGKsoBimnhgS.jpg"
+      },
+      {
+        "name": "Terry Wogan",
+        "character": "Self (archive footage)",
+        "profile_path": "/n9hdpZtHBSvL9uztZqWCDE7hWpD.jpg"
+      }
+    ],
+    "poster": "assets/posters/343981.jpg",
+    "media_type": "movie",
+    "tmdb_id": 343981
   },
   {
     "id": 274855,
@@ -6299,6 +6892,75 @@ const MOVIES = [
     "tmdb_id": 668489
   },
   {
+    "id": 749170,
+    "title": "Heads of State",
+    "year": "2025",
+    "overview": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Comedy"
+    ],
+    "rating": 6.916,
+    "runtime": 117,
+    "director": "Ilya Naishuller",
+    "cast": [
+      {
+        "name": "John Cena",
+        "character": "Will Derringer",
+        "profile_path": "/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+      },
+      {
+        "name": "Idris Elba",
+        "character": "Sam Clarke",
+        "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+      },
+      {
+        "name": "Priyanka Chopra Jonas",
+        "character": "Noel Bisset",
+        "profile_path": "/stEZxIVAWFlrifbWkeULsD4LHnf.jpg"
+      },
+      {
+        "name": "Paddy Considine",
+        "character": "Viktor Gradov",
+        "profile_path": "/96bZA8JRDjBgCE7ZHHgOMPmykc4.jpg"
+      },
+      {
+        "name": "Carla Gugino",
+        "character": "VP Elizabeth Kirk",
+        "profile_path": "/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg"
+      },
+      {
+        "name": "Stephen Root",
+        "character": "Arthur Hammond",
+        "profile_path": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+      },
+      {
+        "name": "Jack Quaid",
+        "character": "Marty Comer",
+        "profile_path": "/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+      },
+      {
+        "name": "Sarah Niles",
+        "character": "Simone Bradshaw",
+        "profile_path": "/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+      },
+      {
+        "name": "Richard Coyle",
+        "character": "Quincy Harrington",
+        "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+      },
+      {
+        "name": "Aleksandr Kuznetsov",
+        "character": "Sasha the Killer",
+        "profile_path": "/hFrl2Sp1tOcNIpfIpP6M2QMDjyp.jpg"
+      }
+    ],
+    "poster": "assets/posters/749170.jpg",
+    "media_type": "movie",
+    "tmdb_id": 749170
+  },
+  {
     "id": 949,
     "title": "Heat",
     "year": "1995",
@@ -6640,6 +7302,143 @@ const MOVIES = [
     "poster": "assets/posters/644495.jpg",
     "media_type": "movie",
     "tmdb_id": 644495
+  },
+  {
+    "id": 1083433,
+    "title": "I Know What You Did Last Summer",
+    "year": "2025",
+    "overview": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer\u2026and is hell-bent on revenge.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 5.953,
+    "runtime": 111,
+    "director": "Jennifer Kaytin Robinson",
+    "cast": [
+      {
+        "name": "Chase Sui Wonders",
+        "character": "Ava Brucks",
+        "profile_path": "/e89eEhNUIfMawLNdJ3jXft8AAMF.jpg"
+      },
+      {
+        "name": "Madelyn Cline",
+        "character": "Danica Richards",
+        "profile_path": "/5bn1dx7IyOZpy6g1T9M4E7jXr9E.jpg"
+      },
+      {
+        "name": "Sarah Pidgeon",
+        "character": "Stevie Ward",
+        "profile_path": "/wMj4WykLKTc6iHIYiXnho6jeYN1.jpg"
+      },
+      {
+        "name": "Tyriq Withers",
+        "character": "Teddy Spencer",
+        "profile_path": "/lwdIoyA2V9cAQf8rWDijINLsA9O.jpg"
+      },
+      {
+        "name": "Jonah Hauer-King",
+        "character": "Milo Griffin",
+        "profile_path": "/yXGsk9UtOV9tprU5ZSuhwdFtaBB.jpg"
+      },
+      {
+        "name": "Jennifer Love Hewitt",
+        "character": "Julie James",
+        "profile_path": "/l9ggjks77ychiR4Pw6FUkSTux0m.jpg"
+      },
+      {
+        "name": "Freddie Prinze Jr.",
+        "character": "Ray Bronson",
+        "profile_path": "/8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg"
+      },
+      {
+        "name": "Billy Campbell",
+        "character": "Grant Spencer",
+        "profile_path": "/hMNmtQK3a6mqIQRyXn9G5bbheJV.jpg"
+      },
+      {
+        "name": "Gabbriette",
+        "character": "Tyler Trevino",
+        "profile_path": "/ej4Hp5WWwjWFeexvDyOKr2Aaz2k.jpg"
+      },
+      {
+        "name": "Sarah Michelle Gellar",
+        "character": "Helen Shivers",
+        "profile_path": "/mr74lbU9MLcYV4aQDsfHp7rnwS4.jpg"
+      }
+    ],
+    "poster": "assets/posters/1083433.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1083433
+  },
+  {
+    "id": 1317149,
+    "title": "I Swear",
+    "year": "2025",
+    "overview": "Diagnosed with Tourette Syndrome at 15, John Davidson navigates his way against the odds through troubled teenage years and into adulthood, finding inspiration in the kindness of others to discover his true purpose in life.",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "rating": 7.9,
+    "runtime": 121,
+    "director": "Kirk Jones",
+    "cast": [
+      {
+        "name": "Robert Aramayo",
+        "character": "John Davidson",
+        "profile_path": "/1wqSZVvB018H2mZbemMSn6gH4zq.jpg"
+      },
+      {
+        "name": "Maxine Peake",
+        "character": "Dottie Achenbach",
+        "profile_path": "/uChlrL5WyeXhvGFaNvbzw1KqMgP.jpg"
+      },
+      {
+        "name": "Shirley Henderson",
+        "character": "Heather Davidson",
+        "profile_path": "/dxVvLjGNKVMl5lDXXInJ7xWpCvl.jpg"
+      },
+      {
+        "name": "Peter Mullan",
+        "character": "Tommy Trotter",
+        "profile_path": "/dvu5PWJK6Vv4xnYyMzdMvH73Laj.jpg"
+      },
+      {
+        "name": "Scott Ellis Watson",
+        "character": "Young John Davidson",
+        "profile_path": null
+      },
+      {
+        "name": "Sanjeev Kohli",
+        "character": "Shopkeeper",
+        "profile_path": "/d89uNMFraJvyDxOBSXXuTxzlNDm.jpg"
+      },
+      {
+        "name": "Ron Donachie",
+        "character": "Headmaster",
+        "profile_path": "/vnBM7idgiyXoat1E8IBKGekx2GS.jpg"
+      },
+      {
+        "name": "Steven Cree",
+        "character": "David Davidson",
+        "profile_path": "/oH9uSQMJPdFHeVggqvMwheW7nZl.jpg"
+      },
+      {
+        "name": "Paul Donnelly",
+        "character": "Billy Dean",
+        "profile_path": "/A4mdJj9KOkHza4IF85MfA5DAkN0.jpg"
+      },
+      {
+        "name": "Douglas Rankine",
+        "character": "Doctor Colin Hargreaves",
+        "profile_path": "/wM3iwGBvlPlDbQSn1WbymK4RmnK.jpg"
+      }
+    ],
+    "poster": "assets/posters/1317149.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1317149
   },
   {
     "id": 1125311,
@@ -7325,6 +8124,75 @@ const MOVIES = [
     "poster": "assets/posters/135397.jpg",
     "media_type": "movie",
     "tmdb_id": 135397
+  },
+  {
+    "id": 507086,
+    "title": "Jurassic World Dominion",
+    "year": "2022",
+    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live\u2014and hunt\u2014alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "rating": 6.644,
+    "runtime": 147,
+    "director": "Colin Trevorrow",
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Owen Grady",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Claire Dearing",
+        "profile_path": "/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Ellie Sattler",
+        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Sam Neill",
+        "character": "Alan Grant",
+        "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Ian Malcolm",
+        "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+      },
+      {
+        "name": "DeWanda Wise",
+        "character": "Kayla Watts",
+        "profile_path": "/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+      },
+      {
+        "name": "Mamoudou Athie",
+        "character": "Ramsay Cole",
+        "profile_path": "/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
+      },
+      {
+        "name": "Isabella Sermon",
+        "character": "Maisie Lockwood / Young Charlotte Lockwood",
+        "profile_path": "/zPakMdPK3KSzhSHCZsLWnvTJVeQ.jpg"
+      },
+      {
+        "name": "Campbell Scott",
+        "character": "Lewis Dodgson",
+        "profile_path": "/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Henry Wu",
+        "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      }
+    ],
+    "poster": "assets/posters/507086.jpg",
+    "media_type": "movie",
+    "tmdb_id": 507086
   },
   {
     "id": 351286,
@@ -8290,6 +9158,74 @@ const MOVIES = [
     "tmdb_id": 722149
   },
   {
+    "id": 634492,
+    "title": "Madame Web",
+    "year": "2024",
+    "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "rating": 5.311,
+    "runtime": 117,
+    "director": "S.J. Clarkson",
+    "cast": [
+      {
+        "name": "Dakota Johnson",
+        "character": "Cassandra Webb",
+        "profile_path": "/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
+      },
+      {
+        "name": "Sydney Sweeney",
+        "character": "Julia Cornwall",
+        "profile_path": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+      },
+      {
+        "name": "Isabela Merced",
+        "character": "Anya Coraz\u00f3n",
+        "profile_path": "/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+      },
+      {
+        "name": "Celeste O'Connor",
+        "character": "Mattie Franklin",
+        "profile_path": "/jI3pNOhj9Gr7ym9cUcv8vsI0lCF.jpg"
+      },
+      {
+        "name": "Tahar Rahim",
+        "character": "Ezekiel Sims",
+        "profile_path": "/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg"
+      },
+      {
+        "name": "Mike Epps",
+        "character": "O'Neil",
+        "profile_path": "/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg"
+      },
+      {
+        "name": "Emma Roberts",
+        "character": "Mary Parker",
+        "profile_path": "/utggW2yIufP3A5CGdT8H5mXyGLs.jpg"
+      },
+      {
+        "name": "Adam Scott",
+        "character": "Ben Parker",
+        "profile_path": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+      },
+      {
+        "name": "Kerry Bish\u00e9",
+        "character": "Constance",
+        "profile_path": "/2bUBBFrTgHxAhLS5OxutSrrTPja.jpg"
+      },
+      {
+        "name": "Zosia Mamet",
+        "character": "Amaria",
+        "profile_path": "/8G4n5CMVhzKfYworKrc9Pd2QjHm.jpg"
+      }
+    ],
+    "poster": "assets/posters/634492.jpg",
+    "media_type": "movie",
+    "tmdb_id": 634492
+  },
+  {
     "id": 9509,
     "title": "Man on Fire",
     "year": "2004",
@@ -8357,6 +9293,74 @@ const MOVIES = [
     "poster": "assets/posters/9509.jpg",
     "media_type": "movie",
     "tmdb_id": 9509
+  },
+  {
+    "id": 1850,
+    "title": "Man on the Moon",
+    "year": "1999",
+    "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 7.247,
+    "runtime": 118,
+    "director": "Milo\u0161 Forman",
+    "cast": [
+      {
+        "name": "Jim Carrey",
+        "character": "Andy Kaufman / Tony Clifton",
+        "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "George Shapiro",
+        "profile_path": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+      },
+      {
+        "name": "Courtney Love",
+        "character": "Lynne Margulies",
+        "profile_path": "/lIb3gMM1LoE53mHYnMWooBH4mDJ.jpg"
+      },
+      {
+        "name": "Paul Giamatti",
+        "character": "Bob Zmuda",
+        "profile_path": "/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg"
+      },
+      {
+        "name": "Vincent Schiavelli",
+        "character": "Maynard Smith",
+        "profile_path": "/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+      },
+      {
+        "name": "Peter Bonerz",
+        "character": "Ed Weinberger",
+        "profile_path": "/8qWxMGvASfbwbW9AbV2Fb4pP3t7.jpg"
+      },
+      {
+        "name": "Jerry Lawler",
+        "character": "Himself",
+        "profile_path": "/jSjWooyleMmGu6hDslohMGyy0IQ.jpg"
+      },
+      {
+        "name": "Gerry Becker",
+        "character": "Stanley Kaufman",
+        "profile_path": "/il1r1Iym5WFJyo8SQon60aqu4nC.jpg"
+      },
+      {
+        "name": "Leslie Lyles",
+        "character": "Janice Kaufman",
+        "profile_path": "/pTEfzFH2gaWoabfVoCTZmetXlf0.jpg"
+      },
+      {
+        "name": "Greyson Erik Pendry",
+        "character": "Little Michael Kaufman",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1850.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1850
   },
   {
     "id": 334541,
@@ -9113,6 +10117,74 @@ const MOVIES = [
     "tmdb_id": 762509
   },
   {
+    "id": 1550785,
+    "title": "My Father, the BTK Killer",
+    "year": "2025",
+    "overview": "Raised by a man leading a monstrous double life, the daughter of the BTK serial killer shares her chilling story.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "rating": 6.68,
+    "runtime": 94,
+    "director": "Skye Borgman",
+    "cast": [
+      {
+        "name": "Kerri Rawson",
+        "character": "Self - Daughter of BTK",
+        "profile_path": null
+      },
+      {
+        "name": "Dennis Rader",
+        "character": "Self - Serial Killer (archive footage)",
+        "profile_path": "/xymUEpgJai8fUmfw1csXVPJQPt1.jpg"
+      },
+      {
+        "name": "Richard LaMunyon",
+        "character": "Self - Former Chief of Police, Wichita",
+        "profile_path": null
+      },
+      {
+        "name": "Larry Hatteberg",
+        "character": "Self - Former Journalist, KAKE TV Wichita",
+        "profile_path": null
+      },
+      {
+        "name": "Andrea Rogers",
+        "character": "Self - Kerri's Childhood Friend",
+        "profile_path": "/78Ic9N0caslp4lamIh84LxkicuZ.jpg"
+      },
+      {
+        "name": "Bill Hirschman",
+        "character": "Self - Former Journalist, The Wichita Eagle",
+        "profile_path": null
+      },
+      {
+        "name": "James Reed",
+        "character": "Self - Osage County Sheriff's Office",
+        "profile_path": null
+      },
+      {
+        "name": "Susan Peters",
+        "character": "Self - Former Anchor, KAKE TV Wichita",
+        "profile_path": null
+      },
+      {
+        "name": "Ray Lundin",
+        "character": "Self - Former Agent, Kansas Bureau of Investigation",
+        "profile_path": null
+      },
+      {
+        "name": "Rita Sheffield",
+        "character": "Self - Kerri's Childhood Friend",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/1550785.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1550785
+  },
+  {
     "id": 1048241,
     "title": "My Spy The Eternal City",
     "year": "2024",
@@ -9319,6 +10391,74 @@ const MOVIES = [
     "tmdb_id": 129670
   },
   {
+    "id": 1007734,
+    "title": "Nobody 2",
+    "year": "2025",
+    "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 7.081,
+    "runtime": 89,
+    "director": "Timo Tjahjanto",
+    "cast": [
+      {
+        "name": "Bob Odenkirk",
+        "character": "Hutch Mansell",
+        "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        "name": "Connie Nielsen",
+        "character": "Becca Mansell",
+        "profile_path": "/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg"
+      },
+      {
+        "name": "John Ortiz",
+        "character": "Wyatt Martin",
+        "profile_path": "/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+      },
+      {
+        "name": "Colin Hanks",
+        "character": "Sheriff Abel",
+        "profile_path": "/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
+      },
+      {
+        "name": "RZA",
+        "character": "Harry Mansell",
+        "profile_path": "/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
+      },
+      {
+        "name": "Colin Salmon",
+        "character": "The Barber",
+        "profile_path": "/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+      },
+      {
+        "name": "Christopher Lloyd",
+        "character": "David Mansell",
+        "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+      },
+      {
+        "name": "Sharon Stone",
+        "character": "Lendina",
+        "profile_path": "/AqwJtz1uoXVbYBfPq1vT3dLL0ce.jpg"
+      },
+      {
+        "name": "Daniel Bernhardt",
+        "character": "Kartoush",
+        "profile_path": "/b59qhg5VJOCypx9eMXrXHAjauLd.jpg"
+      },
+      {
+        "name": "Paisley Cadorath",
+        "character": "Sammy Mansell",
+        "profile_path": "/4fbnxs6x5I2f4lSkegDP021ISTJ.jpg"
+      }
+    ],
+    "poster": "assets/posters/1007734.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1007734
+  },
+  {
     "id": 426063,
     "title": "Nosferatu",
     "year": "2024",
@@ -9456,6 +10596,143 @@ const MOVIES = [
     "tmdb_id": 1195506
   },
   {
+    "id": 425274,
+    "title": "Now You See Me: Now You Don't",
+    "year": "2025",
+    "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "rating": 6.57,
+    "runtime": 113,
+    "director": "Ruben Fleischer",
+    "cast": [
+      {
+        "name": "Jesse Eisenberg",
+        "character": "J. Daniel Atlas",
+        "profile_path": "/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+      },
+      {
+        "name": "Dominic Sessa",
+        "character": "Bosco",
+        "profile_path": "/cTYdhJrye7oTREIkQaLAuLoJ8Rt.jpg"
+      },
+      {
+        "name": "Ariana Greenblatt",
+        "character": "June",
+        "profile_path": "/lwIqQLPotJHr44lfNsEOnE6IYsf.jpg"
+      },
+      {
+        "name": "Justice Smith",
+        "character": "Charlie",
+        "profile_path": "/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+      },
+      {
+        "name": "Rosamund Pike",
+        "character": "Veronika Vanderberg",
+        "profile_path": "/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Merritt McKinney",
+        "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Dave Franco",
+        "character": "Jack Wilder",
+        "profile_path": "/2diSplvpzCE5CrIKvTaplCKvwPq.jpg"
+      },
+      {
+        "name": "Isla Fisher",
+        "character": "Henley Reeves",
+        "profile_path": "/zNKTzzuyMYaCGEZKhwhqV1K8ffo.jpg"
+      },
+      {
+        "name": "Lizzy Caplan",
+        "character": "Lula",
+        "profile_path": "/eHPzaeY6yfMuuvF8r70Z1ICtRpE.jpg"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Thaddeus Bradley",
+        "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+      }
+    ],
+    "poster": "assets/posters/425274.jpg",
+    "media_type": "movie",
+    "tmdb_id": 425274
+  },
+  {
+    "id": 1214931,
+    "title": "Nuremberg",
+    "year": "2025",
+    "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann G\u00f6ring, Hitler's right-hand man.",
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "rating": 7.337,
+    "runtime": 148,
+    "director": "James Vanderbilt",
+    "cast": [
+      {
+        "name": "Russell Crowe",
+        "character": "Hermann G\u00f6ring",
+        "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+      },
+      {
+        "name": "Rami Malek",
+        "character": "Douglas Kelley",
+        "profile_path": "/ewr46CGOdsx5NzAJdIzEBz2yIQh.jpg"
+      },
+      {
+        "name": "Michael Shannon",
+        "character": "Justice Robert H. Jackson",
+        "profile_path": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+      },
+      {
+        "name": "Leo Woodall",
+        "character": "Sergeant Howie Triest",
+        "profile_path": "/bGRskiP5N2OBP1wcJRVhiYX241.jpg"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Colonel Burton Andrus",
+        "profile_path": "/tm7g84OWD5gQRoyfG4hduBphP1j.jpg"
+      },
+      {
+        "name": "Richard E. Grant",
+        "character": "Sir David Maxwell-Fyfe",
+        "profile_path": "/6UXv8E4WWvRCKMQx1FQ0FJVyu0a.jpg"
+      },
+      {
+        "name": "Colin Hanks",
+        "character": "Dr. Gustave Gilbert",
+        "profile_path": "/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
+      },
+      {
+        "name": "Mark O'Brien",
+        "character": "Colonel John Amen",
+        "profile_path": "/8ckgltvlife4BBJcBpHEQWXfQ9p.jpg"
+      },
+      {
+        "name": "Lotte Verbeek",
+        "character": "Emmy G\u00f6ring",
+        "profile_path": "/aLZXflxdMqBO7jejTuYnqGmA4yW.jpg"
+      },
+      {
+        "name": "Wrenn Schmidt",
+        "character": "Elsie Douglas",
+        "profile_path": "/4zi3u7pbYWk1HapRlw0Db5t1Lb9.jpg"
+      }
+    ],
+    "poster": "assets/posters/1214931.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1214931
+  },
+  {
     "id": 631843,
     "title": "Old",
     "year": "2021",
@@ -9523,6 +10800,75 @@ const MOVIES = [
     "poster": "assets/posters/631843.jpg",
     "media_type": "movie",
     "tmdb_id": 631843
+  },
+  {
+    "id": 1054867,
+    "title": "One Battle After Another",
+    "year": "2025",
+    "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Action"
+    ],
+    "rating": 7.439,
+    "runtime": 162,
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Bob",
+        "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Col. Steven J. Lockjaw",
+        "profile_path": "/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Chase Infiniti",
+        "character": "Willa",
+        "profile_path": "/2goENGgg9OCz7qjMmm0HNxV9Kjj.jpg"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Sensei Sergio St. Carlos",
+        "profile_path": "/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg"
+      },
+      {
+        "name": "Regina Hall",
+        "character": "Deandra",
+        "profile_path": "/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+      },
+      {
+        "name": "Teyana Taylor",
+        "character": "Perfidia",
+        "profile_path": "/foj8l6GGlZxZXcW6pU5wnNxDjSx.jpg"
+      },
+      {
+        "name": "Wood Harris",
+        "character": "Laredo",
+        "profile_path": "/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+      },
+      {
+        "name": "Tony Goldwyn",
+        "character": "Virgil Throckmorton",
+        "profile_path": "/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+      },
+      {
+        "name": "D.W. Moffett",
+        "character": "Bill Desmond",
+        "profile_path": "/7lcIxTqarAgkdLiNlc7Ad57vcP1.jpg"
+      },
+      {
+        "name": "Paul Grimstad",
+        "character": "Sommerville",
+        "profile_path": "/maPuaFdSLnz3br46Ar2GptK4okK.jpg"
+      }
+    ],
+    "poster": "assets/posters/1054867.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1054867
   },
   {
     "id": 1280672,
@@ -9727,6 +11073,77 @@ const MOVIES = [
     "poster": "assets/posters/516729.jpg",
     "media_type": "movie",
     "tmdb_id": 516729
+  },
+  {
+    "id": 19898,
+    "title": "Pandorum",
+    "year": "2009",
+    "overview": "Two crew members wake up on an abandoned spacecraft with no idea who they are, how long they've been asleep, or what their mission is. The two soon discover they're actually not alone \u2013 and the reality of their situation is more horrifying than they could have imagined.",
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "rating": 6.564,
+    "runtime": 108,
+    "director": "Christian Alvart",
+    "cast": [
+      {
+        "name": "Ben Foster",
+        "character": "Bower",
+        "profile_path": "/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
+      },
+      {
+        "name": "Dennis Quaid",
+        "character": "Payton",
+        "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+      },
+      {
+        "name": "Cam Gigandet",
+        "character": "Gallo",
+        "profile_path": "/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+      },
+      {
+        "name": "Antje Traue",
+        "character": "Nadia",
+        "profile_path": "/enfmTZlaXBoaVL1T5XVNe55WbOp.jpg"
+      },
+      {
+        "name": "Cung Le",
+        "character": "Manh",
+        "profile_path": "/4L1cbVQXF3MBSQJiJCjBW4sNYqw.jpg"
+      },
+      {
+        "name": "Eddie Rouse",
+        "character": "Leland",
+        "profile_path": "/r3HEgVyKe4VemiK7h35YBsPbeIP.jpg"
+      },
+      {
+        "name": "Norman Reedus",
+        "character": "Shepard",
+        "profile_path": "/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+      },
+      {
+        "name": "Andr\u00e9 Hennicke",
+        "character": "Hunter Leader",
+        "profile_path": "/ooLG1YJU6hsc5KNGeHqTkwv0GMe.jpg"
+      },
+      {
+        "name": "Friederike Kempter",
+        "character": "Evalon",
+        "profile_path": "/tP2wx2NxhEPdWNupliCc6Jz4SWF.jpg"
+      },
+      {
+        "name": "Niels-Bruno Schmidt",
+        "character": "Insane Officer 'Eden'",
+        "profile_path": "/rsb1NiWWDEdFqFgLbgq5CiAOwmB.jpg"
+      }
+    ],
+    "poster": "assets/posters/19898.jpg",
+    "media_type": "movie",
+    "tmdb_id": 19898
   },
   {
     "id": 496243,
@@ -10757,6 +12174,49 @@ const MOVIES = [
     "tmdb_id": 11321
   },
   {
+    "id": 1527153,
+    "title": "Sharon & Ozzy Osbourne: Coming Home",
+    "year": "2025",
+    "overview": "Follow the final three years of Ozzy Osbourne's life as he and Sharon plan a return home after 25 years in LA and prepare for the ultimate farewell gig.",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "rating": 8.8,
+    "runtime": 59,
+    "director": "Paula Wittig",
+    "cast": [
+      {
+        "name": "Ozzy Osbourne",
+        "character": "Self",
+        "profile_path": "/e6xwFbTYKA0JJmkZZmvUv08hAqL.jpg"
+      },
+      {
+        "name": "Sharon Osbourne",
+        "character": "Self",
+        "profile_path": "/xVDX3uc1TzlsmkBkWobXtU2NNQg.jpg"
+      },
+      {
+        "name": "Kelly Osbourne",
+        "character": "Self",
+        "profile_path": "/l1wpUPSH2BydVGXrE093YGztgoZ.jpg"
+      },
+      {
+        "name": "Jack Osbourne",
+        "character": "Self",
+        "profile_path": "/wfFwjLaRGmgLDzTyVV7pgJwu3K5.jpg"
+      },
+      {
+        "name": "Billy Morrison",
+        "character": "Self",
+        "profile_path": "/40d7OevT3384GeH7sUp303yTseK.jpg"
+      }
+    ],
+    "poster": "assets/posters/1527153.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1527153
+  },
+  {
     "id": 1233413,
     "title": "Sinners",
     "year": "2025",
@@ -11714,6 +13174,75 @@ const MOVIES = [
     "poster": "assets/posters/414906.jpg",
     "media_type": "movie",
     "tmdb_id": 414906
+  },
+  {
+    "id": 866398,
+    "title": "The Beekeeper",
+    "year": "2024",
+    "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 7.288,
+    "runtime": 106,
+    "director": "David Ayer",
+    "cast": [
+      {
+        "name": "Jason Statham",
+        "character": "Adam Clay",
+        "profile_path": "/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
+      },
+      {
+        "name": "Emmy Raver-Lampman",
+        "character": "Agent Verona Parker",
+        "profile_path": "/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
+      },
+      {
+        "name": "Josh Hutcherson",
+        "character": "Derek Danforth",
+        "profile_path": "/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+      },
+      {
+        "name": "Jeremy Irons",
+        "character": "Wallace Westwyld",
+        "profile_path": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+      },
+      {
+        "name": "Bobby Naderi",
+        "character": "Agent Matt Wiley",
+        "profile_path": "/3jfEwF7vyCTIDPPm2OFoFlEEVA0.jpg"
+      },
+      {
+        "name": "David Witts",
+        "character": "Mickey Garnett",
+        "profile_path": "/kqelxzQqffd1Qcz8VKOYSpoP7p8.jpg"
+      },
+      {
+        "name": "Michael Epp",
+        "character": "Pettis",
+        "profile_path": "/3Nz3sX7QISm5e6mWNvJDKUD2Qyd.jpg"
+      },
+      {
+        "name": "Taylor James",
+        "character": "Lazarus",
+        "profile_path": "/sMMCf0O7GcbJZoxmyWAbU6CsN6B.jpg"
+      },
+      {
+        "name": "Phylicia Rash\u0101d",
+        "character": "Eloise Parker",
+        "profile_path": "/orbTpG0jaYkPR167TNiEg0AKG3M.jpg"
+      },
+      {
+        "name": "Jemma Redgrave",
+        "character": "President Danforth",
+        "profile_path": "/1Lgtd9zpwwuyKqjmd5ME2lN9FUq.jpg"
+      }
+    ],
+    "poster": "assets/posters/866398.jpg",
+    "media_type": "movie",
+    "tmdb_id": 866398
   },
   {
     "id": 2501,
@@ -13604,6 +15133,75 @@ const MOVIES = [
     "tmdb_id": 924482
   },
   {
+    "id": 11615,
+    "title": "The Life of David Gale",
+    "year": "2003",
+    "overview": "A man against capital punishment is accused of murdering a fellow activist and is sent to death row.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "rating": 7.44,
+    "runtime": 130,
+    "director": "Alan Parker",
+    "cast": [
+      {
+        "name": "Kevin Spacey",
+        "character": "David Gale",
+        "profile_path": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Bitsey Bloom",
+        "profile_path": "/cPRq7uH3PIFcHilP15BrMKunink.jpg"
+      },
+      {
+        "name": "Laura Linney",
+        "character": "Constance Hallaway",
+        "profile_path": "/ztQXGmNLzhDV22rAvcXzCG4d0cy.jpg"
+      },
+      {
+        "name": "Rhona Mitra",
+        "character": "Berlin",
+        "profile_path": "/uNhJlnnojDMeBNpYQwyD5Tomqyq.jpg"
+      },
+      {
+        "name": "Gabriel Mann",
+        "character": "Zack Stemmons",
+        "profile_path": "/mrqiMfwoQnLBGGP3zvfHrwPKHJW.jpg"
+      },
+      {
+        "name": "Matt Craven",
+        "character": "Dusty Wright",
+        "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
+      },
+      {
+        "name": "Jim Beaver",
+        "character": "Duke Grover",
+        "profile_path": "/c3Cqp1XAdcyeUZKkcrdQsPwb010.jpg"
+      },
+      {
+        "name": "Cleo King",
+        "character": "Barbara Kreuster",
+        "profile_path": "/teEPJgvrvPrNEh83FdOroNSLJzO.jpg"
+      },
+      {
+        "name": "Leon Rippy",
+        "character": "Braxton Belyeu",
+        "profile_path": "/55GaqeKzIwbKBDW9RT1CYIZaUKO.jpg"
+      },
+      {
+        "name": "Melissa McCarthy",
+        "character": "Nico the Goth Girl",
+        "profile_path": "/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
+      }
+    ],
+    "poster": "assets/posters/11615.jpg",
+    "media_type": "movie",
+    "tmdb_id": 11615
+  },
+  {
     "id": 474764,
     "title": "The Lodge",
     "year": "2020",
@@ -13873,6 +15471,144 @@ const MOVIES = [
     "tmdb_id": 552688
   },
   {
+    "id": 290512,
+    "title": "The Mountain Between Us",
+    "year": "2017",
+    "overview": "Stranded on a mountain after a tragic plane crash, two strangers must work together to endure the extreme elements of the remote, snow-covered terrain. When they realize help is not coming, they embark on a perilous journey across hundreds of miles of wilderness, pushing each other to survive and discovering their inner strength.",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Romance"
+    ],
+    "rating": 6.65,
+    "runtime": 109,
+    "director": "Hany Abu-Assad",
+    "cast": [
+      {
+        "name": "Idris Elba",
+        "character": "Dr. Ben Bass",
+        "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Alex Martin",
+        "profile_path": "/cPRq7uH3PIFcHilP15BrMKunink.jpg"
+      },
+      {
+        "name": "Dermot Mulroney",
+        "character": "Mark Robertson",
+        "profile_path": "/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+      },
+      {
+        "name": "Beau Bridges",
+        "character": "Walter",
+        "profile_path": "/Aiezvt0Uj2Ka9QVW3GvuRLkNS2V.jpg"
+      },
+      {
+        "name": "Linda Sorensen",
+        "character": "Pamela",
+        "profile_path": "/ciB9m4TFnIpGbujT8k423ak95B4.jpg"
+      },
+      {
+        "name": "Mercy Myrdal",
+        "character": "Sarah Bass",
+        "profile_path": "/5KFSbsKSNayq2Tf0GcG401MANvE.jpg"
+      },
+      {
+        "name": "Dania Nassar",
+        "character": "Mrs. Qabbani",
+        "profile_path": null
+      },
+      {
+        "name": "Vincent Gale",
+        "character": "Airline Customer Service",
+        "profile_path": "/48TVmEf0ck1t5tiXcQjBUyJYWrt.jpg"
+      },
+      {
+        "name": "Marci T. House",
+        "character": "Airline Representative",
+        "profile_path": "/axLQS0wYYPMjJmaL268aUcaW505.jpg"
+      },
+      {
+        "name": "Lee Majdoub",
+        "character": "Translator",
+        "profile_path": "/vpF3R2YRCGHseGevmDAhftmOPkO.jpg"
+      }
+    ],
+    "poster": "assets/posters/290512.jpg",
+    "media_type": "movie",
+    "tmdb_id": 290512
+  },
+  {
+    "id": 1035259,
+    "title": "The Naked Gun",
+    "year": "2025",
+    "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 6.4,
+    "runtime": 85,
+    "director": "Akiva Schaffer",
+    "cast": [
+      {
+        "name": "Liam Neeson",
+        "character": "Frank Drebin Jr.",
+        "profile_path": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+      },
+      {
+        "name": "Pamela Anderson",
+        "character": "Beth Davenport",
+        "profile_path": "/sk15ch2IQ6k6vWu07Jr77yw4oj5.jpg"
+      },
+      {
+        "name": "Paul Walter Hauser",
+        "character": "Ed Hocken Jr.",
+        "profile_path": "/nmBdzJpfHMRHsT3VrjyXAxMFLZA.jpg"
+      },
+      {
+        "name": "Danny Huston",
+        "character": "Richard Cane",
+        "profile_path": "/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg"
+      },
+      {
+        "name": "CCH Pounder",
+        "character": "Chief Davis",
+        "profile_path": "/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg"
+      },
+      {
+        "name": "Kevin Durand",
+        "character": "Sig Gustafson",
+        "profile_path": "/vY7TmVaXVpvjDsAJclKqUVt8Y4Y.jpg"
+      },
+      {
+        "name": "Liza Koshy",
+        "character": "Detective Barnes",
+        "profile_path": "/pPu4TYkuNGmPEykWzFwCz55pAWB.jpg"
+      },
+      {
+        "name": "Eddie Yu",
+        "character": "Detective Park",
+        "profile_path": "/jWALEHujE35CHyB31DqFuEv4nMh.jpg"
+      },
+      {
+        "name": "Michael Beasley",
+        "character": "Detective Taylor",
+        "profile_path": "/w1sqMMzBG4M5K9b4Wrhejh0LS5a.jpg"
+      },
+      {
+        "name": "Moses Jones",
+        "character": "Not Nordberg Jr.",
+        "profile_path": "/4Dd8AaxTcXSSmZJEoUOO3rxiru2.jpg"
+      }
+    ],
+    "poster": "assets/posters/1035259.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1035259
+  },
+  {
     "id": 639933,
     "title": "The Northman",
     "year": "2022",
@@ -13940,6 +15676,29 @@ const MOVIES = [
     "poster": "assets/posters/639933.jpg",
     "media_type": "movie",
     "tmdb_id": 639933
+  },
+  {
+    "id": 323697,
+    "title": "The Notorious",
+    "year": "2014",
+    "overview": "In the world's fastest growing sport, an Irishman from Crumlin stands on the threshold of becoming its next global superstar. This special documentary enters the high-stakes world of the UFC as it follows 'The Notorious' Conor McGregor over the most important six months of his fighting career.",
+    "genres": [
+      "TV Movie",
+      "Documentary"
+    ],
+    "rating": 7.5,
+    "runtime": 55,
+    "director": "Patrick Timmons Ward",
+    "cast": [
+      {
+        "name": "Conor McGregor",
+        "character": "Himself",
+        "profile_path": "/aEamMRQTl1P6fgvQnrEHGfd07El.jpg"
+      }
+    ],
+    "poster": "assets/posters/323697.jpg",
+    "media_type": "movie",
+    "tmdb_id": 323697
   },
   {
     "id": 872954,
@@ -14283,6 +16042,76 @@ const MOVIES = [
     "poster": "assets/posters/467956.jpg",
     "media_type": "movie",
     "tmdb_id": 467956
+  },
+  {
+    "id": 862552,
+    "title": "The Ritual Killer",
+    "year": "2023",
+    "overview": "Unable to process the death of his daughter, Detective Boyd embarks on a hunt for a serial killer who murders according to a brutal tribal ritual: Muti. The only person who can help Boyd is Professor Mackles, an anthropologist who hides an unspeakable secret. The line between sanity and madness thins as Boyd goes deeper into the killer\u2019s world.",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Action",
+      "Drama"
+    ],
+    "rating": 5.8,
+    "runtime": 92,
+    "director": "George Gallo",
+    "cast": [
+      {
+        "name": "Morgan Freeman",
+        "character": "Dr. Mackles",
+        "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+      },
+      {
+        "name": "Cole Hauser",
+        "character": "Detective Lucas Boyd",
+        "profile_path": "/5D1nCd0Lcm3HgOWFDinEN40DNoW.jpg"
+      },
+      {
+        "name": "Vernon Davis",
+        "character": "Randoku",
+        "profile_path": "/gOOcAzFLYd1RDa8WzLNFBxaBtpC.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "Captain Marchand",
+        "profile_path": "/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
+      },
+      {
+        "name": "Giuseppe Zeno",
+        "character": "Inspector Mario Lavazzi",
+        "profile_path": "/4KGq9uycwInnVlzSgCYoihVdsOU.jpg"
+      },
+      {
+        "name": "Murielle Hilaire",
+        "character": "Detective Kersch",
+        "profile_path": "/7tiqNBSSGOu6ey7ToBcirTlnkAf.jpg"
+      },
+      {
+        "name": "Luke Stratte-McClure",
+        "character": "Detective Claussen",
+        "profile_path": "/iYRht7FbwRlHPdhs6eMYRscIggE.jpg"
+      },
+      {
+        "name": "Brian Kurlander",
+        "character": "Shelby Farner",
+        "profile_path": "/2uyaHUUjUPQP1oZK7osDUm2tri2.jpg"
+      },
+      {
+        "name": "Julie Lott Gallo",
+        "character": "Doctor Mannheim",
+        "profile_path": "/1SPP2LQZc3Zp3WLXWCZADPZhDLv.jpg"
+      },
+      {
+        "name": "Destiny Loren",
+        "character": "Katie Franklin",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/862552.jpg",
+    "media_type": "movie",
+    "tmdb_id": 862552
   },
   {
     "id": 1128141,
@@ -15060,6 +16889,108 @@ const MOVIES = [
     "tmdb_id": 359940
   },
   {
+    "id": 986056,
+    "title": "Thunderbolts*",
+    "year": "2025",
+    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "rating": 7.31,
+    "runtime": 127,
+    "director": "Jake Schreier",
+    "cast": [
+      {
+        "name": "Florence Pugh",
+        "character": "Yelena Belova",
+        "profile_path": "/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+      },
+      {
+        "name": "Sebastian Stan",
+        "character": "Bucky Barnes",
+        "profile_path": "/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+      },
+      {
+        "name": "Julia Louis-Dreyfus",
+        "character": "Valentina Allegra de Fontaine",
+        "profile_path": "/sXpjQoFoYqNehfWhlkScF8lo9vc.jpg"
+      },
+      {
+        "name": "Lewis Pullman",
+        "character": "Robert Reynolds",
+        "profile_path": "/axcp6FswcSS1YPzO43BbyXIh2B2.jpg"
+      },
+      {
+        "name": "David Harbour",
+        "character": "Alexei Shostakov",
+        "profile_path": "/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+      },
+      {
+        "name": "Wyatt Russell",
+        "character": "John Walker",
+        "profile_path": "/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+      },
+      {
+        "name": "Hannah John-Kamen",
+        "character": "Ava Starr",
+        "profile_path": "/V8P9EVelewGVXbuyEylqrzF6iG.jpg"
+      },
+      {
+        "name": "Olga Kurylenko",
+        "character": "Antonia Dreykov",
+        "profile_path": "/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+      },
+      {
+        "name": "Geraldine Viswanathan",
+        "character": "Mel",
+        "profile_path": "/mZ1dKqL2ymRipGEudzr8TQliB52.jpg"
+      },
+      {
+        "name": "Wendell Pierce",
+        "character": "Congressman Gary",
+        "profile_path": "/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+      }
+    ],
+    "poster": "assets/posters/986056.jpg",
+    "media_type": "movie",
+    "tmdb_id": 986056
+  },
+  {
+    "id": 837548,
+    "title": "Together",
+    "year": "2021",
+    "overview": "A husband and wife are forced to re-evaluate themselves and their relationship through the reality of the Covid-19 lockdown.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "rating": 5.632,
+    "runtime": 92,
+    "director": "Stephen Daldry",
+    "cast": [
+      {
+        "name": "James McAvoy",
+        "character": "He",
+        "profile_path": "/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+      },
+      {
+        "name": "Sharon Horgan",
+        "character": "She",
+        "profile_path": "/mNTtNGqdL8CzOBjCYCjOLRosOTM.jpg"
+      },
+      {
+        "name": "Samuel Logan",
+        "character": "Artie",
+        "profile_path": "/2JbIxuf83wBuHmLGoEqNvHOA30S.jpg"
+      }
+    ],
+    "poster": "assets/posters/837548.jpg",
+    "media_type": "movie",
+    "tmdb_id": 837548
+  },
+  {
     "id": 361743,
     "title": "Top Gun: Maverick",
     "year": "2022",
@@ -15263,6 +17194,144 @@ const MOVIES = [
     "poster": "assets/posters/497828.jpg",
     "media_type": "movie",
     "tmdb_id": 497828
+  },
+  {
+    "id": 7347,
+    "title": "Elite Squad",
+    "year": "2007",
+    "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime"
+    ],
+    "rating": 8.058,
+    "runtime": 115,
+    "director": "Jos\u00e9 Padilha",
+    "cast": [
+      {
+        "name": "Wagner Moura",
+        "character": "Capit\u00e3o Nascimento",
+        "profile_path": "/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+      },
+      {
+        "name": "Andr\u00e9 Ramiro",
+        "character": "Andr\u00e9 Matias",
+        "profile_path": "/t0UlmNhX0eqj0KMLaOijvHQ9qLa.jpg"
+      },
+      {
+        "name": "Caio Junqueira",
+        "character": "Neto",
+        "profile_path": "/eBWowtTWdpSrwkObEF0ND8KWEHh.jpg"
+      },
+      {
+        "name": "Milhem Cortaz",
+        "character": "Capitao Fabio",
+        "profile_path": "/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
+      },
+      {
+        "name": "Fernanda Machado",
+        "character": "Maria",
+        "profile_path": "/1jINiDIeYSO2FLjPmnzXWRFqZ2b.jpg"
+      },
+      {
+        "name": "Maria Ribeiro",
+        "character": "Rosane",
+        "profile_path": "/uZrnxHCFUqL4EY5KkWszHcgtKOs.jpg"
+      },
+      {
+        "name": "F\u00e1bio Lago",
+        "character": "Baiano",
+        "profile_path": "/sleKnqUCiv3kSMfpKqoLUpKkvVC.jpg"
+      },
+      {
+        "name": "Erick Oliveira",
+        "character": "Marcinho",
+        "profile_path": "/vJp2WFPksIxkQbsMokdyyhgGoaB.jpg"
+      },
+      {
+        "name": "Marcello Escorel",
+        "character": "Coronel Ot\u00e1vio",
+        "profile_path": "/1SXEmTjPhxRpljv4vNjMmNe7HSg.jpg"
+      },
+      {
+        "name": "Roberta Santiago",
+        "character": "Rose",
+        "profile_path": "/4Yu2FSoZ4T9y4eKsjZRHF8tDju0.jpg"
+      }
+    ],
+    "poster": "assets/posters/7347.jpg",
+    "media_type": "movie",
+    "tmdb_id": 7347
+  },
+  {
+    "id": 47931,
+    "title": "Elite Squad: The Enemy Within",
+    "year": "2010",
+    "overview": "After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in Rio de Janeiro to control a rebellion of interns, the Lieutenant-Colonel Roberto Nascimento and the second in command Captain Andr\u00e9 Matias are accused by the Human Right Aids member Diogo Fraga of execution of prisoners. Matias is transferred to the corrupted Military Police and Nascimento is exonerated from the BOPE by the Governor.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime"
+    ],
+    "rating": 7.832,
+    "runtime": 115,
+    "director": "Jos\u00e9 Padilha",
+    "cast": [
+      {
+        "name": "Wagner Moura",
+        "character": "Tenente-Coronel Nascimento",
+        "profile_path": "/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+      },
+      {
+        "name": "Irandhir Santos",
+        "character": "Diogo Fraga",
+        "profile_path": "/kBwk9e25OV32nTRRhBOPEneHUm3.jpg"
+      },
+      {
+        "name": "Andr\u00e9 Ramiro",
+        "character": "Andr\u00e9 Matias",
+        "profile_path": "/t0UlmNhX0eqj0KMLaOijvHQ9qLa.jpg"
+      },
+      {
+        "name": "Pedro Van-Held",
+        "character": "Rafael",
+        "profile_path": "/iV2F8oj1feXf3sGjQJ4ZPI4hoSu.jpg"
+      },
+      {
+        "name": "Maria Ribeiro",
+        "character": "Rosane",
+        "profile_path": "/uZrnxHCFUqL4EY5KkWszHcgtKOs.jpg"
+      },
+      {
+        "name": "Sandro Rocha",
+        "character": "Russo",
+        "profile_path": "/p8Ngn667dNMshz36n6VkxqoVAhG.jpg"
+      },
+      {
+        "name": "Milhem Cortaz",
+        "character": "Tenente-Coronel F\u00e1bio",
+        "profile_path": "/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
+      },
+      {
+        "name": "Tain\u00e1 M\u00fcller",
+        "character": "Clara",
+        "profile_path": "/j19Hgucs8hAvvvOdEIG8sHhjEi5.jpg"
+      },
+      {
+        "name": "Seu Jorge",
+        "character": "Beirada",
+        "profile_path": "/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
+      },
+      {
+        "name": "Andr\u00e9 Mattos",
+        "character": "Fortunato",
+        "profile_path": "/shM96iQ01RNYFkzs5Sq8i4nQpCK.jpg"
+      }
+    ],
+    "poster": "assets/posters/47931.jpg",
+    "media_type": "movie",
+    "tmdb_id": 47931
   },
   {
     "id": 9741,
@@ -15540,6 +17609,75 @@ const MOVIES = [
     "tmdb_id": 912649
   },
   {
+    "id": 812583,
+    "title": "Wake Up Dead Man: A Knives Out Mystery",
+    "year": "2025",
+    "overview": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After a sudden and seemingly impossible murder rocks the town, the lack of an obvious suspect prompts local police chief Geraldine Scott to join forces with renowned detective Benoit Blanc to unravel a mystery that defies all logic.",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Comedy"
+    ],
+    "rating": 7.213,
+    "runtime": 145,
+    "director": "Rian Johnson",
+    "cast": [
+      {
+        "name": "Daniel Craig",
+        "character": "Benoit Blanc",
+        "profile_path": "/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+      },
+      {
+        "name": "Josh O'Connor",
+        "character": "Fr. Jud Duplenticy",
+        "profile_path": "/vV9m1GnFVDFPC0kZgbUVe2ZKk3d.jpg"
+      },
+      {
+        "name": "Glenn Close",
+        "character": "Martha Delacroix",
+        "profile_path": "/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Mons. Jefferson Wicks",
+        "profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Mila Kunis",
+        "character": "Chief Geraldine Scott",
+        "profile_path": "/tyT8pGgpm7xa7y2sQfm211FXpnr.jpg"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Dr. Nat Sharp",
+        "profile_path": "/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+      },
+      {
+        "name": "Kerry Washington",
+        "character": "Vera Draven, Esq.",
+        "profile_path": "/hCi43gRO7zfv3Mu8X1bpqtloyHT.jpg"
+      },
+      {
+        "name": "Andrew Scott",
+        "character": "Lee Ross",
+        "profile_path": "/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+      },
+      {
+        "name": "Cailee Spaeny",
+        "character": "Simone Vivane",
+        "profile_path": "/qFqXdfZMtsWKyErnIC6dLEvvDKk.jpg"
+      },
+      {
+        "name": "Daryl McCormack",
+        "character": "Cy Draven",
+        "profile_path": "/uxBEREn7HCDzhSNJaFw8MPdvXxo.jpg"
+      }
+    ],
+    "poster": "assets/posters/812583.jpg",
+    "media_type": "movie",
+    "tmdb_id": 812583
+  },
+  {
     "id": 69,
     "title": "Walk the Line",
     "year": "2005",
@@ -15675,6 +17813,74 @@ const MOVIES = [
     "poster": "assets/posters/1241436.jpg",
     "media_type": "movie",
     "tmdb_id": 1241436
+  },
+  {
+    "id": 1078605,
+    "title": "Weapons",
+    "year": "2025",
+    "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "rating": 7.363,
+    "runtime": 129,
+    "director": "Zach Cregger",
+    "cast": [
+      {
+        "name": "Julia Garner",
+        "character": "Justine",
+        "profile_path": "/ud1RXbvW70J89iqeic7no8olxvb.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Archer",
+        "profile_path": "/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+      },
+      {
+        "name": "Alden Ehrenreich",
+        "character": "Paul",
+        "profile_path": "/bx86TPUmeHp0QkijQb16r2qIwEr.jpg"
+      },
+      {
+        "name": "Austin Abrams",
+        "character": "James",
+        "profile_path": "/9pSpSAk9NsYC5puqAVsmSK3OSeu.jpg"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Marcus",
+        "profile_path": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+      },
+      {
+        "name": "Amy Madigan",
+        "character": "Gladys",
+        "profile_path": "/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg"
+      },
+      {
+        "name": "Cary Christopher",
+        "character": "Alex",
+        "profile_path": "/id5UrEyjXvr1KgQB4pnmD8JpSUR.jpg"
+      },
+      {
+        "name": "Toby Huss",
+        "character": "Captain Ed",
+        "profile_path": "/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+      },
+      {
+        "name": "Whitmer Thomas",
+        "character": "Alex's Dad",
+        "profile_path": "/ivz8rehM5WFKsUpDSULUFgPYyze.jpg"
+      },
+      {
+        "name": "Callie Schuttera",
+        "character": "Alex's Mom",
+        "profile_path": "/rStZupJY2T9bRr8Y1kg4CEgnHUX.jpg"
+      }
+    ],
+    "poster": "assets/posters/1078605.jpg",
+    "media_type": "movie",
+    "tmdb_id": 1078605
   },
   {
     "id": 970450,
@@ -15949,1083 +18155,6 @@ const MOVIES = [
     "poster": "assets/posters/774531.jpg",
     "media_type": "movie",
     "tmdb_id": 774531
-  },
-  {
-    "id": 541671,
-    "title": "Ballerina",
-    "year": "2025",
-    "overview": "Taking place during the events of John Wick: Chapter 3 \u2013 Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
-    "rating": 7.368,
-    "runtime": 125,
-    "director": "Len Wiseman",
-    "cast": [
-      {
-        "name": "Ana de Armas",
-        "character": "Eve",
-        "profile_path": "/5Qne374OM0ewMM7uSN9eq9jNrWq.jpg"
-      },
-      {
-        "name": "Keanu Reeves",
-        "character": "John Wick",
-        "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-      },
-      {
-        "name": "Ian McShane",
-        "character": "Winston",
-        "profile_path": "/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
-      },
-      {
-        "name": "Anjelica Huston",
-        "character": "The Director",
-        "profile_path": "/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
-      },
-      {
-        "name": "Gabriel Byrne",
-        "character": "The Chancellor",
-        "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
-      },
-      {
-        "name": "Catalina Sandino Moreno",
-        "character": "Lena",
-        "profile_path": "/78V4H40NXJ6dzqFZaEe1fBelw56.jpg"
-      },
-      {
-        "name": "Ava McCarthy",
-        "character": "Ella",
-        "profile_path": "/9HcCr2p1ofBHPb9uuTNBAsxtj0T.jpg"
-      },
-      {
-        "name": "Juliet Doherty",
-        "character": "Tatiana",
-        "profile_path": "/pKZjcSanPllyEiHe3rac6OfeQ9a.jpg"
-      },
-      {
-        "name": "Norman Reedus",
-        "character": "Daniel Pine",
-        "profile_path": "/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
-      },
-      {
-        "name": "Lance Reddick",
-        "character": "Charon",
-        "profile_path": "/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
-      }
-    ],
-    "poster": "assets/posters/541671.jpg",
-    "media_type": "movie",
-    "tmdb_id": 541671
-  },
-  {
-    "id": 7347,
-    "title": "Elite Squad",
-    "year": "2007",
-    "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
-    "genres": [
-      "Drama",
-      "Action",
-      "Crime"
-    ],
-    "rating": 8.058,
-    "runtime": 115,
-    "director": "Jos\u00e9 Padilha",
-    "cast": [
-      {
-        "name": "Wagner Moura",
-        "character": "Capit\u00e3o Nascimento",
-        "profile_path": "/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
-      },
-      {
-        "name": "Andr\u00e9 Ramiro",
-        "character": "Andr\u00e9 Matias",
-        "profile_path": "/t0UlmNhX0eqj0KMLaOijvHQ9qLa.jpg"
-      },
-      {
-        "name": "Caio Junqueira",
-        "character": "Neto",
-        "profile_path": "/eBWowtTWdpSrwkObEF0ND8KWEHh.jpg"
-      },
-      {
-        "name": "Milhem Cortaz",
-        "character": "Capitao Fabio",
-        "profile_path": "/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
-      },
-      {
-        "name": "Fernanda Machado",
-        "character": "Maria",
-        "profile_path": "/1jINiDIeYSO2FLjPmnzXWRFqZ2b.jpg"
-      },
-      {
-        "name": "Maria Ribeiro",
-        "character": "Rosane",
-        "profile_path": "/uZrnxHCFUqL4EY5KkWszHcgtKOs.jpg"
-      },
-      {
-        "name": "F\u00e1bio Lago",
-        "character": "Baiano",
-        "profile_path": "/sleKnqUCiv3kSMfpKqoLUpKkvVC.jpg"
-      },
-      {
-        "name": "Erick Oliveira",
-        "character": "Marcinho",
-        "profile_path": "/vJp2WFPksIxkQbsMokdyyhgGoaB.jpg"
-      },
-      {
-        "name": "Marcello Escorel",
-        "character": "Coronel Ot\u00e1vio",
-        "profile_path": "/1SXEmTjPhxRpljv4vNjMmNe7HSg.jpg"
-      },
-      {
-        "name": "Roberta Santiago",
-        "character": "Rose",
-        "profile_path": "/4Yu2FSoZ4T9y4eKsjZRHF8tDju0.jpg"
-      }
-    ],
-    "poster": "assets/posters/7347.jpg",
-    "media_type": "movie",
-    "tmdb_id": 7347
-  },
-  {
-    "id": 47931,
-    "title": "Elite Squad: The Enemy Within",
-    "year": "2010",
-    "overview": "After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in Rio de Janeiro to control a rebellion of interns, the Lieutenant-Colonel Roberto Nascimento and the second in command Captain Andr\u00e9 Matias are accused by the Human Right Aids member Diogo Fraga of execution of prisoners. Matias is transferred to the corrupted Military Police and Nascimento is exonerated from the BOPE by the Governor.",
-    "genres": [
-      "Drama",
-      "Action",
-      "Crime"
-    ],
-    "rating": 7.832,
-    "runtime": 115,
-    "director": "Jos\u00e9 Padilha",
-    "cast": [
-      {
-        "name": "Wagner Moura",
-        "character": "Tenente-Coronel Nascimento",
-        "profile_path": "/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
-      },
-      {
-        "name": "Irandhir Santos",
-        "character": "Diogo Fraga",
-        "profile_path": "/kBwk9e25OV32nTRRhBOPEneHUm3.jpg"
-      },
-      {
-        "name": "Andr\u00e9 Ramiro",
-        "character": "Andr\u00e9 Matias",
-        "profile_path": "/t0UlmNhX0eqj0KMLaOijvHQ9qLa.jpg"
-      },
-      {
-        "name": "Pedro Van-Held",
-        "character": "Rafael",
-        "profile_path": "/iV2F8oj1feXf3sGjQJ4ZPI4hoSu.jpg"
-      },
-      {
-        "name": "Maria Ribeiro",
-        "character": "Rosane",
-        "profile_path": "/uZrnxHCFUqL4EY5KkWszHcgtKOs.jpg"
-      },
-      {
-        "name": "Sandro Rocha",
-        "character": "Russo",
-        "profile_path": "/p8Ngn667dNMshz36n6VkxqoVAhG.jpg"
-      },
-      {
-        "name": "Milhem Cortaz",
-        "character": "Tenente-Coronel F\u00e1bio",
-        "profile_path": "/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg"
-      },
-      {
-        "name": "Tain\u00e1 M\u00fcller",
-        "character": "Clara",
-        "profile_path": "/j19Hgucs8hAvvvOdEIG8sHhjEi5.jpg"
-      },
-      {
-        "name": "Seu Jorge",
-        "character": "Beirada",
-        "profile_path": "/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
-      },
-      {
-        "name": "Andr\u00e9 Mattos",
-        "character": "Fortunato",
-        "profile_path": "/shM96iQ01RNYFkzs5Sq8i4nQpCK.jpg"
-      }
-    ],
-    "poster": "assets/posters/47931.jpg",
-    "media_type": "movie",
-    "tmdb_id": 47931
-  },
-  {
-    "id": 749170,
-    "title": "Heads of State",
-    "year": "2025",
-    "overview": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Comedy"
-    ],
-    "rating": 6.916,
-    "runtime": 117,
-    "director": "Ilya Naishuller",
-    "cast": [
-      {
-        "name": "John Cena",
-        "character": "Will Derringer",
-        "profile_path": "/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
-      },
-      {
-        "name": "Idris Elba",
-        "character": "Sam Clarke",
-        "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
-      },
-      {
-        "name": "Priyanka Chopra Jonas",
-        "character": "Noel Bisset",
-        "profile_path": "/stEZxIVAWFlrifbWkeULsD4LHnf.jpg"
-      },
-      {
-        "name": "Paddy Considine",
-        "character": "Viktor Gradov",
-        "profile_path": "/96bZA8JRDjBgCE7ZHHgOMPmykc4.jpg"
-      },
-      {
-        "name": "Carla Gugino",
-        "character": "VP Elizabeth Kirk",
-        "profile_path": "/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg"
-      },
-      {
-        "name": "Stephen Root",
-        "character": "Arthur Hammond",
-        "profile_path": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
-      },
-      {
-        "name": "Jack Quaid",
-        "character": "Marty Comer",
-        "profile_path": "/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
-      },
-      {
-        "name": "Sarah Niles",
-        "character": "Simone Bradshaw",
-        "profile_path": "/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
-      },
-      {
-        "name": "Richard Coyle",
-        "character": "Quincy Harrington",
-        "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
-      },
-      {
-        "name": "Aleksandr Kuznetsov",
-        "character": "Sasha the Killer",
-        "profile_path": "/hFrl2Sp1tOcNIpfIpP6M2QMDjyp.jpg"
-      }
-    ],
-    "poster": "assets/posters/749170.jpg",
-    "media_type": "movie",
-    "tmdb_id": 749170
-  },
-  {
-    "id": 1083433,
-    "title": "I Know What You Did Last Summer",
-    "year": "2025",
-    "overview": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer\u2026and is hell-bent on revenge.",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "rating": 5.953,
-    "runtime": 111,
-    "director": "Jennifer Kaytin Robinson",
-    "cast": [
-      {
-        "name": "Chase Sui Wonders",
-        "character": "Ava Brucks",
-        "profile_path": "/e89eEhNUIfMawLNdJ3jXft8AAMF.jpg"
-      },
-      {
-        "name": "Madelyn Cline",
-        "character": "Danica Richards",
-        "profile_path": "/5bn1dx7IyOZpy6g1T9M4E7jXr9E.jpg"
-      },
-      {
-        "name": "Sarah Pidgeon",
-        "character": "Stevie Ward",
-        "profile_path": "/wMj4WykLKTc6iHIYiXnho6jeYN1.jpg"
-      },
-      {
-        "name": "Tyriq Withers",
-        "character": "Teddy Spencer",
-        "profile_path": "/lwdIoyA2V9cAQf8rWDijINLsA9O.jpg"
-      },
-      {
-        "name": "Jonah Hauer-King",
-        "character": "Milo Griffin",
-        "profile_path": "/yXGsk9UtOV9tprU5ZSuhwdFtaBB.jpg"
-      },
-      {
-        "name": "Jennifer Love Hewitt",
-        "character": "Julie James",
-        "profile_path": "/l9ggjks77ychiR4Pw6FUkSTux0m.jpg"
-      },
-      {
-        "name": "Freddie Prinze Jr.",
-        "character": "Ray Bronson",
-        "profile_path": "/8V9yNBjCNRBKROyjCLKLJGcCBdG.jpg"
-      },
-      {
-        "name": "Billy Campbell",
-        "character": "Grant Spencer",
-        "profile_path": "/hMNmtQK3a6mqIQRyXn9G5bbheJV.jpg"
-      },
-      {
-        "name": "Gabbriette",
-        "character": "Tyler Trevino",
-        "profile_path": "/ej4Hp5WWwjWFeexvDyOKr2Aaz2k.jpg"
-      },
-      {
-        "name": "Sarah Michelle Gellar",
-        "character": "Helen Shivers",
-        "profile_path": "/mr74lbU9MLcYV4aQDsfHp7rnwS4.jpg"
-      }
-    ],
-    "poster": "assets/posters/1083433.jpg",
-    "media_type": "movie",
-    "tmdb_id": 1083433
-  },
-  {
-    "id": 1850,
-    "title": "Man on the Moon",
-    "year": "1999",
-    "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "rating": 7.247,
-    "runtime": 118,
-    "director": "Milo\u0161 Forman",
-    "cast": [
-      {
-        "name": "Jim Carrey",
-        "character": "Andy Kaufman / Tony Clifton",
-        "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
-      },
-      {
-        "name": "Danny DeVito",
-        "character": "George Shapiro",
-        "profile_path": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
-      },
-      {
-        "name": "Courtney Love",
-        "character": "Lynne Margulies",
-        "profile_path": "/lIb3gMM1LoE53mHYnMWooBH4mDJ.jpg"
-      },
-      {
-        "name": "Paul Giamatti",
-        "character": "Bob Zmuda",
-        "profile_path": "/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg"
-      },
-      {
-        "name": "Vincent Schiavelli",
-        "character": "Maynard Smith",
-        "profile_path": "/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
-      },
-      {
-        "name": "Peter Bonerz",
-        "character": "Ed Weinberger",
-        "profile_path": "/8qWxMGvASfbwbW9AbV2Fb4pP3t7.jpg"
-      },
-      {
-        "name": "Jerry Lawler",
-        "character": "Himself",
-        "profile_path": "/jSjWooyleMmGu6hDslohMGyy0IQ.jpg"
-      },
-      {
-        "name": "Gerry Becker",
-        "character": "Stanley Kaufman",
-        "profile_path": "/il1r1Iym5WFJyo8SQon60aqu4nC.jpg"
-      },
-      {
-        "name": "Leslie Lyles",
-        "character": "Janice Kaufman",
-        "profile_path": "/pTEfzFH2gaWoabfVoCTZmetXlf0.jpg"
-      },
-      {
-        "name": "Greyson Erik Pendry",
-        "character": "Little Michael Kaufman",
-        "profile_path": null
-      }
-    ],
-    "poster": "assets/posters/1850.jpg",
-    "media_type": "movie",
-    "tmdb_id": 1850
-  },
-  {
-    "id": 19898,
-    "title": "Pandorum",
-    "year": "2009",
-    "overview": "Two crew members wake up on an abandoned spacecraft with no idea who they are, how long they've been asleep, or what their mission is. The two soon discover they're actually not alone \u2013 and the reality of their situation is more horrifying than they could have imagined.",
-    "genres": [
-      "Action",
-      "Horror",
-      "Mystery",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "rating": 6.564,
-    "runtime": 108,
-    "director": "Christian Alvart",
-    "cast": [
-      {
-        "name": "Ben Foster",
-        "character": "Bower",
-        "profile_path": "/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
-      },
-      {
-        "name": "Dennis Quaid",
-        "character": "Payton",
-        "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
-      },
-      {
-        "name": "Cam Gigandet",
-        "character": "Gallo",
-        "profile_path": "/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
-      },
-      {
-        "name": "Antje Traue",
-        "character": "Nadia",
-        "profile_path": "/enfmTZlaXBoaVL1T5XVNe55WbOp.jpg"
-      },
-      {
-        "name": "Cung Le",
-        "character": "Manh",
-        "profile_path": "/4L1cbVQXF3MBSQJiJCjBW4sNYqw.jpg"
-      },
-      {
-        "name": "Eddie Rouse",
-        "character": "Leland",
-        "profile_path": "/r3HEgVyKe4VemiK7h35YBsPbeIP.jpg"
-      },
-      {
-        "name": "Norman Reedus",
-        "character": "Shepard",
-        "profile_path": "/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
-      },
-      {
-        "name": "Andr\u00e9 Hennicke",
-        "character": "Hunter Leader",
-        "profile_path": "/ooLG1YJU6hsc5KNGeHqTkwv0GMe.jpg"
-      },
-      {
-        "name": "Friederike Kempter",
-        "character": "Evalon",
-        "profile_path": "/tP2wx2NxhEPdWNupliCc6Jz4SWF.jpg"
-      },
-      {
-        "name": "Niels-Bruno Schmidt",
-        "character": "Insane Officer 'Eden'",
-        "profile_path": "/rsb1NiWWDEdFqFgLbgq5CiAOwmB.jpg"
-      }
-    ],
-    "poster": "assets/posters/19898.jpg",
-    "media_type": "movie",
-    "tmdb_id": 19898
-  },
-  {
-    "id": 866398,
-    "title": "The Beekeeper",
-    "year": "2024",
-    "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "rating": 7.288,
-    "runtime": 106,
-    "director": "David Ayer",
-    "cast": [
-      {
-        "name": "Jason Statham",
-        "character": "Adam Clay",
-        "profile_path": "/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
-      },
-      {
-        "name": "Emmy Raver-Lampman",
-        "character": "Agent Verona Parker",
-        "profile_path": "/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
-      },
-      {
-        "name": "Josh Hutcherson",
-        "character": "Derek Danforth",
-        "profile_path": "/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
-      },
-      {
-        "name": "Jeremy Irons",
-        "character": "Wallace Westwyld",
-        "profile_path": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
-      },
-      {
-        "name": "Bobby Naderi",
-        "character": "Agent Matt Wiley",
-        "profile_path": "/3jfEwF7vyCTIDPPm2OFoFlEEVA0.jpg"
-      },
-      {
-        "name": "David Witts",
-        "character": "Mickey Garnett",
-        "profile_path": "/kqelxzQqffd1Qcz8VKOYSpoP7p8.jpg"
-      },
-      {
-        "name": "Michael Epp",
-        "character": "Pettis",
-        "profile_path": "/3Nz3sX7QISm5e6mWNvJDKUD2Qyd.jpg"
-      },
-      {
-        "name": "Taylor James",
-        "character": "Lazarus",
-        "profile_path": "/sMMCf0O7GcbJZoxmyWAbU6CsN6B.jpg"
-      },
-      {
-        "name": "Phylicia Rash\u0101d",
-        "character": "Eloise Parker",
-        "profile_path": "/orbTpG0jaYkPR167TNiEg0AKG3M.jpg"
-      },
-      {
-        "name": "Jemma Redgrave",
-        "character": "President Danforth",
-        "profile_path": "/1Lgtd9zpwwuyKqjmd5ME2lN9FUq.jpg"
-      }
-    ],
-    "poster": "assets/posters/866398.jpg",
-    "media_type": "movie",
-    "tmdb_id": 866398
-  },
-  {
-    "id": 11615,
-    "title": "The Life of David Gale",
-    "year": "2003",
-    "overview": "A man against capital punishment is accused of murdering a fellow activist and is sent to death row.",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "Crime"
-    ],
-    "rating": 7.44,
-    "runtime": 130,
-    "director": "Alan Parker",
-    "cast": [
-      {
-        "name": "Kevin Spacey",
-        "character": "David Gale",
-        "profile_path": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
-      },
-      {
-        "name": "Kate Winslet",
-        "character": "Bitsey Bloom",
-        "profile_path": "/cPRq7uH3PIFcHilP15BrMKunink.jpg"
-      },
-      {
-        "name": "Laura Linney",
-        "character": "Constance Hallaway",
-        "profile_path": "/ztQXGmNLzhDV22rAvcXzCG4d0cy.jpg"
-      },
-      {
-        "name": "Rhona Mitra",
-        "character": "Berlin",
-        "profile_path": "/uNhJlnnojDMeBNpYQwyD5Tomqyq.jpg"
-      },
-      {
-        "name": "Gabriel Mann",
-        "character": "Zack Stemmons",
-        "profile_path": "/mrqiMfwoQnLBGGP3zvfHrwPKHJW.jpg"
-      },
-      {
-        "name": "Matt Craven",
-        "character": "Dusty Wright",
-        "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
-      },
-      {
-        "name": "Jim Beaver",
-        "character": "Duke Grover",
-        "profile_path": "/c3Cqp1XAdcyeUZKkcrdQsPwb010.jpg"
-      },
-      {
-        "name": "Cleo King",
-        "character": "Barbara Kreuster",
-        "profile_path": "/teEPJgvrvPrNEh83FdOroNSLJzO.jpg"
-      },
-      {
-        "name": "Leon Rippy",
-        "character": "Braxton Belyeu",
-        "profile_path": "/55GaqeKzIwbKBDW9RT1CYIZaUKO.jpg"
-      },
-      {
-        "name": "Melissa McCarthy",
-        "character": "Nico the Goth Girl",
-        "profile_path": "/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
-      }
-    ],
-    "poster": "assets/posters/11615.jpg",
-    "media_type": "movie",
-    "tmdb_id": 11615
-  },
-  {
-    "id": 290512,
-    "title": "The Mountain Between Us",
-    "year": "2017",
-    "overview": "Stranded on a mountain after a tragic plane crash, two strangers must work together to endure the extreme elements of the remote, snow-covered terrain. When they realize help is not coming, they embark on a perilous journey across hundreds of miles of wilderness, pushing each other to survive and discovering their inner strength.",
-    "genres": [
-      "Drama",
-      "Adventure",
-      "Romance"
-    ],
-    "rating": 6.65,
-    "runtime": 109,
-    "director": "Hany Abu-Assad",
-    "cast": [
-      {
-        "name": "Idris Elba",
-        "character": "Dr. Ben Bass",
-        "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
-      },
-      {
-        "name": "Kate Winslet",
-        "character": "Alex Martin",
-        "profile_path": "/cPRq7uH3PIFcHilP15BrMKunink.jpg"
-      },
-      {
-        "name": "Dermot Mulroney",
-        "character": "Mark Robertson",
-        "profile_path": "/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
-      },
-      {
-        "name": "Beau Bridges",
-        "character": "Walter",
-        "profile_path": "/Aiezvt0Uj2Ka9QVW3GvuRLkNS2V.jpg"
-      },
-      {
-        "name": "Linda Sorensen",
-        "character": "Pamela",
-        "profile_path": "/ciB9m4TFnIpGbujT8k423ak95B4.jpg"
-      },
-      {
-        "name": "Mercy Myrdal",
-        "character": "Sarah Bass",
-        "profile_path": "/5KFSbsKSNayq2Tf0GcG401MANvE.jpg"
-      },
-      {
-        "name": "Dania Nassar",
-        "character": "Mrs. Qabbani",
-        "profile_path": null
-      },
-      {
-        "name": "Vincent Gale",
-        "character": "Airline Customer Service",
-        "profile_path": "/48TVmEf0ck1t5tiXcQjBUyJYWrt.jpg"
-      },
-      {
-        "name": "Marci T. House",
-        "character": "Airline Representative",
-        "profile_path": "/axLQS0wYYPMjJmaL268aUcaW505.jpg"
-      },
-      {
-        "name": "Lee Majdoub",
-        "character": "Translator",
-        "profile_path": "/vpF3R2YRCGHseGevmDAhftmOPkO.jpg"
-      }
-    ],
-    "poster": "assets/posters/290512.jpg",
-    "media_type": "movie",
-    "tmdb_id": 290512
-  },
-  {
-    "id": 862552,
-    "title": "The Ritual Killer",
-    "year": "2023",
-    "overview": "Unable to process the death of his daughter, Detective Boyd embarks on a hunt for a serial killer who murders according to a brutal tribal ritual: Muti. The only person who can help Boyd is Professor Mackles, an anthropologist who hides an unspeakable secret. The line between sanity and madness thins as Boyd goes deeper into the killer\u2019s world.",
-    "genres": [
-      "Mystery",
-      "Thriller",
-      "Action",
-      "Drama"
-    ],
-    "rating": 5.8,
-    "runtime": 92,
-    "director": "George Gallo",
-    "cast": [
-      {
-        "name": "Morgan Freeman",
-        "character": "Dr. Mackles",
-        "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
-      },
-      {
-        "name": "Cole Hauser",
-        "character": "Detective Lucas Boyd",
-        "profile_path": "/5D1nCd0Lcm3HgOWFDinEN40DNoW.jpg"
-      },
-      {
-        "name": "Vernon Davis",
-        "character": "Randoku",
-        "profile_path": "/gOOcAzFLYd1RDa8WzLNFBxaBtpC.jpg"
-      },
-      {
-        "name": "Peter Stormare",
-        "character": "Captain Marchand",
-        "profile_path": "/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
-      },
-      {
-        "name": "Giuseppe Zeno",
-        "character": "Inspector Mario Lavazzi",
-        "profile_path": "/4KGq9uycwInnVlzSgCYoihVdsOU.jpg"
-      },
-      {
-        "name": "Murielle Hilaire",
-        "character": "Detective Kersch",
-        "profile_path": "/7tiqNBSSGOu6ey7ToBcirTlnkAf.jpg"
-      },
-      {
-        "name": "Luke Stratte-McClure",
-        "character": "Detective Claussen",
-        "profile_path": "/iYRht7FbwRlHPdhs6eMYRscIggE.jpg"
-      },
-      {
-        "name": "Brian Kurlander",
-        "character": "Shelby Farner",
-        "profile_path": "/2uyaHUUjUPQP1oZK7osDUm2tri2.jpg"
-      },
-      {
-        "name": "Julie Lott Gallo",
-        "character": "Doctor Mannheim",
-        "profile_path": "/1SPP2LQZc3Zp3WLXWCZADPZhDLv.jpg"
-      },
-      {
-        "name": "Destiny Loren",
-        "character": "Katie Franklin",
-        "profile_path": null
-      }
-    ],
-    "poster": "assets/posters/862552.jpg",
-    "media_type": "movie",
-    "tmdb_id": 862552
-  },
-  {
-    "id": 1078605,
-    "title": "Weapons",
-    "year": "2025",
-    "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "rating": 7.363,
-    "runtime": 129,
-    "director": "Zach Cregger",
-    "cast": [
-      {
-        "name": "Julia Garner",
-        "character": "Justine",
-        "profile_path": "/ud1RXbvW70J89iqeic7no8olxvb.jpg"
-      },
-      {
-        "name": "Josh Brolin",
-        "character": "Archer",
-        "profile_path": "/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
-      },
-      {
-        "name": "Alden Ehrenreich",
-        "character": "Paul",
-        "profile_path": "/bx86TPUmeHp0QkijQb16r2qIwEr.jpg"
-      },
-      {
-        "name": "Austin Abrams",
-        "character": "James",
-        "profile_path": "/9pSpSAk9NsYC5puqAVsmSK3OSeu.jpg"
-      },
-      {
-        "name": "Benedict Wong",
-        "character": "Marcus",
-        "profile_path": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
-      },
-      {
-        "name": "Amy Madigan",
-        "character": "Gladys",
-        "profile_path": "/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg"
-      },
-      {
-        "name": "Cary Christopher",
-        "character": "Alex",
-        "profile_path": "/id5UrEyjXvr1KgQB4pnmD8JpSUR.jpg"
-      },
-      {
-        "name": "Toby Huss",
-        "character": "Captain Ed",
-        "profile_path": "/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
-      },
-      {
-        "name": "Whitmer Thomas",
-        "character": "Alex's Dad",
-        "profile_path": "/ivz8rehM5WFKsUpDSULUFgPYyze.jpg"
-      },
-      {
-        "name": "Callie Schuttera",
-        "character": "Alex's Mom",
-        "profile_path": "/rStZupJY2T9bRr8Y1kg4CEgnHUX.jpg"
-      }
-    ],
-    "poster": "assets/posters/1078605.jpg",
-    "media_type": "movie",
-    "tmdb_id": 1078605
-  },
-  {
-    "id": 507086,
-    "title": "Jurassic World Dominion",
-    "year": "2022",
-    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live\u2014and hunt\u2014alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "rating": 6.644,
-    "runtime": 147,
-    "director": "Colin Trevorrow",
-    "cast": [
-      {
-        "name": "Chris Pratt",
-        "character": "Owen Grady",
-        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
-      },
-      {
-        "name": "Bryce Dallas Howard",
-        "character": "Claire Dearing",
-        "profile_path": "/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
-      },
-      {
-        "name": "Laura Dern",
-        "character": "Ellie Sattler",
-        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
-      },
-      {
-        "name": "Sam Neill",
-        "character": "Alan Grant",
-        "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
-      },
-      {
-        "name": "Jeff Goldblum",
-        "character": "Ian Malcolm",
-        "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
-      },
-      {
-        "name": "DeWanda Wise",
-        "character": "Kayla Watts",
-        "profile_path": "/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
-      },
-      {
-        "name": "Mamoudou Athie",
-        "character": "Ramsay Cole",
-        "profile_path": "/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
-      },
-      {
-        "name": "Isabella Sermon",
-        "character": "Maisie Lockwood / Young Charlotte Lockwood",
-        "profile_path": "/zPakMdPK3KSzhSHCZsLWnvTJVeQ.jpg"
-      },
-      {
-        "name": "Campbell Scott",
-        "character": "Lewis Dodgson",
-        "profile_path": "/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
-      },
-      {
-        "name": "BD Wong",
-        "character": "Henry Wu",
-        "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
-      }
-    ],
-    "poster": "assets/posters/507086.jpg",
-    "media_type": "movie",
-    "tmdb_id": 507086
-  },
-  {
-    "id": 1550785,
-    "title": "My Father, the BTK Killer",
-    "year": "2025",
-    "overview": "Raised by a man leading a monstrous double life, the daughter of the BTK serial killer shares her chilling story.",
-    "genres": [
-      "Documentary",
-      "Crime"
-    ],
-    "rating": 6.68,
-    "runtime": 94,
-    "director": "Skye Borgman",
-    "cast": [
-      {
-        "name": "Kerri Rawson",
-        "character": "Self - Daughter of BTK",
-        "profile_path": null
-      },
-      {
-        "name": "Dennis Rader",
-        "character": "Self - Serial Killer (archive footage)",
-        "profile_path": "/xymUEpgJai8fUmfw1csXVPJQPt1.jpg"
-      },
-      {
-        "name": "Richard LaMunyon",
-        "character": "Self - Former Chief of Police, Wichita",
-        "profile_path": null
-      },
-      {
-        "name": "Larry Hatteberg",
-        "character": "Self - Former Journalist, KAKE TV Wichita",
-        "profile_path": null
-      },
-      {
-        "name": "Andrea Rogers",
-        "character": "Self - Kerri's Childhood Friend",
-        "profile_path": "/78Ic9N0caslp4lamIh84LxkicuZ.jpg"
-      },
-      {
-        "name": "Bill Hirschman",
-        "character": "Self - Former Journalist, The Wichita Eagle",
-        "profile_path": null
-      },
-      {
-        "name": "James Reed",
-        "character": "Self - Osage County Sheriff's Office",
-        "profile_path": null
-      },
-      {
-        "name": "Susan Peters",
-        "character": "Self - Former Anchor, KAKE TV Wichita",
-        "profile_path": null
-      },
-      {
-        "name": "Ray Lundin",
-        "character": "Self - Former Agent, Kansas Bureau of Investigation",
-        "profile_path": null
-      },
-      {
-        "name": "Rita Sheffield",
-        "character": "Self - Kerri's Childhood Friend",
-        "profile_path": null
-      }
-    ],
-    "poster": "assets/posters/1550785.jpg",
-    "media_type": "movie",
-    "tmdb_id": 1550785
-  },
-  {
-    "id": 1527153,
-    "title": "Sharon & Ozzy Osbourne: Coming Home",
-    "year": "2025",
-    "overview": "Follow the final three years of Ozzy Osbourne's life as he and Sharon plan a return home after 25 years in LA and prepare for the ultimate farewell gig.",
-    "genres": [
-      "Documentary",
-      "Music"
-    ],
-    "rating": 8.8,
-    "runtime": 59,
-    "director": "Paula Wittig",
-    "cast": [
-      {
-        "name": "Ozzy Osbourne",
-        "character": "Self",
-        "profile_path": "/e6xwFbTYKA0JJmkZZmvUv08hAqL.jpg"
-      },
-      {
-        "name": "Sharon Osbourne",
-        "character": "Self",
-        "profile_path": "/xVDX3uc1TzlsmkBkWobXtU2NNQg.jpg"
-      },
-      {
-        "name": "Kelly Osbourne",
-        "character": "Self",
-        "profile_path": "/l1wpUPSH2BydVGXrE093YGztgoZ.jpg"
-      },
-      {
-        "name": "Jack Osbourne",
-        "character": "Self",
-        "profile_path": "/wfFwjLaRGmgLDzTyVV7pgJwu3K5.jpg"
-      },
-      {
-        "name": "Billy Morrison",
-        "character": "Self",
-        "profile_path": "/40d7OevT3384GeH7sUp303yTseK.jpg"
-      }
-    ],
-    "poster": "assets/posters/1527153.jpg",
-    "media_type": "movie",
-    "tmdb_id": 1527153
-  },
-  {
-    "id": 1007734,
-    "title": "Nobody 2",
-    "year": "2025",
-    "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "rating": 7.081,
-    "runtime": 89,
-    "director": "Timo Tjahjanto",
-    "cast": [
-      {
-        "name": "Bob Odenkirk",
-        "character": "Hutch Mansell",
-        "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
-      },
-      {
-        "name": "Connie Nielsen",
-        "character": "Becca Mansell",
-        "profile_path": "/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg"
-      },
-      {
-        "name": "John Ortiz",
-        "character": "Wyatt Martin",
-        "profile_path": "/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
-      },
-      {
-        "name": "Colin Hanks",
-        "character": "Sheriff Abel",
-        "profile_path": "/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
-      },
-      {
-        "name": "RZA",
-        "character": "Harry Mansell",
-        "profile_path": "/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
-      },
-      {
-        "name": "Colin Salmon",
-        "character": "The Barber",
-        "profile_path": "/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
-      },
-      {
-        "name": "Christopher Lloyd",
-        "character": "David Mansell",
-        "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
-      },
-      {
-        "name": "Sharon Stone",
-        "character": "Lendina",
-        "profile_path": "/AqwJtz1uoXVbYBfPq1vT3dLL0ce.jpg"
-      },
-      {
-        "name": "Daniel Bernhardt",
-        "character": "Kartoush",
-        "profile_path": "/b59qhg5VJOCypx9eMXrXHAjauLd.jpg"
-      },
-      {
-        "name": "Paisley Cadorath",
-        "character": "Sammy Mansell",
-        "profile_path": "/4fbnxs6x5I2f4lSkegDP021ISTJ.jpg"
-      }
-    ],
-    "poster": "assets/posters/1007734.jpg",
-    "media_type": "movie",
-    "tmdb_id": 1007734
   }
 ];
 const TV_SHOWS = [
@@ -17097,71 +18226,41 @@ const TV_SHOWS = [
     "tmdb_id": 208851
   },
   {
-    "id": 79299,
-    "title": "A Very English Scandal",
-    "year": "2018",
-    "overview": "It's the late 1960s, homosexuality has only just been legalised and Jeremy Thorpe, the leader of the Liberal party, has a secret he's desperate to hide.",
+    "id": 139064,
+    "title": "A Very British Scandal",
+    "year": "2021",
+    "overview": "The true story of a duchess publicly shamed in a high society divorce that gripped the nation.",
     "genres": [
       "Drama"
     ],
-    "rating": 7.09,
+    "rating": 6.7,
     "runtime": 60,
-    "director": "John Preston, Russell T Davies",
+    "director": "Sarah Phelps",
     "cast": [
       {
-        "name": "Hugh Grant",
-        "character": "Jeremy Thorpe",
-        "profile_path": "/hsSfxSHzkKJ6ZKq1Ofngcp7aAnT.jpg"
+        "name": "Claire Foy",
+        "character": "Margaret Campbell",
+        "profile_path": "/a7ws0h1TQeoC97lBo0unFolNe4q.jpg"
       },
       {
-        "name": "Ben Whishaw",
-        "character": "Norman Scott",
-        "profile_path": "/2GBtQ6scGeSHkX1urOP1EJbmksx.jpg"
+        "name": "Paul Bettany",
+        "character": "Ian Campbell",
+        "profile_path": "/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
       },
       {
-        "name": "Alex Jennings",
-        "character": "Peter Bessell",
-        "profile_path": "/8U9T8b2V4AWlENgSmuy4SIAckM9.jpg"
+        "name": "Julia Davis",
+        "character": "Maureen Guinness",
+        "profile_path": "/wsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg"
       },
       {
-        "name": "Monica Dolan",
-        "character": "Marion Thorpe",
-        "profile_path": "/lR61knP6P7ESFYUapWNhG22TA3s.jpg"
-      },
-      {
-        "name": "Jonathan Hyde",
-        "character": "David Napley",
-        "profile_path": "/iNLNW7tH8GRpCP9INLXGmwVU1hK.jpg"
-      },
-      {
-        "name": "Jason Watkins",
-        "character": "Emlyn Hooson",
-        "profile_path": "/jGQOdzZ1sCz7WKtYSROMWv4menu.jpg"
-      },
-      {
-        "name": "Patricia Hodge",
-        "character": "Ursula Thorpe",
-        "profile_path": "/e9IwLFI1kB9hWCyH47S2GDkkpp6.jpg"
-      },
-      {
-        "name": "Naomi Battrick",
-        "character": "Diana Stainton",
-        "profile_path": "/jZedmlK22j9B5hzjeHfizx9A0gR.jpg"
-      },
-      {
-        "name": "David Bamber",
-        "character": "Lord Arran",
-        "profile_path": "/1J5smU02X7125OgIyOLH6TVenDM.jpg"
-      },
-      {
-        "name": "Karl Farrer",
-        "character": "DS Davey Greenough",
-        "profile_path": "/jGoptAD2twZ3dwI3q8GHNfJ3Tgl.jpg"
+        "name": "Richard McCabe",
+        "character": "George Whigham",
+        "profile_path": "/j7ra3qbWSYKwONNfJ6GBMuIoixY.jpg"
       }
     ],
-    "poster": "assets/posters/79299.jpg",
+    "poster": "assets/posters/139064.jpg",
     "media_type": "tv",
-    "tmdb_id": 79299
+    "tmdb_id": 139064
   },
   {
     "id": 249042,
@@ -17179,6 +18278,219 @@ const TV_SHOWS = [
     "poster": "assets/posters/249042.jpg",
     "media_type": "tv",
     "tmdb_id": 249042
+  },
+  {
+    "id": 298234,
+    "title": "aka Charlie Sheen",
+    "year": "2025",
+    "overview": "Actor Charlie Sheen tells his story in this candid two-part documentary tracing his dazzling Hollywood rise, tabloid-topping fall and road to recovery.",
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 7.737,
+    "runtime": 0,
+    "director": "",
+    "cast": [
+      {
+        "name": "Charlie Sheen",
+        "character": "Self",
+        "profile_path": "/npEqnIw321opMKuu3lsFNKNKQdX.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Self",
+        "profile_path": "/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Denise Richards",
+        "character": "Self",
+        "profile_path": "/i1MDAhdjiqXWwEhr7ujnlk8ksdl.jpg"
+      },
+      {
+        "name": "Chris Tucker",
+        "character": "Self",
+        "profile_path": "/f3oQKRJEGjK8Yc4qSMrD5P9oYbg.jpg"
+      },
+      {
+        "name": "Jon Cryer",
+        "character": "Self",
+        "profile_path": "/7PB7dDNHP9l5LlCCw6GP8GjaCAE.jpg"
+      },
+      {
+        "name": "Brooke Mueller",
+        "character": "Self",
+        "profile_path": "/d6KTAoiIbzQZ5Nnpyl3GPZEBRJW.jpg"
+      },
+      {
+        "name": "Ramon Estevez",
+        "character": "Self",
+        "profile_path": "/pBtASp4vS5vAWU04XN4ZU93hIoD.jpg"
+      },
+      {
+        "name": "Heidi Fleiss",
+        "character": "Self",
+        "profile_path": "/3H3VnlK3aWcckh4YZpOMY4ip6TR.jpg"
+      }
+    ],
+    "poster": "assets/posters/298234.jpg",
+    "media_type": "tv",
+    "tmdb_id": 298234
+  },
+  {
+    "id": 246386,
+    "title": "All Her Fault",
+    "year": "2025",
+    "overview": "In Chicago, Marissa Irvine arrives at 14 Arthur Avenue, expecting to pick up her young son Milo from his first playdate with a boy at his new school. But the woman who answers the door isn't a mother she recognizes. She isn't the nanny. She doesn't have Milo. And so begins every parent's worst nightmare.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "rating": 8.266,
+    "runtime": 0,
+    "director": "Megan Gallagher",
+    "cast": [
+      {
+        "name": "Sarah Snook",
+        "character": "Marissa Irvine",
+        "profile_path": "/6UTLQyt0lQyvATJFe1oAPZs9pfp.jpg"
+      },
+      {
+        "name": "Jake Lacy",
+        "character": "Peter Irvine",
+        "profile_path": "/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg"
+      },
+      {
+        "name": "Sophia Lillis",
+        "character": "Carrie Finch",
+        "profile_path": "/5aAw3KFixZSsMfo0BWrxtBLVsXN.jpg"
+      },
+      {
+        "name": "Michael Pe\u00f1a",
+        "character": "Detective Alcaras",
+        "profile_path": "/ft9e3EX4JG9MwK9pXwgbJ8ZvFoV.jpg"
+      },
+      {
+        "name": "Dakota Fanning",
+        "character": "Jenny Kaminski",
+        "profile_path": "/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
+      },
+      {
+        "name": "Abby Elliott",
+        "character": "Lia Irvine",
+        "profile_path": "/v7h08EsTce2pLHkZiaFe1QRuYbU.jpg"
+      },
+      {
+        "name": "Jay Ellis",
+        "character": "Colin Dobbs",
+        "profile_path": "/78JH7CfMrWrI3Vx2XLbx0GW4c2X.jpg"
+      },
+      {
+        "name": "Daniel Monks",
+        "character": "Brian Irvine",
+        "profile_path": "/qZbCHOZYSztPUXDWmO9DRjgKq8z.jpg"
+      },
+      {
+        "name": "Duke McCloud",
+        "character": "Milo Irvine",
+        "profile_path": "/qLymjEyH6S4xabfIYx10xxcjISc.jpg"
+      }
+    ],
+    "poster": "assets/posters/246386.jpg",
+    "media_type": "tv",
+    "tmdb_id": 246386
+  },
+  {
+    "id": 83867,
+    "title": "Andor",
+    "year": "2022",
+    "overview": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "rating": 8.27,
+    "runtime": 0,
+    "director": "Tony Gilroy",
+    "cast": [
+      {
+        "name": "Diego Luna",
+        "character": "Cassian Andor",
+        "profile_path": "/1ir9E1qXmfsSTG2jQknz2tLb54E.jpg"
+      }
+    ],
+    "poster": "assets/posters/83867.jpg",
+    "media_type": "tv",
+    "tmdb_id": 83867
+  },
+  {
+    "id": 254701,
+    "title": "Atomic",
+    "year": "2025",
+    "overview": "When the path of free-spirited drug smuggler Max collides with JJ, an enigmatic outsider on the run, an unlikely friendship is formed. They're swept into a chaotic, high-stakes mission they never signed up for, trafficking highly enriched uranium across North Africa and the Middle East, with the CIA, MI6, and a global web of opposing forces closing in fast.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "rating": 6.3,
+    "runtime": 0,
+    "director": "Gregory Burke, Alfie Allen, Shazad Latif, Samira Wiley",
+    "cast": [
+      {
+        "name": "Alfie Allen",
+        "character": "Max",
+        "profile_path": "/aF3SyXNd2JfktnYkUvC1tsFHJDu.jpg"
+      },
+      {
+        "name": "Shazad Latif",
+        "character": "JJ / Mohammed",
+        "profile_path": "/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+      },
+      {
+        "name": "Samira Wiley",
+        "character": "Cassie Elliott",
+        "profile_path": "/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
+      },
+      {
+        "name": "Avital Lvova",
+        "character": "Oksana Shirokova",
+        "profile_path": "/8WF3Tn6vokM3kWWA46lVSW2qZgk.jpg"
+      },
+      {
+        "name": "Stuart Martin",
+        "character": "Rab Mackintosh",
+        "profile_path": "/qSM4nGc1FyxygdG9YyU4uritqn2.jpg"
+      },
+      {
+        "name": "Franklin V\u00edrg\u00fcez",
+        "character": "Antonio Alam",
+        "profile_path": "/cnsjaHara5loiHOzWBnakSbEQNj.jpg"
+      },
+      {
+        "name": "Charlie Murphy",
+        "character": "Laetitia",
+        "profile_path": "/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
+      },
+      {
+        "name": "Brian Gleeson",
+        "character": "Mark Ellis",
+        "profile_path": "/x9uykZetcMYmB6UpQY29ApPedth.jpg"
+      },
+      {
+        "name": "Vahid Gold",
+        "character": "Khaled Awad",
+        "profile_path": null
+      },
+      {
+        "name": "Akin Gazi",
+        "character": "Sayed Ahman",
+        "profile_path": "/c0syqzuQ8cD56VcnLhbew8cS3EX.jpg"
+      }
+    ],
+    "poster": "assets/posters/254701.jpg",
+    "media_type": "tv",
+    "tmdb_id": 254701
   },
   {
     "id": 241259,
@@ -17211,6 +18523,74 @@ const TV_SHOWS = [
     "poster": "assets/posters/241259.jpg",
     "media_type": "tv",
     "tmdb_id": 241259
+  },
+  {
+    "id": 4613,
+    "title": "Band of Brothers",
+    "year": "2001",
+    "overview": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name.",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "rating": 8.584,
+    "runtime": 0,
+    "director": "",
+    "cast": [
+      {
+        "name": "Michael Cudlitz",
+        "character": "Denver (Bull) Randleman",
+        "profile_path": "/1snLOta9L2DAhmOTvNIn7OSxzQC.jpg"
+      },
+      {
+        "name": "Rick Gomez",
+        "character": "George Luz",
+        "profile_path": "/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg"
+      },
+      {
+        "name": "Scott Grimes",
+        "character": "Donald G. Malarkey",
+        "profile_path": "/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
+      },
+      {
+        "name": "Damian Lewis",
+        "character": "Richard D. Winters",
+        "profile_path": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+      },
+      {
+        "name": "Ron Livingston",
+        "character": "Lewis Nixon",
+        "profile_path": "/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg"
+      },
+      {
+        "name": "James Madio",
+        "character": "Frank J. Perconte",
+        "profile_path": "/v17uyHhMLooVWKjMRS4NoGeTPyB.jpg"
+      },
+      {
+        "name": "Neal McDonough",
+        "character": "Lynn D. (Buck) Compton",
+        "profile_path": "/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+      },
+      {
+        "name": "Donnie Wahlberg",
+        "character": "C. Carwood Lipton",
+        "profile_path": "/8OQTlgl7eGAFlKTF2o8rZZT0MoF.jpg"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "Private John Janovec",
+        "profile_path": "/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+      },
+      {
+        "name": "Kirk Acevedo",
+        "character": "SSgt. Joseph Toye",
+        "profile_path": "/jFUHECwo7L3KOZ0HxCQytl90qed.jpg"
+      }
+    ],
+    "poster": "assets/posters/4613.jpg",
+    "media_type": "tv",
+    "tmdb_id": 4613
   },
   {
     "id": 60059,
@@ -17356,6 +18736,65 @@ const TV_SHOWS = [
     "poster": "assets/posters/1621.jpg",
     "media_type": "tv",
     "tmdb_id": 1621
+  },
+  {
+    "id": 92621,
+    "title": "Brassic",
+    "year": "2019",
+    "overview": "A group of working-class friends finding unconventional ways to win at life in suburban northern England. These lads have dealt, scammed, bribed and conned their way through adolescence, but now, their dealing and stealing is catching up with them and a whole load of trouble is heading their way.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Crime"
+    ],
+    "rating": 8.452,
+    "runtime": 43,
+    "director": "Daniel Brocklehurst, Joseph Gilgun",
+    "cast": [
+      {
+        "name": "Joseph Gilgun",
+        "character": "Vincent \"Vinnie\" O'Neill",
+        "profile_path": "/A8wFwzX8ejdfgeNG7OPbz87ZCrs.jpg"
+      },
+      {
+        "name": "Michelle Keegan",
+        "character": "Erin Croft",
+        "profile_path": "/cuAQsPAfbUpBiRSDizr3cDn7Qsj.jpg"
+      },
+      {
+        "name": "Steve Evets",
+        "character": "Jim",
+        "profile_path": "/g1HZ9CnpiClgGcbPLcP48ICWqja.jpg"
+      },
+      {
+        "name": "Tom Hanson",
+        "character": "Leslie \"Cardi\" Titt",
+        "profile_path": "/ue4Bofut1dMH8eoEDE2MWa0DQx3.jpg"
+      },
+      {
+        "name": "Aaron Heffernan",
+        "character": "Ashley \"Ash\" Dennings",
+        "profile_path": "/KkE3C4DQM9GTRZoJT7VQPHlwi7.jpg"
+      },
+      {
+        "name": "Parth Thakerar",
+        "character": "Jehan \"JJ\" Jovani",
+        "profile_path": "/zdfQ7ypmtxVZChGCIGpoMx0pugF.jpg"
+      },
+      {
+        "name": "Ryan Sampson",
+        "character": "Thomas \"Tommo\" Schaffner",
+        "profile_path": "/1FfIn5bS8vUurvX7POg0Xlb02xy.jpg"
+      },
+      {
+        "name": "Dominic West",
+        "character": "Dr. Chris Coxley",
+        "profile_path": "/6y2M3EWslBPwPlugEFg8XDHfSJ0.jpg"
+      }
+    ],
+    "poster": "assets/posters/92621.jpg",
+    "media_type": "tv",
+    "tmdb_id": 92621
   },
   {
     "id": 87108,
@@ -17574,6 +19013,75 @@ const TV_SHOWS = [
     "tmdb_id": 124364
   },
   {
+    "id": 1399,
+    "title": "Game of Thrones",
+    "year": "2011",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "rating": 8.456,
+    "runtime": 0,
+    "director": "David Benioff, D. B. Weiss",
+    "cast": [
+      {
+        "name": "Peter Dinklage",
+        "character": "Tyrion 'The Halfman' Lannister",
+        "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+      },
+      {
+        "name": "Kit Harington",
+        "character": "Jon Snow",
+        "profile_path": "/iCFQAQqb0SgvxEdVYhJtZLhM9kp.jpg"
+      },
+      {
+        "name": "Nikolaj Coster-Waldau",
+        "character": "Sir Jaime 'Kingslayer' Lannister",
+        "profile_path": "/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
+      },
+      {
+        "name": "Lena Headey",
+        "character": "Cersei Lannister",
+        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+      },
+      {
+        "name": "Emilia Clarke",
+        "character": "Daenerys Targaryen",
+        "profile_path": "/58ZhsLDVFgxx6fePJQ2K8RVpc1s.jpg"
+      },
+      {
+        "name": "Liam Cunningham",
+        "character": "Davos Seaworth",
+        "profile_path": "/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg"
+      },
+      {
+        "name": "Maisie Williams",
+        "character": "Arya Stark",
+        "profile_path": "/5RjD4dDpRDAhalFtvcUj7zdLWYB.jpg"
+      },
+      {
+        "name": "Isaac Hempstead Wright",
+        "character": "Brandon 'Bran' Stark",
+        "profile_path": "/f3kTscNB4XVhEBHqmGWSf853UtW.jpg"
+      },
+      {
+        "name": "Sophie Turner",
+        "character": "Sansa Stark",
+        "profile_path": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+      },
+      {
+        "name": "John Bradley",
+        "character": "Samwell 'Sam' Tarly",
+        "profile_path": "/lQuxVtH8GkSLSZQhpmSdIi88DSF.jpg"
+      }
+    ],
+    "poster": "assets/posters/1399.jpg",
+    "media_type": "tv",
+    "tmdb_id": 1399
+  },
+  {
     "id": 85021,
     "title": "Gangs of London",
     "year": "2020",
@@ -17640,6 +19148,90 @@ const TV_SHOWS = [
     "poster": "assets/posters/85021.jpg",
     "media_type": "tv",
     "tmdb_id": 85021
+  },
+  {
+    "id": 256075,
+    "title": "Gypsy Rose: Life After Lock Up",
+    "year": "2024",
+    "overview": "An authentic, raw and revealing look at Gypsy\u2019s new life on the outside.",
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 8.7,
+    "runtime": 0,
+    "director": "",
+    "cast": [],
+    "poster": "assets/posters/256075.jpg",
+    "media_type": "tv",
+    "tmdb_id": 256075
+  },
+  {
+    "id": 217528,
+    "title": "Heweliusz",
+    "year": "2025",
+    "overview": "After a catastrophic ferry disaster, the off-duty captain seeks answers and justice for those who lost their lives \u2014 and those they left behind.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 7.488,
+    "runtime": 0,
+    "director": "",
+    "cast": [
+      {
+        "name": "Magdalena R\u00f3\u017cczka",
+        "character": "Jolanta U\u0142asiewicz",
+        "profile_path": "/7oh7C2212ZI28YmSIkyPnuMi0wV.jpg"
+      },
+      {
+        "name": "Micha\u0142 \u017burawski",
+        "character": "Piotr Binter",
+        "profile_path": "/7Z6MOsobKG31At2cgxa1v3IeG4T.jpg"
+      },
+      {
+        "name": "Konrad Eleryk",
+        "character": "Witold Skirmuntt",
+        "profile_path": "/q1pfFnOYGUysIpFES0MHrVnDe7S.jpg"
+      },
+      {
+        "name": "Justyna Wasilewska",
+        "character": "Aneta Kaczkowska",
+        "profile_path": "/ctQfREYuA2NHiiFfxI8NjNm8Afj.jpg"
+      },
+      {
+        "name": "Borys Szyc",
+        "character": "Andrzej U\u0142asiewicz",
+        "profile_path": "/xQMBwtspvYttC5EYu7PUSKDx263.jpg"
+      },
+      {
+        "name": "Dariusz Chojnacki",
+        "character": "Krzysztof Reniek",
+        "profile_path": "/uzdik3FJwIbbOKusISw6Wkytqqk.jpg"
+      },
+      {
+        "name": "Jacek Beler",
+        "character": "Michalczuk",
+        "profile_path": "/rKGVdNT83XNUNg4r28AMFnk5H4k.jpg"
+      },
+      {
+        "name": "Joachim Lam\u017ca",
+        "character": "Janusz Kowalik",
+        "profile_path": "/2HWi3576UT5vbwEQ9Eo5mDKhP1j.jpg"
+      },
+      {
+        "name": "Micha\u0142 Pawlik",
+        "character": "Zawadzki",
+        "profile_path": "/loDhKENuDQ6VCijcWVq9WUBvuX9.jpg"
+      },
+      {
+        "name": "Piotr Rogucki",
+        "character": "Marek Celej",
+        "profile_path": "/mLC3ysvxKxH9fzIhiT0WGuyhF67.jpg"
+      }
+    ],
+    "poster": "assets/posters/217528.jpg",
+    "media_type": "tv",
+    "tmdb_id": 217528
   },
   {
     "id": 814,
@@ -17730,6 +19322,74 @@ const TV_SHOWS = [
     "tmdb_id": 94997
   },
   {
+    "id": 200875,
+    "title": "IT: Welcome to Derry",
+    "year": "2025",
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace \u2013 all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 8.233,
+    "runtime": 0,
+    "director": "Andy Muschietti, Barbara Muschietti, Jason Fuchs",
+    "cast": [
+      {
+        "name": "Taylour Paige",
+        "character": "Charlotte Hanlon",
+        "profile_path": "/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+      },
+      {
+        "name": "Jovan Adepo",
+        "character": "Leroy Hanlon",
+        "profile_path": "/aJcuEbYru85meNGzM0oSeW3nsd6.jpg"
+      },
+      {
+        "name": "Matilda Lawler",
+        "character": "Marge Truman",
+        "profile_path": "/uKioAyk7zSyO1BCOs5OQtNB4QNP.jpg"
+      },
+      {
+        "name": "Amanda Christine",
+        "character": "Ronnie Grogan",
+        "profile_path": "/g7qNhcbn4OF5RNHL0Kf1hjQRndf.jpg"
+      },
+      {
+        "name": "Clara Stack",
+        "character": "Lilly Bainbridge",
+        "profile_path": "/yMK3IADqV2oReJMKdkrcEIBxdtu.jpg"
+      },
+      {
+        "name": "Chris Chalk",
+        "character": "Dick Hallorann",
+        "profile_path": "/j8IpJkLTAhalh5Q356VNojcIAtx.jpg"
+      },
+      {
+        "name": "James Remar",
+        "character": "General Francis Shaw",
+        "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+      },
+      {
+        "name": "Stephen Rider",
+        "character": "Hank Grogan",
+        "profile_path": "/tQc7TbCfDawrS0DHiQHxuoVrn4L.jpg"
+      },
+      {
+        "name": "Blake Cameron James",
+        "character": "Will Hanlon",
+        "profile_path": "/qM3hkhRmqKVRVi1M9jd8sSEMjXf.jpg"
+      },
+      {
+        "name": "Arian S. Cartaya",
+        "character": "Rich Santos",
+        "profile_path": "/9jHTcwpYgEXb1MXxPEDD0csri9J.jpg"
+      }
+    ],
+    "poster": "assets/posters/200875.jpg",
+    "media_type": "tv",
+    "tmdb_id": 200875
+  },
+  {
     "id": 2710,
     "title": "It's Always Sunny in Philadelphia",
     "year": "2005",
@@ -17770,6 +19430,141 @@ const TV_SHOWS = [
     "poster": "assets/posters/2710.jpg",
     "media_type": "tv",
     "tmdb_id": 2710
+  },
+  {
+    "id": 242977,
+    "title": "La Palma",
+    "year": "2024",
+    "overview": "A Norwegian family vacationing on La Palma faces disaster when a young researcher discovers alarming signs of an imminent volcanic eruption.",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 6.925,
+    "runtime": 44,
+    "director": "Martin Sundland, Lars Gudmestad, Harald Rosenl\u00f8w-Eeg",
+    "cast": [
+      {
+        "name": "Anders Baasmo Christiansen",
+        "character": "Fredrik",
+        "profile_path": "/lscnOAUqyja8BHQACtjWCOTOKG7.jpg"
+      },
+      {
+        "name": "Ingrid Bols\u00f8 Berdal",
+        "character": "Jennifer",
+        "profile_path": "/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"
+      },
+      {
+        "name": "Alma G\u00fcnther",
+        "character": "Sara",
+        "profile_path": "/5rwDPzGB7B1GB804PIXcaN74vbJ.jpg"
+      },
+      {
+        "name": "Bernard Storm Lager",
+        "character": "Tobias",
+        "profile_path": "/y5W0CCDqH15xbOjhC04wugKQ5T3.jpg"
+      },
+      {
+        "name": "Jenny Evensen",
+        "character": "Charlie",
+        "profile_path": "/oY4D0usFpR884Olhb4l0ZKAFOvt.jpg"
+      },
+      {
+        "name": "Thea Sofie Loch N\u00e6ss",
+        "character": "Marie Ekdahl",
+        "profile_path": "/fzd0RI8Vnsw1LoG81YthvdnaeJD.jpg"
+      },
+      {
+        "name": "Johannes Joner",
+        "character": "Arnt",
+        "profile_path": "/ltLI5B3JJrTIzeaLeFnVUelTQVR.jpg"
+      },
+      {
+        "name": "\u00d3lafur Darri \u00d3lafsson",
+        "character": "Haukur",
+        "profile_path": "/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg"
+      },
+      {
+        "name": "Thorbj\u00f8rn Harr",
+        "character": "Jens Uvdal",
+        "profile_path": "/hqBkuGoISmRB5O8t6RkKcHv3bZA.jpg"
+      },
+      {
+        "name": "Amund Harboe",
+        "character": "Erik",
+        "profile_path": "/4eQHNhdWgZOu1b8MBPjwYx9rExc.jpg"
+      }
+    ],
+    "poster": "assets/posters/242977.jpg",
+    "media_type": "tv",
+    "tmdb_id": 242977
+  },
+  {
+    "id": 252193,
+    "title": "Last Samurai Standing",
+    "year": "2025",
+    "overview": "In the early Meiji era, Shujiro, once known as an undefeated samurai, decides to participate in a deadly survival game to save his family and villagers.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "rating": 7.835,
+    "runtime": 0,
+    "director": "Michihito Fujii",
+    "cast": [
+      {
+        "name": "Junichi Okada",
+        "character": "Shujiro Saga",
+        "profile_path": "/pk5rltXChl9A3HjS6iQLGt1DWJY.jpg"
+      },
+      {
+        "name": "Yumia Fujisaki",
+        "character": "Futaba Katsuki",
+        "profile_path": "/2xTBm6VCTdFaJXlqWxHy6rod6p1.jpg"
+      },
+      {
+        "name": "Kaya Kiyohara",
+        "character": "Iroha Kinugasa",
+        "profile_path": "/a0tDsusfKXPSbVGO9zBSSAoCcAP.jpg"
+      },
+      {
+        "name": "Masahiro Higashide",
+        "character": "Kyojin Tsuge",
+        "profile_path": "/6YOBIQ22Y7ZCkuk50QRotvUAl7v.jpg"
+      },
+      {
+        "name": "Shota Sometani",
+        "character": "Kocha Kamuy",
+        "profile_path": "/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+      },
+      {
+        "name": "Taichi Saotome",
+        "character": "Shikura Adashino",
+        "profile_path": "/a2IBFtbh1ChL2wFF5cChe8nsLG3.jpg"
+      },
+      {
+        "name": "Yuya Endo",
+        "character": "Sansuke Gion",
+        "profile_path": "/wkM6ZBelFelI4iHu4kH3CCC1y2m.jpg"
+      },
+      {
+        "name": "Yasushi Fuchikami",
+        "character": "Sakura",
+        "profile_path": "/lJAfRD8goXuENlqKPDjIfAwdxAV.jpg"
+      },
+      {
+        "name": "Kairi Jo",
+        "character": "Shinjiro Sayama",
+        "profile_path": "/asekPbtKNWY4hptwL027Xi9xZY1.jpg"
+      },
+      {
+        "name": "Wataru Ichinose",
+        "character": "Raizo Tachibana",
+        "profile_path": "/42jf08JObm44xjpg6F1G1DHtOhk.jpg"
+      }
+    ],
+    "poster": "assets/posters/252193.jpg",
+    "media_type": "tv",
+    "tmdb_id": 252193
   },
   {
     "id": 113962,
@@ -17840,71 +19635,63 @@ const TV_SHOWS = [
     "tmdb_id": 113962
   },
   {
-    "id": 244321,
-    "title": "Lockerbie: A Search for Truth",
-    "year": "2025",
-    "overview": "Dr. Jim Swire tragically loses his daughter when Pan Am Flight 103 exploded over a small town on December 21, 1988. Travelling across continents and political divides, Swire embarks on a relentless journey that not only jeopardizes his stability, family and life, but completely overturns his trust in the justice system. As the truth shifts under Jim\u2019s feet, his view of the world is left forever sullied.",
+    "id": 1426,
+    "title": "Luther",
+    "year": "2010",
+    "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
     "genres": [
-      "Drama"
+      "Crime",
+      "Drama",
+      "Mystery"
     ],
-    "rating": 7.4,
-    "runtime": 0,
-    "director": "David Harrower",
+    "rating": 7.861,
+    "runtime": 60,
+    "director": "Neil Cross",
     "cast": [
       {
-        "name": "Colin Firth",
-        "character": "Dr Jim Swire",
-        "profile_path": "/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+        "name": "Idris Elba",
+        "character": "DCI John Luther",
+        "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
       },
       {
-        "name": "Catherine McCormack",
-        "character": "Jane Swire",
-        "profile_path": "/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
+        "name": "Dermot Crowley",
+        "character": "DSU Martin Schenk",
+        "profile_path": "/wQN9dvOXdecRtUAgOx8xSMC1gyh.jpg"
       },
       {
-        "name": "Sam Troughton",
-        "character": "Murray Guthrie",
-        "profile_path": "/7Gnt2TblEvlj0Nrzc5mQyOcHtPF.jpg"
+        "name": "Hermione Norris",
+        "character": "Vivien Lake",
+        "profile_path": "/jM67afr5YJn93RMDlexthlZwTKA.jpg"
       },
       {
-        "name": "Mark Bonnar",
-        "character": "Roderick McGill",
-        "profile_path": "/qEOp1lj0HGAVy1wpqIxMNkxIzn7.jpg"
+        "name": "Michael Smiley",
+        "character": "Benny Silver",
+        "profile_path": "/eWfpVJs6nnvWlzz85LRDEXHsyOJ.jpg"
       },
       {
-        "name": "Andy Nyman",
-        "character": "Edwin Bollier",
-        "profile_path": "/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
+        "name": "Ruth Wilson",
+        "character": "Alice Morgan",
+        "profile_path": "/dKJA3nMTlueNK0sAmKM6P9WKJnB.jpg"
       },
       {
-        "name": "Ardalan Esmaili",
-        "character": "Abdelbaset al-Megrahi",
-        "profile_path": "/oQKrVGZcaGaHFqKuZszif5drWWA.jpg"
+        "name": "Patrick Malahide",
+        "character": "George Cornelius",
+        "profile_path": "/ae0AJ8FbJireYPQyglIxNucjqIy.jpg"
       },
       {
-        "name": "Selwa Jghalef",
-        "character": "Aisha",
-        "profile_path": null
+        "name": "Wunmi Mosaku",
+        "character": "Detective Sgt. Catherine Halliday",
+        "profile_path": "/yWM19CjCv66MqNkwHBp6Dpvtn9x.jpg"
       },
       {
-        "name": "Simon Delaney",
-        "character": "Bert Ammerman",
-        "profile_path": "/wTJLpgacE6uULa8iH9S2Rqu322H.jpg"
-      },
-      {
-        "name": "Jemma Carlton",
-        "character": "Cathy Swire",
-        "profile_path": "/sx8sycNV4l5T4AZFyUn6L46zuVW.jpg"
-      },
-      {
-        "name": "Harry Redding",
-        "character": "William Swire",
-        "profile_path": "/1aogXwmGfNAomlztI5oyVWeq4SV.jpg"
+        "name": "Enzo Cilenti",
+        "character": "Jeremy Lake",
+        "profile_path": "/lGFHPUsOlAnncpZLfdFXCGq2nji.jpg"
       }
     ],
-    "poster": "assets/posters/244321.jpg",
+    "poster": "assets/posters/1426.jpg",
     "media_type": "tv",
-    "tmdb_id": 244321
+    "tmdb_id": 1426
   },
   {
     "id": 46518,
@@ -18018,6 +19805,44 @@ const TV_SHOWS = [
     "tmdb_id": 247718
   },
   {
+    "id": 286801,
+    "title": "Monster: The Ed Gein Story",
+    "year": "2025",
+    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating": 7.383,
+    "runtime": 0,
+    "director": "Ian Brennan",
+    "cast": [
+      {
+        "name": "Charlie Hunnam",
+        "character": "Ed Gein",
+        "profile_path": "/nw9LsDNsDkPwotG7YpxRNBXmaCQ.jpg"
+      },
+      {
+        "name": "Suzanna Son",
+        "character": "Adeline Watkins",
+        "profile_path": "/85ROAQ2XoXWFGWOFk78GGCCZTGv.jpg"
+      },
+      {
+        "name": "Vicky Krieps",
+        "character": "Ilse Koch",
+        "profile_path": "/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+      },
+      {
+        "name": "Laurie Metcalf",
+        "character": "Augusta Gein",
+        "profile_path": "/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
+      }
+    ],
+    "poster": "assets/posters/286801.jpg",
+    "media_type": "tv",
+    "tmdb_id": 286801
+  },
+  {
     "id": 241268,
     "title": "Mr. Bigstuff",
     "year": "2024",
@@ -18045,6 +19870,75 @@ const TV_SHOWS = [
     "tmdb_id": 241268
   },
   {
+    "id": 131835,
+    "title": "Nautilus",
+    "year": "2024",
+    "overview": "The origin story of the iconic Captain Nemo: an Indian Prince robbed of his birthright and family, a prisoner of the East India Mercantile Company and a man bent on revenge against the forces that have taken everything from him.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "rating": 6.898,
+    "runtime": 0,
+    "director": "James Dormer",
+    "cast": [
+      {
+        "name": "Shazad Latif",
+        "character": "Nemo",
+        "profile_path": "/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+      },
+      {
+        "name": "Georgia Flood",
+        "character": "Humility Lucas",
+        "profile_path": "/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
+      },
+      {
+        "name": "C\u00e9line Menville",
+        "character": "Loti",
+        "profile_path": "/aZYWdBE0V6U3FwyKXcYtfxDiPEu.jpg"
+      },
+      {
+        "name": "Thierry Fr\u00e9mont",
+        "character": "Benoit",
+        "profile_path": "/yUwC2WiydDrCy5TL7xOjdP1PXjM.jpg"
+      },
+      {
+        "name": "Luke Arnold",
+        "character": "Captain Billy Millais",
+        "profile_path": "/b19aJzhUAfyQXd0mtmDvLAyOth8.jpg"
+      },
+      {
+        "name": "Jacob Collins-Levy",
+        "character": "Captain Youngblood",
+        "profile_path": "/7m0wDgv3qRes527fBDspudz7AAA.jpg"
+      },
+      {
+        "name": "Damien Garvey",
+        "character": "Director Crawley",
+        "profile_path": "/jLVN1BX9d8H7ubfRvve8pxtwBGK.jpg"
+      },
+      {
+        "name": "Cameron Cuffe",
+        "character": "Algernon Pitt",
+        "profile_path": "/1AsKnxWo3vUAvXYDU6TLB7KAkLM.jpg"
+      },
+      {
+        "name": "Kayden Price",
+        "character": "Blaster",
+        "profile_path": "/qL0DXqRaD4WUeZ3v0EH0simBxyV.jpg"
+      },
+      {
+        "name": "Benedict Hardie",
+        "character": "Edward Cuff",
+        "profile_path": "/bf02Dz4LMV23scJC6c8P4R6xji6.jpg"
+      }
+    ],
+    "poster": "assets/posters/131835.jpg",
+    "media_type": "tv",
+    "tmdb_id": 131835
+  },
+  {
     "id": 154731,
     "title": "New York Homicide",
     "year": "2022",
@@ -18066,6 +19960,73 @@ const TV_SHOWS = [
     "poster": "assets/posters/154731.jpg",
     "media_type": "tv",
     "tmdb_id": 154731
+  },
+  {
+    "id": 2331,
+    "title": "Phoenix Nights",
+    "year": "2001",
+    "overview": "The owner of The Phoenix Club is the wheelchair-bound Brian Potter, who has presided over two clubs in the past: the first (The Aquarius) flooded, the second (The Neptune) burned down. His ambition (with the help of Jerry St Clair) is to see The Phoenix Club become the most popular in Bolton and thus outdo his arch-nemesis, Den Perry, owner of rival club The Banana Grove.",
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.807,
+    "runtime": 25,
+    "director": "Peter Kay, Dave Spikey",
+    "cast": [
+      {
+        "name": "Peter Kay",
+        "character": "Brian Potter/Max",
+        "profile_path": "/hzqItun8VYuXav06hjgUpaiXoja.jpg"
+      },
+      {
+        "name": "Dave Spikey",
+        "character": "Jerry St Clair",
+        "profile_path": "/9cs11VZKTzRlMYmgdfHRuwvytFk.jpg"
+      },
+      {
+        "name": "Neil Fitzmaurice",
+        "character": "Ray Von",
+        "profile_path": "/rbRgevu1cMOihbm1jsbbIDsvEy9.jpg"
+      },
+      {
+        "name": "Paddy McGuinness",
+        "character": "Paddy",
+        "profile_path": "/2LMYFeIQF4r1OrtGHvE7ocZoGX7.jpg"
+      },
+      {
+        "name": "Justin Moorhouse",
+        "character": "Young Kenny",
+        "profile_path": "/4Uq5vBptCXoCNA8FCAYSCEM1DmS.jpg"
+      },
+      {
+        "name": "Archie Kelly",
+        "character": "Kenny Senior",
+        "profile_path": "/zsfU8iOUKuAcwBPcnaeheKpWQje.jpg"
+      },
+      {
+        "name": "Daniel Kitson",
+        "character": "Spencer",
+        "profile_path": "/gjUl5d2o2oa6DxwecJBqV2rJQ2z.jpg"
+      },
+      {
+        "name": "Janice Connolly",
+        "character": "Holy Mary",
+        "profile_path": null
+      },
+      {
+        "name": "Steve Edge",
+        "character": "Alan",
+        "profile_path": "/hcb1Yh4s9gIXxBhLgbCpNtMnbuS.jpg"
+      },
+      {
+        "name": "Toby Foster",
+        "character": "Les",
+        "profile_path": "/sLbmXDnRltkftk4ZmxYxxUlDVSD.jpg"
+      }
+    ],
+    "poster": "assets/posters/2331.jpg",
+    "media_type": "tv",
+    "tmdb_id": 2331
   },
   {
     "id": 242706,
@@ -18181,6 +20142,74 @@ const TV_SHOWS = [
     "poster": "assets/posters/156933.jpg",
     "media_type": "tv",
     "tmdb_id": 156933
+  },
+  {
+    "id": 233183,
+    "title": "Psycho: The Lost Tapes of Ed Gein",
+    "year": "2023",
+    "overview": "Follows the horrifying grave robber and serial killer Ed Gein, whose crimes inspired such iconic films as \"Psycho\", \"The Texas Chainsaw Massacre\", and \"The Silence of the Lambs\".",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "rating": 5.7,
+    "runtime": 55,
+    "director": "",
+    "cast": [
+      {
+        "name": "Deanna Mae Lloyd",
+        "character": "Self",
+        "profile_path": "/ys0d1qOWYfCPmF7jK7JEJ5v4TgS.jpg"
+      },
+      {
+        "name": "Ed Gein",
+        "character": "Self- Archive",
+        "profile_path": null
+      },
+      {
+        "name": "Henry Zebrowski",
+        "character": "Self",
+        "profile_path": "/hcWe0vIbjTqaEKCc3DW41YBWmDX.jpg"
+      },
+      {
+        "name": "Marcus Parks",
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Ben Kissel",
+        "character": "Self",
+        "profile_path": "/yY5qdG9yimGiAmV70IJleXaUdsu.jpg"
+      },
+      {
+        "name": "Louis B. Schlesinger",
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Harold Schechter",
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Jooyoung Lee",
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "N.G. Berrill",
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Jocelyn Sczcepaniak-Gillece",
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "poster": "assets/posters/233183.jpg",
+    "media_type": "tv",
+    "tmdb_id": 233183
   },
   {
     "id": 108978,
@@ -18310,6 +20339,101 @@ const TV_SHOWS = [
     "tmdb_id": 21535
   },
   {
+    "id": 1891,
+    "title": "Rome",
+    "year": "2005",
+    "overview": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "rating": 8.2,
+    "runtime": 60,
+    "director": "John Milius, Bruno Heller, William J. MacDonald",
+    "cast": [
+      {
+        "name": "Kevin McKidd",
+        "character": "Lucius Vorenus",
+        "profile_path": "/KtmEKOSehmQ35JfGjEjpqlypbP.jpg"
+      },
+      {
+        "name": "Ray Stevenson",
+        "character": "Titus Pullo",
+        "profile_path": "/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg"
+      },
+      {
+        "name": "Ciar\u00e1n Hinds",
+        "character": "Julius Caesar",
+        "profile_path": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+      },
+      {
+        "name": "James Purefoy",
+        "character": "Mark Antony",
+        "profile_path": "/nCNyifrD9wOao27A1nT5n4Soxt1.jpg"
+      },
+      {
+        "name": "Polly Walker",
+        "character": "Atia of the Julii",
+        "profile_path": "/eE8dtdlAwnMeramd1pA6eOQzhky.jpg"
+      },
+      {
+        "name": "Tobias Menzies",
+        "character": "Marcus Junius Brutus",
+        "profile_path": "/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
+      },
+      {
+        "name": "Lindsay Duncan",
+        "character": "Servilia of the Junii",
+        "profile_path": "/kx2x62Rhod8wz1XuVDRQfqXpEqE.jpg"
+      },
+      {
+        "name": "Nicholas Woodeson",
+        "character": "Posca",
+        "profile_path": "/g8sVxrMjLAWEde8TZaa42e2Lr42.jpg"
+      },
+      {
+        "name": "Kerry Condon",
+        "character": "Octavia of the Julii",
+        "profile_path": "/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+      },
+      {
+        "name": "David Bamber",
+        "character": "Marcus Tullius Cicero",
+        "profile_path": "/1J5smU02X7125OgIyOLH6TVenDM.jpg"
+      }
+    ],
+    "poster": "assets/posters/1891.jpg",
+    "media_type": "tv",
+    "tmdb_id": 1891
+  },
+  {
+    "id": 298009,
+    "title": "Wife on the Run, Again",
+    "year": "2025",
+    "overview": "",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.0,
+    "runtime": 0,
+    "director": "",
+    "cast": [
+      {
+        "name": "Zhao Zhendong",
+        "character": "Si Xingpei",
+        "profile_path": "/aF4ZkOqgGljRgtFItQUUOYzDVCj.jpg"
+      },
+      {
+        "name": "Shi Chaojinzi",
+        "character": "Gu Qingzhou",
+        "profile_path": "/gwZ8JKzUDBKms937VhgC3q6aI6u.jpg"
+      }
+    ],
+    "poster": "assets/posters/298009.jpg",
+    "media_type": "tv",
+    "tmdb_id": 298009
+  },
+  {
     "id": 261579,
     "title": "Secret Level",
     "year": "2024",
@@ -18374,6 +20498,74 @@ const TV_SHOWS = [
     "poster": "assets/posters/262878.jpg",
     "media_type": "tv",
     "tmdb_id": 262878
+  },
+  {
+    "id": 34307,
+    "title": "Shameless",
+    "year": "2011",
+    "overview": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "rating": 8.166,
+    "runtime": 0,
+    "director": "Paul Abbott, John Wells",
+    "cast": [
+      {
+        "name": "William H. Macy",
+        "character": "Frank Gallagher",
+        "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+      },
+      {
+        "name": "Jeremy Allen White",
+        "character": "Lip Gallagher",
+        "profile_path": "/zKk4vmDeUexdevtt6wm8WdMQ1TG.jpg"
+      },
+      {
+        "name": "Ethan Cutkosky",
+        "character": "Carl Gallagher",
+        "profile_path": "/fHa86X7KypnIB1koWXTTyErpRuI.jpg"
+      },
+      {
+        "name": "Shanola Hampton",
+        "character": "Veronica Fisher",
+        "profile_path": "/4wDdVm3HgBJm9AhMNS0I6MZidBH.jpg"
+      },
+      {
+        "name": "Steve Howey",
+        "character": "Kevin Ball",
+        "profile_path": "/dOGLFDM7Blmk5nlPltgXh44z9WG.jpg"
+      },
+      {
+        "name": "Emma Kenney",
+        "character": "Debbie Gallagher",
+        "profile_path": "/AvcM57XKunQCFGsu5cZZHkNre4z.jpg"
+      },
+      {
+        "name": "Christian Isaiah",
+        "character": "Liam Gallagher",
+        "profile_path": "/2gD6D7Lp9CYqTLG2iNg6RR6QPkt.jpg"
+      },
+      {
+        "name": "Cameron Monaghan",
+        "character": "Ian Gallagher",
+        "profile_path": "/u2nxAlWiFcc8qIjpTppFazl13CR.jpg"
+      },
+      {
+        "name": "Noel Fisher",
+        "character": "Mickey Milkovich",
+        "profile_path": "/rBD5Iwt9WITaUKGk1oxSPLjjpm2.jpg"
+      },
+      {
+        "name": "Kate Miner",
+        "character": "Tami Tamietti",
+        "profile_path": "/c2GXh9l7LsBH1eNsKXIxheY1BrF.jpg"
+      }
+    ],
+    "poster": "assets/posters/34307.jpg",
+    "media_type": "tv",
+    "tmdb_id": 34307
   },
   {
     "id": 137635,
@@ -18605,6 +20797,75 @@ const TV_SHOWS = [
     "poster": "assets/posters/241278.jpg",
     "media_type": "tv",
     "tmdb_id": 241278
+  },
+  {
+    "id": 66732,
+    "title": "Stranger Things",
+    "year": "2016",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "rating": 8.593,
+    "runtime": 0,
+    "director": "Ross Duffer, Matt Duffer",
+    "cast": [
+      {
+        "name": "Millie Bobby Brown",
+        "character": "Jane 'Eleven' Hopper",
+        "profile_path": "/3acTGpxrCxdJ1sB9fnw6EpVjWBj.jpg"
+      },
+      {
+        "name": "Finn Wolfhard",
+        "character": "Mike Wheeler",
+        "profile_path": "/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
+      },
+      {
+        "name": "Noah Schnapp",
+        "character": "Will Byers",
+        "profile_path": "/PoyZVIeEK14NfBDQXCBbsWdHQY.jpg"
+      },
+      {
+        "name": "Gaten Matarazzo",
+        "character": "Dustin Henderson",
+        "profile_path": "/gfxSa9pwafFEyzok6N4sIVbJLS.jpg"
+      },
+      {
+        "name": "Caleb McLaughlin",
+        "character": "Lucas Sinclair",
+        "profile_path": "/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+      },
+      {
+        "name": "Sadie Sink",
+        "character": "Max Mayfield",
+        "profile_path": "/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg"
+      },
+      {
+        "name": "David Harbour",
+        "character": "Jim Hopper",
+        "profile_path": "/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+      },
+      {
+        "name": "Winona Ryder",
+        "character": "Joyce Byers",
+        "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+      },
+      {
+        "name": "Natalia Dyer",
+        "character": "Nancy Wheeler",
+        "profile_path": "/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
+      },
+      {
+        "name": "Joe Keery",
+        "character": "Steve Harrington",
+        "profile_path": "/ayIAVLMfZGEGIFwAo3pPnY7p59.jpg"
+      }
+    ],
+    "poster": "assets/posters/66732.jpg",
+    "media_type": "tv",
+    "tmdb_id": 66732
   },
   {
     "id": 76331,
@@ -18853,6 +21114,96 @@ const TV_SHOWS = [
     "tmdb_id": 202208
   },
   {
+    "id": 250504,
+    "title": "The Beast in Me",
+    "year": "2025",
+    "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor \u2014 who might be a murderer.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 7.1,
+    "runtime": 0,
+    "director": "Gabe Rotter",
+    "cast": [
+      {
+        "name": "Claire Danes",
+        "character": "Agatha 'Aggie' Wiggs",
+        "profile_path": "/6YvMc6RViFSornxmZjRgEKWQMzI.jpg"
+      },
+      {
+        "name": "Matthew Rhys",
+        "character": "Nile Jarvis",
+        "profile_path": "/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+      },
+      {
+        "name": "Brittany Snow",
+        "character": "Nina Jarvis",
+        "profile_path": "/uSQW2E7caOaXHBbvL2jdzGbwDwH.jpg"
+      },
+      {
+        "name": "Natalie Morales",
+        "character": "Shelley Morris",
+        "profile_path": "/4azsKjgJ18l0EiJBwtuHklnKH1t.jpg"
+      }
+    ],
+    "poster": "assets/posters/250504.jpg",
+    "media_type": "tv",
+    "tmdb_id": 250504
+  },
+  {
+    "id": 1418,
+    "title": "The Big Bang Theory",
+    "year": "2007",
+    "overview": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 7.911,
+    "runtime": 22,
+    "director": "Chuck Lorre, Bill Prady",
+    "cast": [
+      {
+        "name": "Johnny Galecki",
+        "character": "Leonard Hofstadter",
+        "profile_path": "/5zTHvvKpR9VUkzHxGnbrdB51Kyc.jpg"
+      },
+      {
+        "name": "Jim Parsons",
+        "character": "Sheldon Cooper",
+        "profile_path": "/gbFlludUECPpy70K4tZLbOwmoUr.jpg"
+      },
+      {
+        "name": "Kaley Cuoco",
+        "character": "Penny",
+        "profile_path": "/jZdgOfncpYjks4AFd6ndYIwpAez.jpg"
+      },
+      {
+        "name": "Simon Helberg",
+        "character": "Howard Wolowitz",
+        "profile_path": "/9tLEc6N4lImJX4FohLWHRHFbFXD.jpg"
+      },
+      {
+        "name": "Kunal Nayyar",
+        "character": "Rajesh Koothrappali",
+        "profile_path": "/4e2zbGYxBTHHzDDGKo5SnNyOUx3.jpg"
+      },
+      {
+        "name": "Melissa Rauch",
+        "character": "Bernadette Rostenkowski",
+        "profile_path": "/xOXtwPwYskh42BxIGu09ocDUIX7.jpg"
+      },
+      {
+        "name": "Mayim Bialik",
+        "character": "Amy Farrah Fowler",
+        "profile_path": "/kPsafWVc5H565iTuwS85LtDvvsf.jpg"
+      }
+    ],
+    "poster": "assets/posters/1418.jpg",
+    "media_type": "tv",
+    "tmdb_id": 1418
+  },
+  {
     "id": 227004,
     "title": "The Brothers Sun",
     "year": "2024",
@@ -18988,6 +21339,69 @@ const TV_SHOWS = [
     "poster": "assets/posters/236235.jpg",
     "media_type": "tv",
     "tmdb_id": 236235
+  },
+  {
+    "id": 272265,
+    "title": "The Guest",
+    "year": "2025",
+    "overview": "When a cleaner is hired by a wealthy businesswoman, her life changes forever as their initial friendship threatens to become a manipulative, psychological game of cat and mouse.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating": 8.0,
+    "runtime": 60,
+    "director": "Matthew Barry",
+    "cast": [
+      {
+        "name": "Eve Myles",
+        "character": "Fran Sharp",
+        "profile_path": "/ovTEVIRvmrAjQBZXBn1slmziBPy.jpg"
+      },
+      {
+        "name": "Gabrielle Creevy",
+        "character": "Ria Powell",
+        "profile_path": "/m0ILXwNrfWfwc3xxFWLSKqDRR72.jpg"
+      },
+      {
+        "name": "Sion Daniel Young",
+        "character": "Lee Mace",
+        "profile_path": "/cEOBBhA6ES87htOy4pAVt8HbybX.jpg"
+      },
+      {
+        "name": "Emun Elliott",
+        "character": "Richard Abbott",
+        "profile_path": "/A0PGkWHpgbus4t76hKSTqoey8HP.jpg"
+      },
+      {
+        "name": "Bethan Mary-James",
+        "character": "Sharla",
+        "profile_path": "/kLKj3Vtamf20FrGJNwQhfrj2cxF.jpg"
+      },
+      {
+        "name": "Julian Lewis Jones",
+        "character": "Simon Sharp",
+        "profile_path": "/s6bfs9wbqB3gRhgNH8FmEq39qyZ.jpg"
+      },
+      {
+        "name": "Joseph Ollman",
+        "character": "Mike Rice",
+        "profile_path": "/k0H6SLAquPXdrXUfZJYI8jfgcU3.jpg"
+      },
+      {
+        "name": "Clive Russell",
+        "character": "Derek Abbott",
+        "profile_path": "/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg"
+      },
+      {
+        "name": "Catherine Ayers",
+        "character": "Helen",
+        "profile_path": "/rRakVdIy3I3aIHS3WLRpoytUkTI.jpg"
+      }
+    ],
+    "poster": "assets/posters/272265.jpg",
+    "media_type": "tv",
+    "tmdb_id": 272265
   },
   {
     "id": 100088,
@@ -19295,6 +21709,43 @@ const TV_SHOWS = [
     "tmdb_id": 86941
   },
   {
+    "id": 2316,
+    "title": "The Office",
+    "year": "2005",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 8.6,
+    "runtime": 0,
+    "director": "Greg Daniels",
+    "cast": [
+      {
+        "name": "Rainn Wilson",
+        "character": "Dwight Schrute",
+        "profile_path": "/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
+      },
+      {
+        "name": "John Krasinski",
+        "character": "Jim Halpert",
+        "profile_path": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+      },
+      {
+        "name": "Jenna Fischer",
+        "character": "Pam Beesly",
+        "profile_path": "/mfKRbOHTPNi9jFSthtjl4FGVZv6.jpg"
+      },
+      {
+        "name": "Ed Helms",
+        "character": "Andy Bernard",
+        "profile_path": "/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+      }
+    ],
+    "poster": "assets/posters/2316.jpg",
+    "media_type": "tv",
+    "tmdb_id": 2316
+  },
+  {
     "id": 194764,
     "title": "The Penguin",
     "year": "2024",
@@ -19356,6 +21807,73 @@ const TV_SHOWS = [
     "poster": "assets/posters/194764.jpg",
     "media_type": "tv",
     "tmdb_id": 194764
+  },
+  {
+    "id": 250307,
+    "title": "The Pitt",
+    "year": "2025",
+    "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+    "genres": [
+      "Drama"
+    ],
+    "rating": 8.7,
+    "runtime": 0,
+    "director": "R. Scott Gemmill",
+    "cast": [
+      {
+        "name": "Noah Wyle",
+        "character": "Dr. Michael 'Robby' Robinavitch",
+        "profile_path": "/nwyLCQepwg8FX7OXJ4AT4ej8c7i.jpg"
+      },
+      {
+        "name": "Patrick Ball",
+        "character": "Dr. Frank Langdon",
+        "profile_path": "/c9JfuBcZahNi9mqfZZCjaAqcmGl.jpg"
+      },
+      {
+        "name": "Katherine LaNasa",
+        "character": "Charge Nurse Dana Evans",
+        "profile_path": "/oV0XAoaOT2MKTaDPSKkmjFZJmuY.jpg"
+      },
+      {
+        "name": "Supriya Ganesh",
+        "character": "Dr. Samira Mohan",
+        "profile_path": "/xfwITjH89zXcSNvwzpFoZGSPd4l.jpg"
+      },
+      {
+        "name": "Fiona Dourif",
+        "character": "Dr. Cassie McKay",
+        "profile_path": "/2sC3osR9BQS2XFuKS5HlxwXnnwF.jpg"
+      },
+      {
+        "name": "Taylor Dearden",
+        "character": "Dr. Melissa King",
+        "profile_path": "/v3sgDNVmtnbEMZwZMVc6zE5KX3D.jpg"
+      },
+      {
+        "name": "Isa Briones",
+        "character": "Dr. Trinity Santos",
+        "profile_path": "/tv4lq4eC8odSXvf4MbKM5bPZtvK.jpg"
+      },
+      {
+        "name": "Gerran Howell",
+        "character": "Student Doctor Dennis Whitaker",
+        "profile_path": "/ssyzz4yiGtbHOghoSYZIqQBEh4d.jpg"
+      },
+      {
+        "name": "Shabana Azeez",
+        "character": "Student Doctor Victoria Javadi",
+        "profile_path": "/aRlg7re0dKNhmWQlIz2Il3EnqPT.jpg"
+      },
+      {
+        "name": "Sepideh Moafi",
+        "character": "Dr. Baran Al-Hashimi",
+        "profile_path": "/7Z9BvGgwdLqlRJJft38cepGY1TZ.jpg"
+      }
+    ],
+    "poster": "assets/posters/250307.jpg",
+    "media_type": "tv",
+    "tmdb_id": 250307
   },
   {
     "id": 206829,
@@ -19536,6 +22054,54 @@ const TV_SHOWS = [
     "poster": "assets/posters/222405.jpg",
     "media_type": "tv",
     "tmdb_id": 222405
+  },
+  {
+    "id": 120911,
+    "title": "The Terminal List",
+    "year": "2022",
+    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military\u2019s command structure, Reece applies the lessons he\u2019s learned from nearly two decades of warfare to hunt down the people responsible.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "rating": 8.0,
+    "runtime": 0,
+    "director": "David DiGilio",
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "James Reece",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "name": "Jeanne Tripplehorn",
+        "character": "Secretary Hartley",
+        "profile_path": "/zFWqClEgVl8taJ1V2XQboDJnTAh.jpg"
+      },
+      {
+        "name": "Riley Keough",
+        "character": "Lauren Reece",
+        "profile_path": "/eg1PAXJMgmwTO4UeW7p7oBPKMbU.jpg"
+      },
+      {
+        "name": "Taylor Kitsch",
+        "character": "Ben Edwards",
+        "profile_path": "/lnpp4g14fsLqI29KajEbJUsuBhf.jpg"
+      },
+      {
+        "name": "Constance Wu",
+        "character": "Katie Buranek",
+        "profile_path": "/7nT6QsetU2RCUwopPmq2NFSnLDL.jpg"
+      },
+      {
+        "name": "Arlo Mertz",
+        "character": "Lucy Reece",
+        "profile_path": "/qvuRVUbB1lW54IRtr1amlxOTG7m.jpg"
+      }
+    ],
+    "poster": "assets/posters/120911.jpg",
+    "media_type": "tv",
+    "tmdb_id": 120911
   },
   {
     "id": 75191,
@@ -20321,1172 +22887,21 @@ const TV_SHOWS = [
     "tmdb_id": 73586
   },
   {
-    "id": 216082,
-    "title": "Zero Day",
+    "id": 259823,
+    "title": "Zero Day Attack",
     "year": "2025",
-    "overview": "A former U.S. President is called out of retirement to find the source of a deadly cyberattack, only to discover a vast web of lies and conspiracies.",
+    "overview": "Post-election tensions rise as the acting president provokes China, leading to PLA drills and looming invasion. As Zero Day nears, the president must choose war, and the island faces a critical choice for its future.",
     "genres": [
-      "Drama",
-      "War & Politics"
-    ],
-    "rating": 7.0,
-    "runtime": 0,
-    "director": "Eric Newman, Noah Oppenheim, Michael S. Schmidt",
-    "cast": [
-      {
-        "name": "Robert De Niro",
-        "character": "President George Mullen",
-        "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
-      },
-      {
-        "name": "Jesse Plemons",
-        "character": "Roger Carlson",
-        "profile_path": "/og4I51GsuwohdPgoELOHVMMqMre.jpg"
-      },
-      {
-        "name": "Lizzy Caplan",
-        "character": "Alexandra Mullen",
-        "profile_path": "/lS9DOi0kF8xZdN8tzvJWUKZ6ANY.jpg"
-      },
-      {
-        "name": "Connie Britton",
-        "character": "Valerie Whitesell",
-        "profile_path": "/lxfHf4tTx5NukbemcJjmgqqFAiV.jpg"
-      },
-      {
-        "name": "Joan Allen",
-        "character": "Sheila Mullen",
-        "profile_path": "/ipUhzenaOCmrxqbPqc7RadYxWao.jpg"
-      },
-      {
-        "name": "Bill Camp",
-        "character": "CIA Director Jeremy Lasch",
-        "profile_path": "/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
-      },
-      {
-        "name": "Dan Stevens",
-        "character": "Evan Green",
-        "profile_path": "/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
-      },
-      {
-        "name": "McKinley Belcher III",
-        "character": "Carl Otieno",
-        "profile_path": "/yoglJWyhgA1tnqQS9T3MQPPEsRc.jpg"
-      },
-      {
-        "name": "Matthew Modine",
-        "character": "Richard Dreyer",
-        "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
-      },
-      {
-        "name": "Angela Bassett",
-        "character": "President Evelyn Mitchell",
-        "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
-      }
-    ],
-    "poster": "assets/posters/216082.jpg",
-    "media_type": "tv",
-    "tmdb_id": 216082
-  },
-  {
-    "id": 298234,
-    "title": "aka Charlie Sheen",
-    "year": "2025",
-    "overview": "Actor Charlie Sheen tells his story in this candid two-part documentary tracing his dazzling Hollywood rise, tabloid-topping fall and road to recovery.",
-    "genres": [
-      "Documentary"
-    ],
-    "rating": 7.737,
-    "runtime": 0,
-    "director": "",
-    "cast": [
-      {
-        "name": "Charlie Sheen",
-        "character": "Self",
-        "profile_path": "/npEqnIw321opMKuu3lsFNKNKQdX.jpg"
-      },
-      {
-        "name": "Sean Penn",
-        "character": "Self",
-        "profile_path": "/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
-      },
-      {
-        "name": "Denise Richards",
-        "character": "Self",
-        "profile_path": "/i1MDAhdjiqXWwEhr7ujnlk8ksdl.jpg"
-      },
-      {
-        "name": "Chris Tucker",
-        "character": "Self",
-        "profile_path": "/f3oQKRJEGjK8Yc4qSMrD5P9oYbg.jpg"
-      },
-      {
-        "name": "Jon Cryer",
-        "character": "Self",
-        "profile_path": "/7PB7dDNHP9l5LlCCw6GP8GjaCAE.jpg"
-      },
-      {
-        "name": "Brooke Mueller",
-        "character": "Self",
-        "profile_path": "/d6KTAoiIbzQZ5Nnpyl3GPZEBRJW.jpg"
-      },
-      {
-        "name": "Ramon Estevez",
-        "character": "Self",
-        "profile_path": "/pBtASp4vS5vAWU04XN4ZU93hIoD.jpg"
-      },
-      {
-        "name": "Heidi Fleiss",
-        "character": "Self",
-        "profile_path": "/3H3VnlK3aWcckh4YZpOMY4ip6TR.jpg"
-      }
-    ],
-    "poster": "assets/posters/298234.jpg",
-    "media_type": "tv",
-    "tmdb_id": 298234
-  },
-  {
-    "id": 83867,
-    "title": "Andor",
-    "year": "2022",
-    "overview": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Action & Adventure",
-      "Drama"
-    ],
-    "rating": 8.27,
-    "runtime": 0,
-    "director": "Tony Gilroy",
-    "cast": [
-      {
-        "name": "Diego Luna",
-        "character": "Cassian Andor",
-        "profile_path": "/1ir9E1qXmfsSTG2jQknz2tLb54E.jpg"
-      }
-    ],
-    "poster": "assets/posters/83867.jpg",
-    "media_type": "tv",
-    "tmdb_id": 83867
-  },
-  {
-    "id": 254701,
-    "title": "Atomic",
-    "year": "2025",
-    "overview": "When the path of free-spirited drug smuggler Max collides with JJ, an enigmatic outsider on the run, an unlikely friendship is formed. They're swept into a chaotic, high-stakes mission they never signed up for, trafficking highly enriched uranium across North Africa and the Middle East, with the CIA, MI6, and a global web of opposing forces closing in fast.",
-    "genres": [
-      "Action & Adventure",
-      "Drama"
-    ],
-    "rating": 6.3,
-    "runtime": 0,
-    "director": "Gregory Burke, Alfie Allen, Shazad Latif, Samira Wiley",
-    "cast": [
-      {
-        "name": "Alfie Allen",
-        "character": "Max",
-        "profile_path": "/aF3SyXNd2JfktnYkUvC1tsFHJDu.jpg"
-      },
-      {
-        "name": "Shazad Latif",
-        "character": "JJ / Mohammed",
-        "profile_path": "/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
-      },
-      {
-        "name": "Samira Wiley",
-        "character": "Cassie Elliott",
-        "profile_path": "/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
-      },
-      {
-        "name": "Avital Lvova",
-        "character": "Oksana Shirokova",
-        "profile_path": "/8WF3Tn6vokM3kWWA46lVSW2qZgk.jpg"
-      },
-      {
-        "name": "Stuart Martin",
-        "character": "Rab Mackintosh",
-        "profile_path": "/qSM4nGc1FyxygdG9YyU4uritqn2.jpg"
-      },
-      {
-        "name": "Franklin V\u00edrg\u00fcez",
-        "character": "Antonio Alam",
-        "profile_path": "/cnsjaHara5loiHOzWBnakSbEQNj.jpg"
-      },
-      {
-        "name": "Charlie Murphy",
-        "character": "Laetitia",
-        "profile_path": "/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
-      },
-      {
-        "name": "Brian Gleeson",
-        "character": "Mark Ellis",
-        "profile_path": "/x9uykZetcMYmB6UpQY29ApPedth.jpg"
-      },
-      {
-        "name": "Vahid Gold",
-        "character": "Khaled Awad",
-        "profile_path": null
-      },
-      {
-        "name": "Akin Gazi",
-        "character": "Sayed Ahman",
-        "profile_path": "/c0syqzuQ8cD56VcnLhbew8cS3EX.jpg"
-      }
-    ],
-    "poster": "assets/posters/254701.jpg",
-    "media_type": "tv",
-    "tmdb_id": 254701
-  },
-  {
-    "id": 92621,
-    "title": "Brassic",
-    "year": "2019",
-    "overview": "A group of working-class friends finding unconventional ways to win at life in suburban northern England. These lads have dealt, scammed, bribed and conned their way through adolescence, but now, their dealing and stealing is catching up with them and a whole load of trouble is heading their way.",
-    "genres": [
-      "Comedy",
-      "Drama",
+      "War & Politics",
       "Crime"
     ],
-    "rating": 8.452,
-    "runtime": 43,
-    "director": "Daniel Brocklehurst, Joseph Gilgun",
-    "cast": [
-      {
-        "name": "Joseph Gilgun",
-        "character": "Vincent \"Vinnie\" O'Neill",
-        "profile_path": "/A8wFwzX8ejdfgeNG7OPbz87ZCrs.jpg"
-      },
-      {
-        "name": "Michelle Keegan",
-        "character": "Erin Croft",
-        "profile_path": "/cuAQsPAfbUpBiRSDizr3cDn7Qsj.jpg"
-      },
-      {
-        "name": "Steve Evets",
-        "character": "Jim",
-        "profile_path": "/g1HZ9CnpiClgGcbPLcP48ICWqja.jpg"
-      },
-      {
-        "name": "Tom Hanson",
-        "character": "Leslie \"Cardi\" Titt",
-        "profile_path": "/ue4Bofut1dMH8eoEDE2MWa0DQx3.jpg"
-      },
-      {
-        "name": "Aaron Heffernan",
-        "character": "Ashley \"Ash\" Dennings",
-        "profile_path": "/KkE3C4DQM9GTRZoJT7VQPHlwi7.jpg"
-      },
-      {
-        "name": "Parth Thakerar",
-        "character": "Jehan \"JJ\" Jovani",
-        "profile_path": "/zdfQ7ypmtxVZChGCIGpoMx0pugF.jpg"
-      },
-      {
-        "name": "Ryan Sampson",
-        "character": "Thomas \"Tommo\" Schaffner",
-        "profile_path": "/1FfIn5bS8vUurvX7POg0Xlb02xy.jpg"
-      },
-      {
-        "name": "Dominic West",
-        "character": "Dr. Chris Coxley",
-        "profile_path": "/6y2M3EWslBPwPlugEFg8XDHfSJ0.jpg"
-      }
-    ],
-    "poster": "assets/posters/92621.jpg",
-    "media_type": "tv",
-    "tmdb_id": 92621
-  },
-  {
-    "id": 256075,
-    "title": "Gypsy Rose: Life After Lock Up",
-    "year": "2024",
-    "overview": "An authentic, raw and revealing look at Gypsy\u2019s new life on the outside.",
-    "genres": [
-      "Documentary"
-    ],
-    "rating": 8.7,
+    "rating": 6.6,
     "runtime": 0,
-    "director": "",
+    "director": "\u7f85\u666f\u58ec",
     "cast": [],
-    "poster": "assets/posters/256075.jpg",
+    "poster": "assets/posters/259823.jpg",
     "media_type": "tv",
-    "tmdb_id": 256075
-  },
-  {
-    "id": 242977,
-    "title": "La Palma",
-    "year": "2024",
-    "overview": "A Norwegian family vacationing on La Palma faces disaster when a young researcher discovers alarming signs of an imminent volcanic eruption.",
-    "genres": [
-      "Drama"
-    ],
-    "rating": 6.925,
-    "runtime": 44,
-    "director": "Martin Sundland, Lars Gudmestad, Harald Rosenl\u00f8w-Eeg",
-    "cast": [
-      {
-        "name": "Anders Baasmo Christiansen",
-        "character": "Fredrik",
-        "profile_path": "/lscnOAUqyja8BHQACtjWCOTOKG7.jpg"
-      },
-      {
-        "name": "Ingrid Bols\u00f8 Berdal",
-        "character": "Jennifer",
-        "profile_path": "/iv9RaskT1WronDXaTKh9mI5KNUn.jpg"
-      },
-      {
-        "name": "Alma G\u00fcnther",
-        "character": "Sara",
-        "profile_path": "/5rwDPzGB7B1GB804PIXcaN74vbJ.jpg"
-      },
-      {
-        "name": "Bernard Storm Lager",
-        "character": "Tobias",
-        "profile_path": "/y5W0CCDqH15xbOjhC04wugKQ5T3.jpg"
-      },
-      {
-        "name": "Jenny Evensen",
-        "character": "Charlie",
-        "profile_path": "/oY4D0usFpR884Olhb4l0ZKAFOvt.jpg"
-      },
-      {
-        "name": "Thea Sofie Loch N\u00e6ss",
-        "character": "Marie Ekdahl",
-        "profile_path": "/fzd0RI8Vnsw1LoG81YthvdnaeJD.jpg"
-      },
-      {
-        "name": "Johannes Joner",
-        "character": "Arnt",
-        "profile_path": "/ltLI5B3JJrTIzeaLeFnVUelTQVR.jpg"
-      },
-      {
-        "name": "\u00d3lafur Darri \u00d3lafsson",
-        "character": "Haukur",
-        "profile_path": "/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg"
-      },
-      {
-        "name": "Thorbj\u00f8rn Harr",
-        "character": "Jens Uvdal",
-        "profile_path": "/hqBkuGoISmRB5O8t6RkKcHv3bZA.jpg"
-      },
-      {
-        "name": "Amund Harboe",
-        "character": "Erik",
-        "profile_path": "/4eQHNhdWgZOu1b8MBPjwYx9rExc.jpg"
-      }
-    ],
-    "poster": "assets/posters/242977.jpg",
-    "media_type": "tv",
-    "tmdb_id": 242977
-  },
-  {
-    "id": 1426,
-    "title": "Luther",
-    "year": "2010",
-    "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "rating": 7.861,
-    "runtime": 60,
-    "director": "Neil Cross",
-    "cast": [
-      {
-        "name": "Idris Elba",
-        "character": "DCI John Luther",
-        "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
-      },
-      {
-        "name": "Dermot Crowley",
-        "character": "DSU Martin Schenk",
-        "profile_path": "/wQN9dvOXdecRtUAgOx8xSMC1gyh.jpg"
-      },
-      {
-        "name": "Hermione Norris",
-        "character": "Vivien Lake",
-        "profile_path": "/jM67afr5YJn93RMDlexthlZwTKA.jpg"
-      },
-      {
-        "name": "Michael Smiley",
-        "character": "Benny Silver",
-        "profile_path": "/eWfpVJs6nnvWlzz85LRDEXHsyOJ.jpg"
-      },
-      {
-        "name": "Ruth Wilson",
-        "character": "Alice Morgan",
-        "profile_path": "/dKJA3nMTlueNK0sAmKM6P9WKJnB.jpg"
-      },
-      {
-        "name": "Patrick Malahide",
-        "character": "George Cornelius",
-        "profile_path": "/ae0AJ8FbJireYPQyglIxNucjqIy.jpg"
-      },
-      {
-        "name": "Wunmi Mosaku",
-        "character": "Detective Sgt. Catherine Halliday",
-        "profile_path": "/yWM19CjCv66MqNkwHBp6Dpvtn9x.jpg"
-      },
-      {
-        "name": "Enzo Cilenti",
-        "character": "Jeremy Lake",
-        "profile_path": "/lGFHPUsOlAnncpZLfdFXCGq2nji.jpg"
-      }
-    ],
-    "poster": "assets/posters/1426.jpg",
-    "media_type": "tv",
-    "tmdb_id": 1426
-  },
-  {
-    "id": 241268,
-    "title": "Mr. Bigstuff",
-    "year": "2024",
-    "overview": "Glen and his fianc\u00e9e share a perfect, perfectly mundane life together. Sure, Glen's got crippling erectile dysfunction and Kirsty has a secret shoplifting habit, but they're happy. That is until his brother Lee comes crashing into their lives, whilst on the run from a past that's quickly catching up with him. The trio are forced together: a perfectionist, a fantasist and an anarchist all living under the same roof in an Essex cul-de-sac. It's not long before their 'perfect' lives start to unravel faster than a cheap carpet.",
-    "genres": [
-      "Comedy"
-    ],
-    "rating": 6.5,
-    "runtime": 25,
-    "director": "Ryan Sampson",
-    "cast": [
-      {
-        "name": "Ryan Sampson",
-        "character": "Glen",
-        "profile_path": "/1FfIn5bS8vUurvX7POg0Xlb02xy.jpg"
-      },
-      {
-        "name": "Danny Dyer",
-        "character": "Lee",
-        "profile_path": "/jkRpiR5pwkyeiIBdQF8og9D4reP.jpg"
-      }
-    ],
-    "poster": "assets/posters/241268.jpg",
-    "media_type": "tv",
-    "tmdb_id": 241268
-  },
-  {
-    "id": 131835,
-    "title": "Nautilus",
-    "year": "2024",
-    "overview": "The origin story of the iconic Captain Nemo: an Indian Prince robbed of his birthright and family, a prisoner of the East India Mercantile Company and a man bent on revenge against the forces that have taken everything from him.",
-    "genres": [
-      "Drama",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ],
-    "rating": 6.898,
-    "runtime": 0,
-    "director": "James Dormer",
-    "cast": [
-      {
-        "name": "Shazad Latif",
-        "character": "Nemo",
-        "profile_path": "/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
-      },
-      {
-        "name": "Georgia Flood",
-        "character": "Humility Lucas",
-        "profile_path": "/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
-      },
-      {
-        "name": "C\u00e9line Menville",
-        "character": "Loti",
-        "profile_path": "/aZYWdBE0V6U3FwyKXcYtfxDiPEu.jpg"
-      },
-      {
-        "name": "Thierry Fr\u00e9mont",
-        "character": "Benoit",
-        "profile_path": "/yUwC2WiydDrCy5TL7xOjdP1PXjM.jpg"
-      },
-      {
-        "name": "Luke Arnold",
-        "character": "Captain Billy Millais",
-        "profile_path": "/b19aJzhUAfyQXd0mtmDvLAyOth8.jpg"
-      },
-      {
-        "name": "Jacob Collins-Levy",
-        "character": "Captain Youngblood",
-        "profile_path": "/7m0wDgv3qRes527fBDspudz7AAA.jpg"
-      },
-      {
-        "name": "Damien Garvey",
-        "character": "Director Crawley",
-        "profile_path": "/jLVN1BX9d8H7ubfRvve8pxtwBGK.jpg"
-      },
-      {
-        "name": "Cameron Cuffe",
-        "character": "Algernon Pitt",
-        "profile_path": "/1AsKnxWo3vUAvXYDU6TLB7KAkLM.jpg"
-      },
-      {
-        "name": "Kayden Price",
-        "character": "Blaster",
-        "profile_path": "/qL0DXqRaD4WUeZ3v0EH0simBxyV.jpg"
-      },
-      {
-        "name": "Benedict Hardie",
-        "character": "Edward Cuff",
-        "profile_path": "/bf02Dz4LMV23scJC6c8P4R6xji6.jpg"
-      }
-    ],
-    "poster": "assets/posters/131835.jpg",
-    "media_type": "tv",
-    "tmdb_id": 131835
-  },
-  {
-    "id": 2331,
-    "title": "Phoenix Nights",
-    "year": "2001",
-    "overview": "The owner of The Phoenix Club is the wheelchair-bound Brian Potter, who has presided over two clubs in the past: the first (The Aquarius) flooded, the second (The Neptune) burned down. His ambition (with the help of Jerry St Clair) is to see The Phoenix Club become the most popular in Bolton and thus outdo his arch-nemesis, Den Perry, owner of rival club The Banana Grove.",
-    "genres": [
-      "Comedy"
-    ],
-    "rating": 7.807,
-    "runtime": 25,
-    "director": "Peter Kay, Dave Spikey",
-    "cast": [
-      {
-        "name": "Peter Kay",
-        "character": "Brian Potter/Max",
-        "profile_path": "/hzqItun8VYuXav06hjgUpaiXoja.jpg"
-      },
-      {
-        "name": "Dave Spikey",
-        "character": "Jerry St Clair",
-        "profile_path": "/9cs11VZKTzRlMYmgdfHRuwvytFk.jpg"
-      },
-      {
-        "name": "Neil Fitzmaurice",
-        "character": "Ray Von",
-        "profile_path": "/rbRgevu1cMOihbm1jsbbIDsvEy9.jpg"
-      },
-      {
-        "name": "Paddy McGuinness",
-        "character": "Paddy",
-        "profile_path": "/2LMYFeIQF4r1OrtGHvE7ocZoGX7.jpg"
-      },
-      {
-        "name": "Justin Moorhouse",
-        "character": "Young Kenny",
-        "profile_path": "/4Uq5vBptCXoCNA8FCAYSCEM1DmS.jpg"
-      },
-      {
-        "name": "Archie Kelly",
-        "character": "Kenny Senior",
-        "profile_path": "/zsfU8iOUKuAcwBPcnaeheKpWQje.jpg"
-      },
-      {
-        "name": "Daniel Kitson",
-        "character": "Spencer",
-        "profile_path": "/gjUl5d2o2oa6DxwecJBqV2rJQ2z.jpg"
-      },
-      {
-        "name": "Janice Connolly",
-        "character": "Holy Mary",
-        "profile_path": null
-      },
-      {
-        "name": "Steve Edge",
-        "character": "Alan",
-        "profile_path": "/hcb1Yh4s9gIXxBhLgbCpNtMnbuS.jpg"
-      },
-      {
-        "name": "Toby Foster",
-        "character": "Les",
-        "profile_path": "/sLbmXDnRltkftk4ZmxYxxUlDVSD.jpg"
-      }
-    ],
-    "poster": "assets/posters/2331.jpg",
-    "media_type": "tv",
-    "tmdb_id": 2331
-  },
-  {
-    "id": 233183,
-    "title": "Psycho: The Lost Tapes of Ed Gein",
-    "year": "2023",
-    "overview": "Follows the horrifying grave robber and serial killer Ed Gein, whose crimes inspired such iconic films as \"Psycho\", \"The Texas Chainsaw Massacre\", and \"The Silence of the Lambs\".",
-    "genres": [
-      "Documentary",
-      "Crime"
-    ],
-    "rating": 5.7,
-    "runtime": 55,
-    "director": "",
-    "cast": [
-      {
-        "name": "Deanna Mae Lloyd",
-        "character": "Self",
-        "profile_path": "/ys0d1qOWYfCPmF7jK7JEJ5v4TgS.jpg"
-      },
-      {
-        "name": "Ed Gein",
-        "character": "Self- Archive",
-        "profile_path": null
-      },
-      {
-        "name": "Henry Zebrowski",
-        "character": "Self",
-        "profile_path": "/hcWe0vIbjTqaEKCc3DW41YBWmDX.jpg"
-      },
-      {
-        "name": "Marcus Parks",
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Ben Kissel",
-        "character": "Self",
-        "profile_path": "/yY5qdG9yimGiAmV70IJleXaUdsu.jpg"
-      },
-      {
-        "name": "Louis B. Schlesinger",
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Harold Schechter",
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Jooyoung Lee",
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "N.G. Berrill",
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Jocelyn Sczcepaniak-Gillece",
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "poster": "assets/posters/233183.jpg",
-    "media_type": "tv",
-    "tmdb_id": 233183
-  },
-  {
-    "id": 108978,
-    "title": "Reacher",
-    "year": "2022",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "genres": [
-      "Action & Adventure",
-      "Drama",
-      "Crime"
-    ],
-    "rating": 8.093,
-    "runtime": 0,
-    "director": "Nick Santora",
-    "cast": [
-      {
-        "name": "Alan Ritchson",
-        "character": "Jack Reacher",
-        "profile_path": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
-      },
-      {
-        "name": "Maria Sten",
-        "character": "Frances Neagley",
-        "profile_path": "/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg"
-      },
-      {
-        "name": "Sonya Cassidy",
-        "character": "Susan Duffy",
-        "profile_path": "/7z0VYq74tKFXoJtKrIUpmygJxak.jpg"
-      },
-      {
-        "name": "Johnny Berchtold",
-        "character": "Richard Beck",
-        "profile_path": "/6C7fVV4sblHJVtPSLZJSw85FxVy.jpg"
-      },
-      {
-        "name": "Roberto Montesinos",
-        "character": "Guillermo Villanueva",
-        "profile_path": "/gRYmaYEXawDmOngzOThnxDL2FHs.jpg"
-      },
-      {
-        "name": "Olivier Richters",
-        "character": "Paulie",
-        "profile_path": "/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg"
-      },
-      {
-        "name": "Brian Tee",
-        "character": "Quinn",
-        "profile_path": "/ieqbktfBwcHkeikMfNDW94Yffzp.jpg"
-      },
-      {
-        "name": "Anthony Michael Hall",
-        "character": "Zachary Beck",
-        "profile_path": "/nLthzoCuNxxd3KteIrnnMg1066G.jpg"
-      }
-    ],
-    "poster": "assets/posters/108978.jpg",
-    "media_type": "tv",
-    "tmdb_id": 108978
-  },
-  {
-    "id": 1891,
-    "title": "Rome",
-    "year": "2005",
-    "overview": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.",
-    "genres": [
-      "Action & Adventure",
-      "Drama"
-    ],
-    "rating": 8.2,
-    "runtime": 60,
-    "director": "John Milius, Bruno Heller, William J. MacDonald",
-    "cast": [
-      {
-        "name": "Kevin McKidd",
-        "character": "Lucius Vorenus",
-        "profile_path": "/KtmEKOSehmQ35JfGjEjpqlypbP.jpg"
-      },
-      {
-        "name": "Ray Stevenson",
-        "character": "Titus Pullo",
-        "profile_path": "/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg"
-      },
-      {
-        "name": "Ciar\u00e1n Hinds",
-        "character": "Julius Caesar",
-        "profile_path": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
-      },
-      {
-        "name": "James Purefoy",
-        "character": "Mark Antony",
-        "profile_path": "/nCNyifrD9wOao27A1nT5n4Soxt1.jpg"
-      },
-      {
-        "name": "Polly Walker",
-        "character": "Atia of the Julii",
-        "profile_path": "/eE8dtdlAwnMeramd1pA6eOQzhky.jpg"
-      },
-      {
-        "name": "Tobias Menzies",
-        "character": "Marcus Junius Brutus",
-        "profile_path": "/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
-      },
-      {
-        "name": "Lindsay Duncan",
-        "character": "Servilia of the Junii",
-        "profile_path": "/kx2x62Rhod8wz1XuVDRQfqXpEqE.jpg"
-      },
-      {
-        "name": "Nicholas Woodeson",
-        "character": "Posca",
-        "profile_path": "/g8sVxrMjLAWEde8TZaa42e2Lr42.jpg"
-      },
-      {
-        "name": "Kerry Condon",
-        "character": "Octavia of the Julii",
-        "profile_path": "/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
-      },
-      {
-        "name": "David Bamber",
-        "character": "Marcus Tullius Cicero",
-        "profile_path": "/1J5smU02X7125OgIyOLH6TVenDM.jpg"
-      }
-    ],
-    "poster": "assets/posters/1891.jpg",
-    "media_type": "tv",
-    "tmdb_id": 1891
-  },
-  {
-    "id": 272265,
-    "title": "The Guest",
-    "year": "2025",
-    "overview": "When a cleaner is hired by a wealthy businesswoman, her life changes forever as their initial friendship threatens to become a manipulative, psychological game of cat and mouse.",
-    "genres": [
-      "Drama",
-      "Crime"
-    ],
-    "rating": 8.0,
-    "runtime": 60,
-    "director": "Matthew Barry",
-    "cast": [
-      {
-        "name": "Eve Myles",
-        "character": "Fran Sharp",
-        "profile_path": "/ovTEVIRvmrAjQBZXBn1slmziBPy.jpg"
-      },
-      {
-        "name": "Gabrielle Creevy",
-        "character": "Ria Powell",
-        "profile_path": "/m0ILXwNrfWfwc3xxFWLSKqDRR72.jpg"
-      },
-      {
-        "name": "Sion Daniel Young",
-        "character": "Lee Mace",
-        "profile_path": "/cEOBBhA6ES87htOy4pAVt8HbybX.jpg"
-      },
-      {
-        "name": "Emun Elliott",
-        "character": "Richard Abbott",
-        "profile_path": "/A0PGkWHpgbus4t76hKSTqoey8HP.jpg"
-      },
-      {
-        "name": "Bethan Mary-James",
-        "character": "Sharla",
-        "profile_path": "/kLKj3Vtamf20FrGJNwQhfrj2cxF.jpg"
-      },
-      {
-        "name": "Julian Lewis Jones",
-        "character": "Simon Sharp",
-        "profile_path": "/s6bfs9wbqB3gRhgNH8FmEq39qyZ.jpg"
-      },
-      {
-        "name": "Joseph Ollman",
-        "character": "Mike Rice",
-        "profile_path": "/k0H6SLAquPXdrXUfZJYI8jfgcU3.jpg"
-      },
-      {
-        "name": "Clive Russell",
-        "character": "Derek Abbott",
-        "profile_path": "/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg"
-      },
-      {
-        "name": "Catherine Ayers",
-        "character": "Helen",
-        "profile_path": "/rRakVdIy3I3aIHS3WLRpoytUkTI.jpg"
-      }
-    ],
-    "poster": "assets/posters/272265.jpg",
-    "media_type": "tv",
-    "tmdb_id": 272265
-  },
-  {
-    "id": 120911,
-    "title": "The Terminal List",
-    "year": "2022",
-    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military\u2019s command structure, Reece applies the lessons he\u2019s learned from nearly two decades of warfare to hunt down the people responsible.",
-    "genres": [
-      "Action & Adventure",
-      "Drama"
-    ],
-    "rating": 8.0,
-    "runtime": 0,
-    "director": "David DiGilio",
-    "cast": [
-      {
-        "name": "Chris Pratt",
-        "character": "James Reece",
-        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
-      },
-      {
-        "name": "Jeanne Tripplehorn",
-        "character": "Secretary Hartley",
-        "profile_path": "/zFWqClEgVl8taJ1V2XQboDJnTAh.jpg"
-      },
-      {
-        "name": "Riley Keough",
-        "character": "Lauren Reece",
-        "profile_path": "/eg1PAXJMgmwTO4UeW7p7oBPKMbU.jpg"
-      },
-      {
-        "name": "Taylor Kitsch",
-        "character": "Ben Edwards",
-        "profile_path": "/lnpp4g14fsLqI29KajEbJUsuBhf.jpg"
-      },
-      {
-        "name": "Constance Wu",
-        "character": "Katie Buranek",
-        "profile_path": "/7nT6QsetU2RCUwopPmq2NFSnLDL.jpg"
-      },
-      {
-        "name": "Arlo Mertz",
-        "character": "Lucy Reece",
-        "profile_path": "/qvuRVUbB1lW54IRtr1amlxOTG7m.jpg"
-      }
-    ],
-    "poster": "assets/posters/120911.jpg",
-    "media_type": "tv",
-    "tmdb_id": 120911
-  },
-  {
-    "id": 286801,
-    "title": "Monster: The Ed Gein Story",
-    "year": "2025",
-    "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
-    "genres": [
-      "Drama",
-      "Crime"
-    ],
-    "rating": 7.383,
-    "runtime": 0,
-    "director": "Ian Brennan",
-    "cast": [
-      {
-        "name": "Charlie Hunnam",
-        "character": "Ed Gein",
-        "profile_path": "/nw9LsDNsDkPwotG7YpxRNBXmaCQ.jpg"
-      },
-      {
-        "name": "Suzanna Son",
-        "character": "Adeline Watkins",
-        "profile_path": "/85ROAQ2XoXWFGWOFk78GGCCZTGv.jpg"
-      },
-      {
-        "name": "Vicky Krieps",
-        "character": "Ilse Koch",
-        "profile_path": "/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
-      },
-      {
-        "name": "Laurie Metcalf",
-        "character": "Augusta Gein",
-        "profile_path": "/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
-      }
-    ],
-    "poster": "assets/posters/286801.jpg",
-    "media_type": "tv",
-    "tmdb_id": 286801
-  },
-  {
-    "id": 1418,
-    "title": "The Big Bang Theory",
-    "year": "2007",
-    "overview": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
-    "genres": [
-      "Comedy"
-    ],
-    "rating": 7.911,
-    "runtime": 22,
-    "director": "Chuck Lorre, Bill Prady",
-    "cast": [
-      {
-        "name": "Johnny Galecki",
-        "character": "Leonard Hofstadter",
-        "profile_path": "/5zTHvvKpR9VUkzHxGnbrdB51Kyc.jpg"
-      },
-      {
-        "name": "Jim Parsons",
-        "character": "Sheldon Cooper",
-        "profile_path": "/gbFlludUECPpy70K4tZLbOwmoUr.jpg"
-      },
-      {
-        "name": "Kaley Cuoco",
-        "character": "Penny",
-        "profile_path": "/jZdgOfncpYjks4AFd6ndYIwpAez.jpg"
-      },
-      {
-        "name": "Simon Helberg",
-        "character": "Howard Wolowitz",
-        "profile_path": "/9tLEc6N4lImJX4FohLWHRHFbFXD.jpg"
-      },
-      {
-        "name": "Kunal Nayyar",
-        "character": "Rajesh Koothrappali",
-        "profile_path": "/4e2zbGYxBTHHzDDGKo5SnNyOUx3.jpg"
-      },
-      {
-        "name": "Melissa Rauch",
-        "character": "Bernadette Rostenkowski",
-        "profile_path": "/xOXtwPwYskh42BxIGu09ocDUIX7.jpg"
-      },
-      {
-        "name": "Mayim Bialik",
-        "character": "Amy Farrah Fowler",
-        "profile_path": "/kPsafWVc5H565iTuwS85LtDvvsf.jpg"
-      }
-    ],
-    "poster": "assets/posters/1418.jpg",
-    "media_type": "tv",
-    "tmdb_id": 1418
-  },
-  {
-    "id": 66732,
-    "title": "Stranger Things",
-    "year": "2016",
-    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-    "genres": [
-      "Drama",
-      "Sci-Fi & Fantasy",
-      "Mystery"
-    ],
-    "rating": 8.593,
-    "runtime": 0,
-    "director": "Ross Duffer, Matt Duffer",
-    "cast": [
-      {
-        "name": "Millie Bobby Brown",
-        "character": "Jane 'Eleven' Hopper",
-        "profile_path": "/3acTGpxrCxdJ1sB9fnw6EpVjWBj.jpg"
-      },
-      {
-        "name": "Finn Wolfhard",
-        "character": "Mike Wheeler",
-        "profile_path": "/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
-      },
-      {
-        "name": "Noah Schnapp",
-        "character": "Will Byers",
-        "profile_path": "/PoyZVIeEK14NfBDQXCBbsWdHQY.jpg"
-      },
-      {
-        "name": "Gaten Matarazzo",
-        "character": "Dustin Henderson",
-        "profile_path": "/gfxSa9pwafFEyzok6N4sIVbJLS.jpg"
-      },
-      {
-        "name": "Caleb McLaughlin",
-        "character": "Lucas Sinclair",
-        "profile_path": "/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
-      },
-      {
-        "name": "Sadie Sink",
-        "character": "Max Mayfield",
-        "profile_path": "/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg"
-      },
-      {
-        "name": "David Harbour",
-        "character": "Jim Hopper",
-        "profile_path": "/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
-      },
-      {
-        "name": "Winona Ryder",
-        "character": "Joyce Byers",
-        "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
-      },
-      {
-        "name": "Natalia Dyer",
-        "character": "Nancy Wheeler",
-        "profile_path": "/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
-      },
-      {
-        "name": "Joe Keery",
-        "character": "Steve Harrington",
-        "profile_path": "/ayIAVLMfZGEGIFwAo3pPnY7p59.jpg"
-      }
-    ],
-    "poster": "assets/posters/66732.jpg",
-    "media_type": "tv",
-    "tmdb_id": 66732
-  },
-  {
-    "id": 1399,
-    "title": "Game of Thrones",
-    "year": "2011",
-    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Drama",
-      "Action & Adventure"
-    ],
-    "rating": 8.456,
-    "runtime": 0,
-    "director": "David Benioff, D. B. Weiss",
-    "cast": [
-      {
-        "name": "Peter Dinklage",
-        "character": "Tyrion 'The Halfman' Lannister",
-        "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
-      },
-      {
-        "name": "Kit Harington",
-        "character": "Jon Snow",
-        "profile_path": "/iCFQAQqb0SgvxEdVYhJtZLhM9kp.jpg"
-      },
-      {
-        "name": "Nikolaj Coster-Waldau",
-        "character": "Sir Jaime 'Kingslayer' Lannister",
-        "profile_path": "/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
-      },
-      {
-        "name": "Lena Headey",
-        "character": "Cersei Lannister",
-        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
-      },
-      {
-        "name": "Emilia Clarke",
-        "character": "Daenerys Targaryen",
-        "profile_path": "/58ZhsLDVFgxx6fePJQ2K8RVpc1s.jpg"
-      },
-      {
-        "name": "Liam Cunningham",
-        "character": "Davos Seaworth",
-        "profile_path": "/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg"
-      },
-      {
-        "name": "Maisie Williams",
-        "character": "Arya Stark",
-        "profile_path": "/5RjD4dDpRDAhalFtvcUj7zdLWYB.jpg"
-      },
-      {
-        "name": "Isaac Hempstead Wright",
-        "character": "Brandon 'Bran' Stark",
-        "profile_path": "/f3kTscNB4XVhEBHqmGWSf853UtW.jpg"
-      },
-      {
-        "name": "Sophie Turner",
-        "character": "Sansa Stark",
-        "profile_path": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
-      },
-      {
-        "name": "John Bradley",
-        "character": "Samwell 'Sam' Tarly",
-        "profile_path": "/lQuxVtH8GkSLSZQhpmSdIi88DSF.jpg"
-      }
-    ],
-    "poster": "assets/posters/1399.jpg",
-    "media_type": "tv",
-    "tmdb_id": 1399
-  },
-  {
-    "id": 120399,
-    "title": "Shameless",
-    "year": "2021",
-    "overview": "Is it SHAMELESS to feel like having a lot of sex when you are a young woman? In DR3\u2019s new reportage series, we follow three strong young women who defy prejudice and shame and set their sexual desires free. Here it is Inger, Asmita and Sofie who \"take and give\" as the most natural. They refuse to degrade female sexuality into something that should be overlooked, suppressed, or felt wrong. We open the door to the most intimate of their lives and experience all that is not normally said out loud. For Inger, Asmita and Sofie insist that it should be possible to have an open sex life as a woman in 2021 without being labeled \"cheap\".",
-    "genres": [
-      "Documentary"
-    ],
-    "rating": 2.0,
-    "runtime": 0,
-    "director": "",
-    "cast": [],
-    "poster": "assets/posters/120399.jpg",
-    "media_type": "tv",
-    "tmdb_id": 120399
-  },
-  {
-    "id": 2316,
-    "title": "The Office",
-    "year": "2005",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "genres": [
-      "Comedy"
-    ],
-    "rating": 8.6,
-    "runtime": 0,
-    "director": "Greg Daniels",
-    "cast": [
-      {
-        "name": "Rainn Wilson",
-        "character": "Dwight Schrute",
-        "profile_path": "/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
-      },
-      {
-        "name": "John Krasinski",
-        "character": "Jim Halpert",
-        "profile_path": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
-      },
-      {
-        "name": "Jenna Fischer",
-        "character": "Pam Beesly",
-        "profile_path": "/mfKRbOHTPNi9jFSthtjl4FGVZv6.jpg"
-      },
-      {
-        "name": "Ed Helms",
-        "character": "Andy Bernard",
-        "profile_path": "/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-      }
-    ],
-    "poster": "assets/posters/2316.jpg",
-    "media_type": "tv",
-    "tmdb_id": 2316
+    "tmdb_id": 259823
   }
 ];
 
