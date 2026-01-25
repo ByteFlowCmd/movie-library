@@ -1,94 +1,109 @@
-.tab-button {
-    @apply bg-gray-100 dark:bg-netflix-gray text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600;
+.view-tab {
+    @apply px-6 py-3 rounded-lg font-semibold transition-all duration-200 flex items-center space-x-2;
+    @apply bg-netflix-gray text-gray-400 hover:bg-gray-600;
 }
 
-.tab-button.active {
-    @apply bg-netflix-red text-white hover:bg-red-700;
+.view-tab.active {
+    @apply bg-netflix-red text-white shadow-lg shadow-netflix-red/50;
 }
 
-.tab-button-mobile {
-    @apply bg-gray-100 dark:bg-netflix-gray text-gray-700 dark:text-gray-300;
+.library-tab {
+    @apply px-6 py-3 rounded-lg font-semibold transition-all duration-200;
+    @apply bg-netflix-gray text-gray-400 hover:bg-gray-600;
 }
 
-.tab-button-mobile.active {
+.library-tab.active {
     @apply bg-netflix-red text-white;
 }
 
-.poster-card {
-    @apply bg-white dark:bg-netflix-gray rounded-lg shadow-md overflow-hidden cursor-pointer transform transition-all duration-300 hover:scale-105 hover:shadow-xl;
-}
-
-.poster-card:hover {
-    @apply ring-2 ring-netflix-red;
+.media-card {
+    @apply bg-netflix-gray rounded-xl overflow-hidden cursor-pointer transform transition-all duration-300;
+    @apply hover:scale-105 hover:shadow-2xl hover:shadow-netflix-red/30 hover:ring-2 hover:ring-netflix-red;
 }
 
 .poster-image {
-    @apply w-full aspect-[2/3] object-cover bg-gray-200 dark:bg-gray-700;
+    @apply w-full aspect-[2/3] object-cover bg-gray-700;
 }
 
 .poster-placeholder {
-    @apply w-full aspect-[2/3] bg-gradient-to-br from-gray-300 to-gray-400 dark:from-gray-600 dark:to-gray-700 flex items-center justify-center text-4xl text-gray-500 dark:text-gray-400;
+    @apply w-full aspect-[2/3] bg-gradient-to-br from-gray-700 to-gray-800 flex items-center justify-center text-6xl;
+}
+
+.action-button {
+    @apply px-4 py-2 rounded-lg font-medium transition-all duration-200 flex items-center justify-center space-x-2;
+}
+
+.action-button.add {
+    @apply bg-green-600 hover:bg-green-700 text-white;
+}
+
+.action-button.remove {
+    @apply bg-red-600 hover:bg-red-700 text-white;
+}
+
+.action-button.in-library {
+    @apply bg-gray-600 text-gray-400 cursor-not-allowed;
+}
+
+.toast {
+    @apply px-6 py-4 rounded-lg shadow-2xl flex items-center space-x-3 min-w-[300px] animate-toast-in;
+}
+
+.toast.success {
+    @apply bg-green-600 text-white;
+}
+
+.toast.error {
+    @apply bg-red-600 text-white;
+}
+
+.toast.info {
+    @apply bg-blue-600 text-white;
 }
 
 .genre-tag {
-    @apply inline-block px-2 py-1 bg-gray-100 dark:bg-netflix-gray text-xs rounded-full mr-1 mb-1;
+    @apply inline-block px-3 py-1 bg-netflix-dark text-xs rounded-full mr-2 mb-2 border border-gray-700;
 }
 
-.cast-member {
-    @apply flex items-center space-x-3 py-2;
-}
-
-.cast-avatar {
-    @apply w-12 h-12 rounded-full bg-gray-200 dark:bg-gray-600 flex items-center justify-center text-gray-500 dark:text-gray-400 text-sm font-medium;
-}
-
-.star-rating {
-    @apply flex items-center space-x-1;
-}
-
-.star {
-    @apply text-yellow-400;
-}
-
-/* Loading skeleton animation */
-.skeleton {
-    @apply animate-pulse bg-gray-200 dark:bg-gray-700 rounded;
-}
-
-/* Smooth transitions for theme switching */
-* {
-    transition-property: background-color, border-color, color;
-    transition-duration: 300ms;
-    transition-timing-function: ease-in-out;
+.stat-badge {
+    @apply flex items-center space-x-2 px-4 py-2 bg-netflix-dark rounded-lg;
 }
 
 /* Custom scrollbar */
 ::-webkit-scrollbar {
-    width: 8px;
+    width: 10px;
 }
 
 ::-webkit-scrollbar-track {
-    @apply bg-gray-100 dark:bg-netflix-gray;
+    @apply bg-netflix-dark;
 }
 
 ::-webkit-scrollbar-thumb {
-    @apply bg-gray-400 dark:bg-gray-600 rounded-full;
+    @apply bg-gray-600 rounded-full hover:bg-gray-500;
 }
 
-::-webkit-scrollbar-thumb:hover {
-    @apply bg-gray-500 dark:bg-gray-500;
+/* Animations */
+.fade-in {
+    animation: fadeIn 0.3s ease-in-out;
 }
 
-/* Modal animations */
-@keyframes modalFadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
+@keyframes shimmer {
+    0% { background-position: -1000px 0; }
+    100% { background-position: 1000px 0; }
 }
 
-.modal-enter {
-    animation: modalFadeIn 0.3s ease-out;
+.skeleton {
+    background: linear-gradient(90deg, #2F2F2F 25%, #3F3F3F 50%, #2F2F2F 75%);
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite;
+}
+
+/* View content transitions */
+.view-content {
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+/* Sync overlay */
+#syncOverlay {
+    backdrop-filter: blur(4px);
 }
