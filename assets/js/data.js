@@ -18434,6 +18434,40 @@ const libraryData = {
   ],
   "tvShows": [
     {
+      "id": 224372,
+      "title": "A Knight of the Seven Kingdoms",
+      "year": "2026",
+      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.5,
+      "runtime": 0,
+      "director": "George R.R. Martin, Ira Parker",
+      "cast": [
+        {
+          "name": "Peter Claffey",
+          "character": "Ser Duncan 'Dunk' the Tall",
+          "profile_path": "/ozlEi4BXLTrPKrnQLdcMjdmSQaE.jpg"
+        },
+        {
+          "name": "Dexter Sol Ansell",
+          "character": "Egg",
+          "profile_path": "/ij2OUtrq77O6HR51wIUQXUqsvhX.jpg"
+        },
+        {
+          "name": "Daniel Ings",
+          "character": "Ser Lyonel 'The Laughing Storm' Baratheon",
+          "profile_path": "/cvufKTYL4AUyNBeLiQKxe2lqZAA.jpg"
+        }
+      ],
+      "poster": "assets/posters/224372.jpg",
+      "media_type": "tv",
+      "tmdb_id": 224372
+    },
+    {
       "id": 208851,
       "title": "A Thousand Blows",
       "year": "2025",
@@ -18768,6 +18802,74 @@ const libraryData = {
       "tmdb_id": 254701
     },
     {
+      "id": 4628,
+      "title": "Auf Wiedersehen, Pet",
+      "year": "1983",
+      "overview": "Seven British construction workers escape Britain's ever growing dole queues and travel to Germany to work on a site in Dusseldorf. We follow their trials and tribulations of working away from home and away from the women they left behind.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.897,
+      "runtime": 50,
+      "director": "Franc Roddam",
+      "cast": [
+        {
+          "name": "Tim Healy",
+          "character": "Dennis Patterson",
+          "profile_path": "/ykWm8NQkmXEVFjdmspC9zPL374t.jpg"
+        },
+        {
+          "name": "Kevin Whately",
+          "character": "Neville Hope",
+          "profile_path": "/e6ztYNhrpm5tQzLwIkjjsxaDhEG.jpg"
+        },
+        {
+          "name": "Jimmy Nail",
+          "character": "Leonard 'Oz' Osborne",
+          "profile_path": "/nsQI0Q78UtlQqSC5dKjIbMJyinW.jpg"
+        },
+        {
+          "name": "Christopher Fairbank",
+          "character": "Albert Moxey",
+          "profile_path": "/6bO8JmhkC0GzU4gIBdSMY48E3CD.jpg"
+        },
+        {
+          "name": "Timothy Spall",
+          "character": "Barry Taylor",
+          "profile_path": "/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
+        },
+        {
+          "name": "Pat Roach",
+          "character": "Brian 'Bomber' Busbridge",
+          "profile_path": "/lFvFJR4rjM1AMkOPHc9wklUXBG6.jpg"
+        },
+        {
+          "name": "Julia Tobin",
+          "character": "Brenda Hope",
+          "profile_path": "/yOB21E60QNRpXRnaXtgPhPVA6IJ.jpg"
+        },
+        {
+          "name": "Zoë Eeles",
+          "character": "Tina",
+          "profile_path": "/5ehiUKJXOOGAZxDVusphLhv0GLo.jpg"
+        },
+        {
+          "name": "Javier Alcina",
+          "character": "Raúl Ortiz",
+          "profile_path": null
+        },
+        {
+          "name": "Caroline Harker",
+          "character": "Pru Scott-Johns",
+          "profile_path": "/m8xG25YhrNF8gA8ZTQKGCN6YJd.jpg"
+        }
+      ],
+      "poster": "assets/posters/4628.jpg",
+      "media_type": "tv",
+      "tmdb_id": 4628
+    },
+    {
       "id": 241259,
       "title": "Baby Reindeer",
       "year": "2024",
@@ -18866,6 +18968,34 @@ const libraryData = {
       "poster": "assets/posters/4613.jpg",
       "media_type": "tv",
       "tmdb_id": 4613
+    },
+    {
+      "id": 271935,
+      "title": "Betrayal",
+      "year": "2026",
+      "overview": "John Hughes joined MI5 during the war on terror and was at the forefront of averting the biggest terrorist plots on UK soil. Now in his mid 40s and married with two children he’s struggling to adapt to the new MI5, where threats to national security have changed and he’s forced to adapt to the values of a progressive work environment.",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ],
+      "rating": 7.6,
+      "runtime": 0,
+      "director": "",
+      "cast": [
+        {
+          "name": "Shaun Evans",
+          "character": "John Hughes",
+          "profile_path": "/fqEw8H5VRN2SyV8QMT9toHEYDpl.jpg"
+        },
+        {
+          "name": "Romola Garai",
+          "character": "Claire Wardly",
+          "profile_path": "/dHBwfU97RyXSbtMzKvXfYV7Q7q4.jpg"
+        }
+      ],
+      "poster": "assets/posters/271935.jpg",
+      "media_type": "tv",
+      "tmdb_id": 271935
     },
     {
       "id": 60059,
@@ -19180,6 +19310,123 @@ const libraryData = {
       "poster": "assets/posters/113988.jpg",
       "media_type": "tv",
       "tmdb_id": 113988
+    },
+    {
+      "id": 257534,
+      "title": "Devil in Disguise: John Wayne Gacy",
+      "year": "2025",
+      "overview": "When a teenager goes missing, it becomes clear that many young men and boys have disappeared at the hands of John Wayne Gacy, the prime suspect.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.271,
+      "runtime": 57,
+      "director": "Patrick Macmanus",
+      "cast": [
+        {
+          "name": "Michael Chernus",
+          "character": "John Wayne Gacy",
+          "profile_path": "/Df2ZE3P9BiXawPtewinxLPNAu2.jpg"
+        },
+        {
+          "name": "Gabriel Luna",
+          "character": "Det. Rafael Tovar",
+          "profile_path": "/2NNNl3od5K7HXOLUqlK3tzdxKkD.jpg"
+        },
+        {
+          "name": "James Badge Dale",
+          "character": "Chief of Detectives Joe Kozenczak",
+          "profile_path": "/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+        },
+        {
+          "name": "Michael Angarano",
+          "character": "Sam Amirante",
+          "profile_path": "/q4SOVndGsnCmSZKBllLaJCNM72c.jpg"
+        },
+        {
+          "name": "Chris Sullivan",
+          "character": "Lead Prosecutor Bill Kunkle",
+          "profile_path": "/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+        },
+        {
+          "name": "Marin Ireland",
+          "character": "Elizabeth Piest",
+          "profile_path": "/jAIOQNraHjvIAdqk81QDV5Phupp.jpg"
+        }
+      ],
+      "poster": "assets/posters/257534.jpg",
+      "media_type": "tv",
+      "tmdb_id": 257534
+    },
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "year": "2025",
+      "overview": "Dexter Morgan awakens from a coma to find Harrison gone without a trace. Realizing the weight of what he put his son through, Dexter sets out for New York City, determined to find him and make things right. But closure won't come easy. When Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast. As father and son navigate their own darkness in the city that never sleeps, they soon find themselves deeper than they ever imagined - and that the only way out is together.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.533,
+      "runtime": 0,
+      "director": "Clyde Phillips",
+      "cast": [
+        {
+          "name": "Michael C. Hall",
+          "character": "Dexter Morgan",
+          "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+        },
+        {
+          "name": "Jack Alcott",
+          "character": "Harrison Morgan",
+          "profile_path": "/65KEuv3LIBEaeIkqhyps6heZ9aa.jpg"
+        },
+        {
+          "name": "Uma Thurman",
+          "character": "Charley",
+          "profile_path": "/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+        },
+        {
+          "name": "David Zayas",
+          "character": "Angel Batista",
+          "profile_path": "/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
+        },
+        {
+          "name": "James Remar",
+          "character": "Harry Morgan",
+          "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+        },
+        {
+          "name": "Peter Dinklage",
+          "character": "Leon Prater",
+          "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+        },
+        {
+          "name": "Ntare Guma Mbaho Mwine",
+          "character": "Blessing Kamara",
+          "profile_path": "/nmwMBGmrqVgeAOdWJJJJi9A2l7C.jpg"
+        },
+        {
+          "name": "Kadia Saraf",
+          "character": "Claudette Wallace",
+          "profile_path": "/lHaOGTMcq4SQeaHxC2BSeAwony9.jpg"
+        },
+        {
+          "name": "Dominic Fumusa",
+          "character": "Melvin Oliva",
+          "profile_path": "/1wgHvqNM0LisAhkInYDD9JIGPJ0.jpg"
+        },
+        {
+          "name": "Emilia Suárez",
+          "character": "Elsa Rivera",
+          "profile_path": "/o2jgZz18J0sNAqfMnN1ufXh08nU.jpg"
+        }
+      ],
+      "poster": "assets/posters/259909.jpg",
+      "media_type": "tv",
+      "tmdb_id": 259909
     },
     {
       "id": 256297,
@@ -19509,6 +19756,73 @@ const libraryData = {
       "tmdb_id": 217528
     },
     {
+      "id": 198102,
+      "title": "Hijack",
+      "year": "2023",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 7.563,
+      "runtime": 0,
+      "director": "George Kay, Jim Field Smith",
+      "cast": [
+        {
+          "name": "Idris Elba",
+          "character": "Sam Nelson",
+          "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+          "name": "Christine Adams",
+          "character": "Marsha Smith-Nelson",
+          "profile_path": "/2np4ewcLpNF9c4SnSml57XRifPo.jpg"
+        },
+        {
+          "name": "Albrecht Schuch",
+          "character": "Freddie",
+          "profile_path": "/bYqsnHVbaLTnffo4Dj5UiyPBm4U.jpg"
+        },
+        {
+          "name": "Christian Näthe",
+          "character": "Otto",
+          "profile_path": "/69vsFzvGztyV87GJzCC5wGxqk9T.jpg"
+        },
+        {
+          "name": "Clare-Hope Ashitey",
+          "character": "Olivia Thatcher",
+          "profile_path": "/xhvOaoPoCTqhM2CUQVIZlqH7EGB.jpg"
+        },
+        {
+          "name": "Lisa Vicari",
+          "character": "Clara Berger",
+          "profile_path": "/vgcvazU9vTHBrWacGc5lGKUNECz.jpg"
+        },
+        {
+          "name": "Dejan Bućin",
+          "character": "Zoran Beck",
+          "profile_path": "/8RpHrxSD7SaWUtguF2uQrDQpySs.jpg"
+        },
+        {
+          "name": "Karima McAdams",
+          "character": "Jess",
+          "profile_path": "/8ozMKbfWVP8vAqcM46q9ATyTRLi.jpg"
+        },
+        {
+          "name": "Jasmine Bayes",
+          "character": "Mei Tan",
+          "profile_path": "/zHXuSy3xXfCXCIgHbA449iADmao.jpg"
+        },
+        {
+          "name": "Toby Jones",
+          "character": "Peter Faber",
+          "profile_path": "/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+        }
+      ],
+      "poster": "assets/posters/198102.jpg",
+      "media_type": "tv",
+      "tmdb_id": 198102
+    },
+    {
       "id": 814,
       "title": "Hornblower",
       "year": "1998",
@@ -19774,6 +20088,73 @@ const libraryData = {
       "tmdb_id": 242977
     },
     {
+      "id": 157741,
+      "title": "Landman",
+      "year": "2024",
+      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.019,
+      "runtime": 0,
+      "director": "Taylor Sheridan, Christian Wallace",
+      "cast": [
+        {
+          "name": "Billy Bob Thornton",
+          "character": "Tommy Norris",
+          "profile_path": "/mLYyf6xqQk5U2zTvZkFuT99uUah.jpg"
+        },
+        {
+          "name": "Demi Moore",
+          "character": "Cami Miller",
+          "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+        },
+        {
+          "name": "Andy Garcia",
+          "character": "Gallino",
+          "profile_path": "/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+        },
+        {
+          "name": "Ali Larter",
+          "character": "Angela Norris",
+          "profile_path": "/5qaQFxx8Az83ycd4LHyQ39HXaEJ.jpg"
+        },
+        {
+          "name": "Jacob Lofland",
+          "character": "Cooper Norris",
+          "profile_path": "/jU1eW9oOTC4ILfLNFeNUC7Fa5ya.jpg"
+        },
+        {
+          "name": "Michelle Randolph",
+          "character": "Ainsley Norris",
+          "profile_path": "/5W3DB2THOjE4L4Hhc68CzcQiwuK.jpg"
+        },
+        {
+          "name": "Paulina Chávez",
+          "character": "Ariana Medina",
+          "profile_path": "/tKF77iTnLu3HwTFKJRAYmoiVcFL.jpg"
+        },
+        {
+          "name": "Kayla Wallace",
+          "character": "Rebecca Falcone",
+          "profile_path": "/ePl7sXtyWIQsWsylyQBTxYsouKF.jpg"
+        },
+        {
+          "name": "Mark Collie",
+          "character": "Sheriff Walt Joeberg",
+          "profile_path": "/52rYCRzJ2bhQMqfvLDvfV23UzdL.jpg"
+        },
+        {
+          "name": "James Jordan",
+          "character": "Dale Bradley",
+          "profile_path": "/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+        }
+      ],
+      "poster": "assets/posters/157741.jpg",
+      "media_type": "tv",
+      "tmdb_id": 157741
+    },
+    {
       "id": 252193,
       "title": "Last Samurai Standing",
       "year": "2025",
@@ -19908,6 +20289,73 @@ const libraryData = {
       "poster": "assets/posters/113962.jpg",
       "media_type": "tv",
       "tmdb_id": 113962
+    },
+    {
+      "id": 244321,
+      "title": "Lockerbie: A Search for Truth",
+      "year": "2025",
+      "overview": "Dr. Jim Swire tragically loses his daughter when Pan Am Flight 103 exploded over a small town on December 21, 1988. Travelling across continents and political divides, Swire embarks on a relentless journey that not only jeopardizes his stability, family and life, but completely overturns his trust in the justice system. As the truth shifts under Jim’s feet, his view of the world is left forever sullied.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 7.4,
+      "runtime": 0,
+      "director": "David Harrower",
+      "cast": [
+        {
+          "name": "Colin Firth",
+          "character": "Dr Jim Swire",
+          "profile_path": "/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+        },
+        {
+          "name": "Catherine McCormack",
+          "character": "Jane Swire",
+          "profile_path": "/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
+        },
+        {
+          "name": "Sam Troughton",
+          "character": "Murray Guthrie",
+          "profile_path": "/7Gnt2TblEvlj0Nrzc5mQyOcHtPF.jpg"
+        },
+        {
+          "name": "Mark Bonnar",
+          "character": "Roderick McGill",
+          "profile_path": "/qEOp1lj0HGAVy1wpqIxMNkxIzn7.jpg"
+        },
+        {
+          "name": "Andy Nyman",
+          "character": "Edwin Bollier",
+          "profile_path": "/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
+        },
+        {
+          "name": "Ardalan Esmaili",
+          "character": "Abdelbaset al-Megrahi",
+          "profile_path": "/oQKrVGZcaGaHFqKuZszif5drWWA.jpg"
+        },
+        {
+          "name": "Selwa Jghalef",
+          "character": "Aisha",
+          "profile_path": null
+        },
+        {
+          "name": "Simon Delaney",
+          "character": "Bert Ammerman",
+          "profile_path": "/wTJLpgacE6uULa8iH9S2Rqu322H.jpg"
+        },
+        {
+          "name": "Jemma Carlton",
+          "character": "Cathy Swire",
+          "profile_path": "/sx8sycNV4l5T4AZFyUn6L46zuVW.jpg"
+        },
+        {
+          "name": "Harry Redding",
+          "character": "William Swire",
+          "profile_path": "/1aogXwmGfNAomlztI5oyVWeq4SV.jpg"
+        }
+      ],
+      "poster": "assets/posters/244321.jpg",
+      "media_type": "tv",
+      "tmdb_id": 244321
     },
     {
       "id": 1426,
@@ -20682,6 +21130,74 @@ const libraryData = {
       "tmdb_id": 1891
     },
     {
+      "id": 244244,
+      "title": "Run Away",
+      "year": "2026",
+      "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 6.644,
+      "runtime": 0,
+      "director": "Harlan Coben",
+      "cast": [
+        {
+          "name": "James Nesbitt",
+          "character": "Simon Greene",
+          "profile_path": "/lQiGZcwUXbCqpF055Ia5jxdZ2Ma.jpg"
+        },
+        {
+          "name": "Alfred Enoch",
+          "character": "Isaac Fagbenle",
+          "profile_path": "/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+        },
+        {
+          "name": "Minnie Driver",
+          "character": "Ingrid Greene",
+          "profile_path": "/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
+        },
+        {
+          "name": "Ruth Jones",
+          "character": "Elena Ravenscroft",
+          "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+        },
+        {
+          "name": "Ellie de Lange",
+          "character": "Paige Greene",
+          "profile_path": "/uBXl2MEH3tmfg8KCcdiRRAZtHg4.jpg"
+        },
+        {
+          "name": "Lucian Msamati",
+          "character": "Cornelius Faber",
+          "profile_path": "/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
+        },
+        {
+          "name": "Amy Gledhill",
+          "character": "Ruby Todd",
+          "profile_path": "/xq08DIRhu4V6KRm5hQV4CxdxPuT.jpg"
+        },
+        {
+          "name": "Annette Badland",
+          "character": "Lou",
+          "profile_path": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
+        },
+        {
+          "name": "Jon Pointing",
+          "character": "Ash",
+          "profile_path": "/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+        },
+        {
+          "name": "Maeve Courtier-Lilley",
+          "character": "Dee Dee",
+          "profile_path": "/b8gS6PXvdxrLqwZLLHvS0s8ZkJk.jpg"
+        }
+      ],
+      "poster": "assets/posters/244244.jpg",
+      "media_type": "tv",
+      "tmdb_id": 244244
+    },
+    {
       "id": 261579,
       "title": "Secret Level",
       "year": "2024",
@@ -21235,6 +21751,48 @@ const libraryData = {
       "poster": "assets/posters/218347.jpg",
       "media_type": "tv",
       "tmdb_id": 218347
+    },
+    {
+      "id": 201834,
+      "title": "ted",
+      "year": "2024",
+      "overview": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 7.9,
+      "runtime": 0,
+      "director": "Seth MacFarlane",
+      "cast": [
+        {
+          "name": "Seth MacFarlane",
+          "character": "Ted (voice)",
+          "profile_path": "/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+        },
+        {
+          "name": "Max Burkholder",
+          "character": "John Bennett",
+          "profile_path": "/8uNNDZPSxLsNetHPl1zxMwKULTC.jpg"
+        },
+        {
+          "name": "Alanna Ubach",
+          "character": "Susan Bennett",
+          "profile_path": "/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
+        },
+        {
+          "name": "Scott Grimes",
+          "character": "Matty Bennett",
+          "profile_path": "/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
+        },
+        {
+          "name": "Giorgia Whigham",
+          "character": "Blaire Bennett",
+          "profile_path": "/oCdKDRW1TFV4ahZRkHFTVNgXyLF.jpg"
+        }
+      ],
+      "poster": "assets/posters/201834.jpg",
+      "media_type": "tv",
+      "tmdb_id": 201834
     },
     {
       "id": 239287,
@@ -22781,6 +23339,54 @@ const libraryData = {
       "tmdb_id": 153312
     },
     {
+      "id": 262262,
+      "title": "Under Salt Marsh",
+      "year": "2026",
+      "overview": "Morfa Halen is a tight-knit Welsh town precariously nestled between towering mountains and a fast-encroaching sea that threatens its very existence. As a once-in-a-generation storm begins to gather far out at sea, former detective turned teacher Jackie Ellis discovers the body of her 8-year-old pupil, Cefin, seemingly drowned. The discovery sends shockwaves through the community, reviving the ghost of an unsolved cold case that rocked the town three years prior - the disappearance of Jackie’s niece, Nessa, which cost her career.",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ],
+      "rating": 7.111,
+      "runtime": 0,
+      "director": "Claire Oakley",
+      "cast": [
+        {
+          "name": "Kelly Reilly",
+          "character": "Jackie Ellis",
+          "profile_path": "/l8aQsryOQvxgX6SdZ4XtzU8KEXn.jpg"
+        },
+        {
+          "name": "Rafe Spall",
+          "character": "Eric Bull",
+          "profile_path": "/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "character": "Solomon Bevan",
+          "profile_path": "/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
+        },
+        {
+          "name": "Naomi Yang",
+          "character": "Jess Deng",
+          "profile_path": "/z1If3LxnYr2aRUK0cFECXiJTo1O.jpg"
+        },
+        {
+          "name": "Harry Lawtey",
+          "character": "Dylan Rees",
+          "profile_path": "/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg"
+        },
+        {
+          "name": "Bevan Thomas",
+          "character": "Bevan Bevan",
+          "profile_path": null
+        }
+      ],
+      "poster": "assets/posters/262262.jpg",
+      "media_type": "tv",
+      "tmdb_id": 262262
+    },
+    {
       "id": 211358,
       "title": "Under the Bridge",
       "year": "2024",
@@ -23093,73 +23699,6 @@ const libraryData = {
       "tmdb_id": 73586
     },
     {
-      "id": 244321,
-      "title": "Lockerbie: A Search for Truth",
-      "year": "2025",
-      "overview": "Dr. Jim Swire tragically loses his daughter when Pan Am Flight 103 exploded over a small town on December 21, 1988. Travelling across continents and political divides, Swire embarks on a relentless journey that not only jeopardizes his stability, family and life, but completely overturns his trust in the justice system. As the truth shifts under Jim’s feet, his view of the world is left forever sullied.",
-      "genres": [
-        "Drama"
-      ],
-      "rating": 7.4,
-      "runtime": 0,
-      "director": "David Harrower",
-      "cast": [
-        {
-          "name": "Colin Firth",
-          "character": "Dr Jim Swire",
-          "profile_path": "/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
-        },
-        {
-          "name": "Catherine McCormack",
-          "character": "Jane Swire",
-          "profile_path": "/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
-        },
-        {
-          "name": "Sam Troughton",
-          "character": "Murray Guthrie",
-          "profile_path": "/7Gnt2TblEvlj0Nrzc5mQyOcHtPF.jpg"
-        },
-        {
-          "name": "Mark Bonnar",
-          "character": "Roderick McGill",
-          "profile_path": "/qEOp1lj0HGAVy1wpqIxMNkxIzn7.jpg"
-        },
-        {
-          "name": "Andy Nyman",
-          "character": "Edwin Bollier",
-          "profile_path": "/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
-        },
-        {
-          "name": "Ardalan Esmaili",
-          "character": "Abdelbaset al-Megrahi",
-          "profile_path": "/oQKrVGZcaGaHFqKuZszif5drWWA.jpg"
-        },
-        {
-          "name": "Selwa Jghalef",
-          "character": "Aisha",
-          "profile_path": null
-        },
-        {
-          "name": "Simon Delaney",
-          "character": "Bert Ammerman",
-          "profile_path": "/wTJLpgacE6uULa8iH9S2Rqu322H.jpg"
-        },
-        {
-          "name": "Jemma Carlton",
-          "character": "Cathy Swire",
-          "profile_path": "/sx8sycNV4l5T4AZFyUn6L46zuVW.jpg"
-        },
-        {
-          "name": "Harry Redding",
-          "character": "William Swire",
-          "profile_path": "/1aogXwmGfNAomlztI5oyVWeq4SV.jpg"
-        }
-      ],
-      "poster": "assets/posters/244321.jpg",
-      "media_type": "tv",
-      "tmdb_id": 244321
-    },
-    {
       "id": 216082,
       "title": "Zero Day",
       "year": "2025",
@@ -23226,548 +23765,9 @@ const libraryData = {
       "poster": "assets/posters/216082.jpg",
       "media_type": "tv",
       "tmdb_id": 216082
-    },
-    {
-      "id": 244244,
-      "title": "Run Away",
-      "year": "2026",
-      "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "rating": 6.644,
-      "runtime": 0,
-      "director": "Harlan Coben",
-      "cast": [
-        {
-          "name": "James Nesbitt",
-          "character": "Simon Greene",
-          "profile_path": "/lQiGZcwUXbCqpF055Ia5jxdZ2Ma.jpg"
-        },
-        {
-          "name": "Alfred Enoch",
-          "character": "Isaac Fagbenle",
-          "profile_path": "/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
-        },
-        {
-          "name": "Minnie Driver",
-          "character": "Ingrid Greene",
-          "profile_path": "/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
-        },
-        {
-          "name": "Ruth Jones",
-          "character": "Elena Ravenscroft",
-          "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
-        },
-        {
-          "name": "Ellie de Lange",
-          "character": "Paige Greene",
-          "profile_path": "/uBXl2MEH3tmfg8KCcdiRRAZtHg4.jpg"
-        },
-        {
-          "name": "Lucian Msamati",
-          "character": "Cornelius Faber",
-          "profile_path": "/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
-        },
-        {
-          "name": "Amy Gledhill",
-          "character": "Ruby Todd",
-          "profile_path": "/xq08DIRhu4V6KRm5hQV4CxdxPuT.jpg"
-        },
-        {
-          "name": "Annette Badland",
-          "character": "Lou",
-          "profile_path": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-        },
-        {
-          "name": "Jon Pointing",
-          "character": "Ash",
-          "profile_path": "/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
-        },
-        {
-          "name": "Maeve Courtier-Lilley",
-          "character": "Dee Dee",
-          "profile_path": "/b8gS6PXvdxrLqwZLLHvS0s8ZkJk.jpg"
-        }
-      ],
-      "poster": "assets/posters/244244.jpg",
-      "media_type": "tv",
-      "tmdb_id": 244244
-    },
-    {
-      "id": 201834,
-      "title": "ted",
-      "year": "2024",
-      "overview": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
-      "genres": [
-        "Comedy"
-      ],
-      "rating": 7.9,
-      "runtime": 0,
-      "director": "Seth MacFarlane",
-      "cast": [
-        {
-          "name": "Seth MacFarlane",
-          "character": "Ted (voice)",
-          "profile_path": "/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
-        },
-        {
-          "name": "Max Burkholder",
-          "character": "John Bennett",
-          "profile_path": "/8uNNDZPSxLsNetHPl1zxMwKULTC.jpg"
-        },
-        {
-          "name": "Alanna Ubach",
-          "character": "Susan Bennett",
-          "profile_path": "/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
-        },
-        {
-          "name": "Scott Grimes",
-          "character": "Matty Bennett",
-          "profile_path": "/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
-        },
-        {
-          "name": "Giorgia Whigham",
-          "character": "Blaire Bennett",
-          "profile_path": "/oCdKDRW1TFV4ahZRkHFTVNgXyLF.jpg"
-        }
-      ],
-      "poster": "assets/posters/201834.jpg",
-      "media_type": "tv",
-      "tmdb_id": 201834
-    },
-    {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "year": "2025",
-      "overview": "Dexter Morgan awakens from a coma to find Harrison gone without a trace. Realizing the weight of what he put his son through, Dexter sets out for New York City, determined to find him and make things right. But closure won't come easy. When Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast. As father and son navigate their own darkness in the city that never sleeps, they soon find themselves deeper than they ever imagined - and that the only way out is together.",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "rating": 8.533,
-      "runtime": 0,
-      "director": "Clyde Phillips",
-      "cast": [
-        {
-          "name": "Michael C. Hall",
-          "character": "Dexter Morgan",
-          "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-        },
-        {
-          "name": "Jack Alcott",
-          "character": "Harrison Morgan",
-          "profile_path": "/65KEuv3LIBEaeIkqhyps6heZ9aa.jpg"
-        },
-        {
-          "name": "Uma Thurman",
-          "character": "Charley",
-          "profile_path": "/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
-        },
-        {
-          "name": "David Zayas",
-          "character": "Angel Batista",
-          "profile_path": "/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-        },
-        {
-          "name": "James Remar",
-          "character": "Harry Morgan",
-          "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
-        },
-        {
-          "name": "Peter Dinklage",
-          "character": "Leon Prater",
-          "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
-        },
-        {
-          "name": "Ntare Guma Mbaho Mwine",
-          "character": "Blessing Kamara",
-          "profile_path": "/nmwMBGmrqVgeAOdWJJJJi9A2l7C.jpg"
-        },
-        {
-          "name": "Kadia Saraf",
-          "character": "Claudette Wallace",
-          "profile_path": "/lHaOGTMcq4SQeaHxC2BSeAwony9.jpg"
-        },
-        {
-          "name": "Dominic Fumusa",
-          "character": "Melvin Oliva",
-          "profile_path": "/1wgHvqNM0LisAhkInYDD9JIGPJ0.jpg"
-        },
-        {
-          "name": "Emilia Suárez",
-          "character": "Elsa Rivera",
-          "profile_path": "/o2jgZz18J0sNAqfMnN1ufXh08nU.jpg"
-        }
-      ],
-      "poster": "assets/posters/259909.jpg",
-      "media_type": "tv",
-      "tmdb_id": 259909
-    },
-    {
-      "id": 271935,
-      "title": "Betrayal",
-      "year": "2026",
-      "overview": "John Hughes joined MI5 during the war on terror and was at the forefront of averting the biggest terrorist plots on UK soil. Now in his mid 40s and married with two children he’s struggling to adapt to the new MI5, where threats to national security have changed and he’s forced to adapt to the values of a progressive work environment.",
-      "genres": [
-        "Crime",
-        "Mystery"
-      ],
-      "rating": 7.6,
-      "runtime": 0,
-      "director": "",
-      "cast": [
-        {
-          "name": "Shaun Evans",
-          "character": "John Hughes",
-          "profile_path": "/fqEw8H5VRN2SyV8QMT9toHEYDpl.jpg"
-        },
-        {
-          "name": "Romola Garai",
-          "character": "Claire Wardly",
-          "profile_path": "/dHBwfU97RyXSbtMzKvXfYV7Q7q4.jpg"
-        }
-      ],
-      "poster": "assets/posters/271935.jpg",
-      "media_type": "tv",
-      "tmdb_id": 271935
-    },
-    {
-      "id": 198102,
-      "title": "Hijack",
-      "year": "2023",
-      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
-      "genres": [
-        "Drama"
-      ],
-      "rating": 7.563,
-      "runtime": 0,
-      "director": "George Kay, Jim Field Smith",
-      "cast": [
-        {
-          "name": "Idris Elba",
-          "character": "Sam Nelson",
-          "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
-        },
-        {
-          "name": "Christine Adams",
-          "character": "Marsha Smith-Nelson",
-          "profile_path": "/2np4ewcLpNF9c4SnSml57XRifPo.jpg"
-        },
-        {
-          "name": "Albrecht Schuch",
-          "character": "Freddie",
-          "profile_path": "/bYqsnHVbaLTnffo4Dj5UiyPBm4U.jpg"
-        },
-        {
-          "name": "Christian Näthe",
-          "character": "Otto",
-          "profile_path": "/69vsFzvGztyV87GJzCC5wGxqk9T.jpg"
-        },
-        {
-          "name": "Clare-Hope Ashitey",
-          "character": "Olivia Thatcher",
-          "profile_path": "/xhvOaoPoCTqhM2CUQVIZlqH7EGB.jpg"
-        },
-        {
-          "name": "Lisa Vicari",
-          "character": "Clara Berger",
-          "profile_path": "/vgcvazU9vTHBrWacGc5lGKUNECz.jpg"
-        },
-        {
-          "name": "Dejan Bućin",
-          "character": "Zoran Beck",
-          "profile_path": "/8RpHrxSD7SaWUtguF2uQrDQpySs.jpg"
-        },
-        {
-          "name": "Karima McAdams",
-          "character": "Jess",
-          "profile_path": "/8ozMKbfWVP8vAqcM46q9ATyTRLi.jpg"
-        },
-        {
-          "name": "Jasmine Bayes",
-          "character": "Mei Tan",
-          "profile_path": "/zHXuSy3xXfCXCIgHbA449iADmao.jpg"
-        },
-        {
-          "name": "Toby Jones",
-          "character": "Peter Faber",
-          "profile_path": "/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
-        }
-      ],
-      "poster": "assets/posters/198102.jpg",
-      "media_type": "tv",
-      "tmdb_id": 198102
-    },
-    {
-      "id": 224372,
-      "title": "A Knight of the Seven Kingdoms",
-      "year": "2026",
-      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.5,
-      "runtime": 0,
-      "director": "George R.R. Martin, Ira Parker",
-      "cast": [
-        {
-          "name": "Peter Claffey",
-          "character": "Ser Duncan 'Dunk' the Tall",
-          "profile_path": "/ozlEi4BXLTrPKrnQLdcMjdmSQaE.jpg"
-        },
-        {
-          "name": "Dexter Sol Ansell",
-          "character": "Egg",
-          "profile_path": "/ij2OUtrq77O6HR51wIUQXUqsvhX.jpg"
-        },
-        {
-          "name": "Daniel Ings",
-          "character": "Ser Lyonel 'The Laughing Storm' Baratheon",
-          "profile_path": "/cvufKTYL4AUyNBeLiQKxe2lqZAA.jpg"
-        }
-      ],
-      "poster": "assets/posters/224372.jpg",
-      "media_type": "tv",
-      "tmdb_id": 224372
-    },
-    {
-      "id": 257534,
-      "title": "Devil in Disguise: John Wayne Gacy",
-      "year": "2025",
-      "overview": "When a teenager goes missing, it becomes clear that many young men and boys have disappeared at the hands of John Wayne Gacy, the prime suspect.",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "rating": 7.271,
-      "runtime": 57,
-      "director": "Patrick Macmanus",
-      "cast": [
-        {
-          "name": "Michael Chernus",
-          "character": "John Wayne Gacy",
-          "profile_path": "/Df2ZE3P9BiXawPtewinxLPNAu2.jpg"
-        },
-        {
-          "name": "Gabriel Luna",
-          "character": "Det. Rafael Tovar",
-          "profile_path": "/2NNNl3od5K7HXOLUqlK3tzdxKkD.jpg"
-        },
-        {
-          "name": "James Badge Dale",
-          "character": "Chief of Detectives Joe Kozenczak",
-          "profile_path": "/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
-        },
-        {
-          "name": "Michael Angarano",
-          "character": "Sam Amirante",
-          "profile_path": "/q4SOVndGsnCmSZKBllLaJCNM72c.jpg"
-        },
-        {
-          "name": "Chris Sullivan",
-          "character": "Lead Prosecutor Bill Kunkle",
-          "profile_path": "/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
-        },
-        {
-          "name": "Marin Ireland",
-          "character": "Elizabeth Piest",
-          "profile_path": "/jAIOQNraHjvIAdqk81QDV5Phupp.jpg"
-        }
-      ],
-      "poster": "assets/posters/257534.jpg",
-      "media_type": "tv",
-      "tmdb_id": 257534
-    },
-    {
-      "id": 262262,
-      "title": "Under Salt Marsh",
-      "year": "2026",
-      "overview": "Morfa Halen is a tight-knit Welsh town precariously nestled between towering mountains and a fast-encroaching sea that threatens its very existence. As a once-in-a-generation storm begins to gather far out at sea, former detective turned teacher Jackie Ellis discovers the body of her 8-year-old pupil, Cefin, seemingly drowned. The discovery sends shockwaves through the community, reviving the ghost of an unsolved cold case that rocked the town three years prior - the disappearance of Jackie’s niece, Nessa, which cost her career.",
-      "genres": [
-        "Crime",
-        "Mystery"
-      ],
-      "rating": 7.111,
-      "runtime": 0,
-      "director": "Claire Oakley",
-      "cast": [
-        {
-          "name": "Kelly Reilly",
-          "character": "Jackie Ellis",
-          "profile_path": "/l8aQsryOQvxgX6SdZ4XtzU8KEXn.jpg"
-        },
-        {
-          "name": "Rafe Spall",
-          "character": "Eric Bull",
-          "profile_path": "/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
-        },
-        {
-          "name": "Jonathan Pryce",
-          "character": "Solomon Bevan",
-          "profile_path": "/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
-        },
-        {
-          "name": "Naomi Yang",
-          "character": "Jess Deng",
-          "profile_path": "/z1If3LxnYr2aRUK0cFECXiJTo1O.jpg"
-        },
-        {
-          "name": "Harry Lawtey",
-          "character": "Dylan Rees",
-          "profile_path": "/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg"
-        },
-        {
-          "name": "Bevan Thomas",
-          "character": "Bevan Bevan",
-          "profile_path": null
-        }
-      ],
-      "poster": "assets/posters/262262.jpg",
-      "media_type": "tv",
-      "tmdb_id": 262262
-    },
-    {
-      "id": 157741,
-      "title": "Landman",
-      "year": "2024",
-      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
-      "genres": [
-        "Drama"
-      ],
-      "rating": 8.019,
-      "runtime": 0,
-      "director": "Taylor Sheridan, Christian Wallace",
-      "cast": [
-        {
-          "name": "Billy Bob Thornton",
-          "character": "Tommy Norris",
-          "profile_path": "/mLYyf6xqQk5U2zTvZkFuT99uUah.jpg"
-        },
-        {
-          "name": "Demi Moore",
-          "character": "Cami Miller",
-          "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
-        },
-        {
-          "name": "Andy Garcia",
-          "character": "Gallino",
-          "profile_path": "/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
-        },
-        {
-          "name": "Ali Larter",
-          "character": "Angela Norris",
-          "profile_path": "/5qaQFxx8Az83ycd4LHyQ39HXaEJ.jpg"
-        },
-        {
-          "name": "Jacob Lofland",
-          "character": "Cooper Norris",
-          "profile_path": "/jU1eW9oOTC4ILfLNFeNUC7Fa5ya.jpg"
-        },
-        {
-          "name": "Michelle Randolph",
-          "character": "Ainsley Norris",
-          "profile_path": "/5W3DB2THOjE4L4Hhc68CzcQiwuK.jpg"
-        },
-        {
-          "name": "Paulina Chávez",
-          "character": "Ariana Medina",
-          "profile_path": "/tKF77iTnLu3HwTFKJRAYmoiVcFL.jpg"
-        },
-        {
-          "name": "Kayla Wallace",
-          "character": "Rebecca Falcone",
-          "profile_path": "/ePl7sXtyWIQsWsylyQBTxYsouKF.jpg"
-        },
-        {
-          "name": "Mark Collie",
-          "character": "Sheriff Walt Joeberg",
-          "profile_path": "/52rYCRzJ2bhQMqfvLDvfV23UzdL.jpg"
-        },
-        {
-          "name": "James Jordan",
-          "character": "Dale Bradley",
-          "profile_path": "/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
-        }
-      ],
-      "poster": "assets/posters/157741.jpg",
-      "media_type": "tv",
-      "tmdb_id": 157741
-    },
-    {
-      "id": 4628,
-      "title": "Auf Wiedersehen, Pet",
-      "year": "1983",
-      "overview": "Seven British construction workers escape Britain's ever growing dole queues and travel to Germany to work on a site in Dusseldorf. We follow their trials and tribulations of working away from home and away from the women they left behind.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "rating": 7.897,
-      "runtime": 50,
-      "director": "Franc Roddam",
-      "cast": [
-        {
-          "name": "Tim Healy",
-          "character": "Dennis Patterson",
-          "profile_path": "/ykWm8NQkmXEVFjdmspC9zPL374t.jpg"
-        },
-        {
-          "name": "Kevin Whately",
-          "character": "Neville Hope",
-          "profile_path": "/e6ztYNhrpm5tQzLwIkjjsxaDhEG.jpg"
-        },
-        {
-          "name": "Jimmy Nail",
-          "character": "Leonard 'Oz' Osborne",
-          "profile_path": "/nsQI0Q78UtlQqSC5dKjIbMJyinW.jpg"
-        },
-        {
-          "name": "Christopher Fairbank",
-          "character": "Albert Moxey",
-          "profile_path": "/6bO8JmhkC0GzU4gIBdSMY48E3CD.jpg"
-        },
-        {
-          "name": "Timothy Spall",
-          "character": "Barry Taylor",
-          "profile_path": "/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
-        },
-        {
-          "name": "Pat Roach",
-          "character": "Brian 'Bomber' Busbridge",
-          "profile_path": "/lFvFJR4rjM1AMkOPHc9wklUXBG6.jpg"
-        },
-        {
-          "name": "Julia Tobin",
-          "character": "Brenda Hope",
-          "profile_path": "/yOB21E60QNRpXRnaXtgPhPVA6IJ.jpg"
-        },
-        {
-          "name": "Zoë Eeles",
-          "character": "Tina",
-          "profile_path": "/5ehiUKJXOOGAZxDVusphLhv0GLo.jpg"
-        },
-        {
-          "name": "Javier Alcina",
-          "character": "Raúl Ortiz",
-          "profile_path": null
-        },
-        {
-          "name": "Caroline Harker",
-          "character": "Pru Scott-Johns",
-          "profile_path": "/m8xG25YhrNF8gA8ZTQKGCN6YJd.jpg"
-        }
-      ],
-      "poster": "assets/posters/4628.jpg",
-      "media_type": "tv",
-      "tmdb_id": 4628
     }
   ],
-  "generatedAt": "2026-03-22T22:26:09.382177",
+  "generatedAt": "2026-03-22T22:32:04.344591",
   "totalMovies": 272,
   "totalTvShows": 100
 };
