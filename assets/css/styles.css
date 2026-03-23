@@ -21,6 +21,11 @@
     @apply hover:scale-105 hover:shadow-2xl hover:shadow-netflix-red/30 hover:ring-2 hover:ring-netflix-red;
 }
 
+/* Card fade-in animation applied per-card after filtering */
+.media-card.card-animated {
+    animation: cardIn 0.4s ease-out both;
+}
+
 .poster-image {
     @apply w-full aspect-[2/3] object-cover bg-gray-700;
 }
@@ -67,6 +72,49 @@
 
 .stat-badge {
     @apply flex items-center space-x-2 px-4 py-2 bg-netflix-dark rounded-lg;
+}
+
+/* ============================================================
+   Viewer toolbar: search input, sort select, genre filter chips
+   ============================================================ */
+
+.viewer-toolbar {
+    /* light separator underneath */
+    @apply pb-3 border-b border-gray-800;
+}
+
+.viewer-search-input {
+    @apply text-white placeholder-gray-500;
+    background-color: #1e1e1e;
+}
+
+.viewer-search-input:focus {
+    background-color: #252525;
+}
+
+.viewer-sort-select {
+    @apply text-white;
+    background-color: #1e1e1e;
+    appearance: auto;            /* keep native arrow */
+}
+
+.viewer-sort-select:focus {
+    background-color: #252525;
+}
+
+/* Genre filter chip */
+.genre-chip {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-medium cursor-pointer
+           border border-gray-700 bg-netflix-dark text-gray-400
+           transition-all duration-200 select-none;
+}
+
+.genre-chip:hover {
+    @apply border-gray-500 text-gray-200;
+}
+
+.genre-chip.active {
+    @apply bg-netflix-red border-netflix-red text-white shadow-lg shadow-netflix-red/30;
 }
 
 /* Custom scrollbar */
