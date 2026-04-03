@@ -1697,6 +1697,75 @@ const libraryData = {
       "tmdb_id": 299534
     },
     {
+      "id": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "year": "2024",
+      "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 7.331,
+      "runtime": 115,
+      "director": "Adil El Arbi",
+      "cast": [
+        {
+          "name": "Will Smith",
+          "character": "Mike Lowrey",
+          "profile_path": "/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+        },
+        {
+          "name": "Martin Lawrence",
+          "character": "Marcus Burnett",
+          "profile_path": "/y3SQzIPUPJpdueb1DkbTYph68nk.jpg"
+        },
+        {
+          "name": "Vanessa Hudgens",
+          "character": "Kelly",
+          "profile_path": "/8S8Nn5m5qkiIrEJ3dzPRjltzrkx.jpg"
+        },
+        {
+          "name": "Alexander Ludwig",
+          "character": "Dorn",
+          "profile_path": "/3KpzKT4iGhNivSISQMe6EwpAmCi.jpg"
+        },
+        {
+          "name": "Paola Nuñez",
+          "character": "Rita",
+          "profile_path": "/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg"
+        },
+        {
+          "name": "Eric Dane",
+          "character": "McGrath",
+          "profile_path": "/4PsLKBKN4e0zRT2oS4BjE8Xu1un.jpg"
+        },
+        {
+          "name": "Ioan Gruffudd",
+          "character": "Lockwood",
+          "profile_path": "/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+        },
+        {
+          "name": "Jacob Scipio",
+          "character": "Armando",
+          "profile_path": "/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+        },
+        {
+          "name": "Melanie Liburd",
+          "character": "Christine",
+          "profile_path": "/diWkE87OnBDaXZkRLLkT78lTcI9.jpg"
+        },
+        {
+          "name": "Tasha Smith",
+          "character": "Theresa",
+          "profile_path": "/viJnHL3BjQ5oqisXklQWGlh29Hx.jpg"
+        }
+      ],
+      "poster": "assets/posters/573435.jpg",
+      "media_type": "movie",
+      "tmdb_id": 573435
+    },
+    {
       "id": 10147,
       "title": "Bad Santa",
       "year": "2003",
@@ -1833,6 +1902,75 @@ const libraryData = {
       "poster": "assets/posters/541671.jpg",
       "media_type": "movie",
       "tmdb_id": 541671
+    },
+    {
+      "id": 272,
+      "title": "Batman Begins",
+      "year": "2005",
+      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Action"
+      ],
+      "rating": 7.722,
+      "runtime": 140,
+      "director": "Christopher Nolan",
+      "cast": [
+        {
+          "name": "Christian Bale",
+          "character": "Bruce Wayne / Batman",
+          "profile_path": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "Michael Caine",
+          "character": "Alfred",
+          "profile_path": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Liam Neeson",
+          "character": "Ducard",
+          "profile_path": "/g0iIEyt9ILiKTG0g8K69US5VtLy.jpg"
+        },
+        {
+          "name": "Katie Holmes",
+          "character": "Rachel Dawes",
+          "profile_path": "/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg"
+        },
+        {
+          "name": "Gary Oldman",
+          "character": "Jim Gordon",
+          "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+        },
+        {
+          "name": "Cillian Murphy",
+          "character": "Dr. Jonathan Crane",
+          "profile_path": "/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+        },
+        {
+          "name": "Tom Wilkinson",
+          "character": "Carmine Falcone",
+          "profile_path": "/xSUohQDXuepOU2nSqtDj2us5RZo.jpg"
+        },
+        {
+          "name": "Rutger Hauer",
+          "character": "Earle",
+          "profile_path": "/45kp2fmVWloddrz7LF94MmT4tWf.jpg"
+        },
+        {
+          "name": "Ken Watanabe",
+          "character": "Ra's al Ghul",
+          "profile_path": "/w2t30L5Cmr34myAaUobLoSgsLfS.jpg"
+        },
+        {
+          "name": "Mark Boone Junior",
+          "character": "Flass",
+          "profile_path": "/swWzGOTX3SQ2udv7NQhAE1DlZsb.jpg"
+        }
+      ],
+      "poster": "assets/posters/272.jpg",
+      "media_type": "movie",
+      "tmdb_id": 272
     },
     {
       "id": 917496,
@@ -6893,6 +7031,76 @@ const libraryData = {
       "tmdb_id": 490132
     },
     {
+      "id": 524047,
+      "title": "Greenland",
+      "year": "2020",
+      "overview": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garritys experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "rating": 7.127,
+      "runtime": 120,
+      "director": "Ric Roman Waugh",
+      "cast": [
+        {
+          "name": "Gerard Butler",
+          "character": "John Garrity",
+          "profile_path": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+        },
+        {
+          "name": "Morena Baccarin",
+          "character": "Allison Garrity",
+          "profile_path": "/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+        },
+        {
+          "name": "David Denman",
+          "character": "Ralph Vento",
+          "profile_path": "/4I06ZD8SQ6pU1QYShiUXb711fJW.jpg"
+        },
+        {
+          "name": "Hope Davis",
+          "character": "Judy Vento",
+          "profile_path": "/dJb76YQDFmfJ6ptlvBvx0ZBP44C.jpg"
+        },
+        {
+          "name": "Roger Dale Floyd",
+          "character": "Nathan Garrity",
+          "profile_path": "/qys24ezlOgRom93mq0Gk1vRY5uf.jpg"
+        },
+        {
+          "name": "Scott Glenn",
+          "character": "Dale",
+          "profile_path": "/8DHORod2l6ZFS9KR0gNAAM3WZfI.jpg"
+        },
+        {
+          "name": "Andrew Bachelor",
+          "character": "Colin",
+          "profile_path": "/dReXjimiVOydELw2ASQwRcStkbo.jpg"
+        },
+        {
+          "name": "Merrin Dungey",
+          "character": "Major Breen",
+          "profile_path": "/7MZ69k1UwOd1FEQJyiNx9dANu0a.jpg"
+        },
+        {
+          "name": "Holt McCallany",
+          "character": "Twin Otter Pilot",
+          "profile_path": "/iRo9YUNMwZg4UCq7dapo0HydDmI.jpg"
+        },
+        {
+          "name": "Gary Weeks",
+          "character": "Ed Pruitt",
+          "profile_path": "/n4taftpteF6qUTeYRDkdGPHC58.jpg"
+        }
+      ],
+      "poster": "assets/posters/524047.jpg",
+      "media_type": "movie",
+      "tmdb_id": 524047
+    },
+    {
       "id": 137,
       "title": "Groundhog Day",
       "year": "1993",
@@ -9978,6 +10186,74 @@ const libraryData = {
       "tmdb_id": 492188
     },
     {
+      "id": 1317288,
+      "title": "Marty Supreme",
+      "year": "2025",
+      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 7.433,
+      "runtime": 150,
+      "director": "Josh Safdie",
+      "cast": [
+        {
+          "name": "Timothée Chalamet",
+          "character": "Marty Mauser",
+          "profile_path": "/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+        },
+        {
+          "name": "Gwyneth Paltrow",
+          "character": "Kay Stone",
+          "profile_path": "/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
+        },
+        {
+          "name": "Odessa A'zion",
+          "character": "Rachel Mizler",
+          "profile_path": "/swdC2knDQri6CIRuEK0SOgCa6PA.jpg"
+        },
+        {
+          "name": "Kevin O'Leary",
+          "character": "Milton Rockwell",
+          "profile_path": "/eUDfTddvXHOAZR5Sh1hs3IVF5mb.jpg"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "character": "Wally",
+          "profile_path": "/jdAYV2hhjsffcRBTPqCMzHLIiM1.jpg"
+        },
+        {
+          "name": "Fran Drescher",
+          "character": "Rebecca Mauser",
+          "profile_path": "/kQzvZ4ksLunfs3QZQtzRhzLJPBY.jpg"
+        },
+        {
+          "name": "Abel Ferrara",
+          "character": "Ezra Mishkin",
+          "profile_path": "/wdOxXWyxE3HjrtdeOJvc9xB5eUv.jpg"
+        },
+        {
+          "name": "Emory Cohen",
+          "character": "Ira Mizler",
+          "profile_path": "/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
+        },
+        {
+          "name": "Géza Röhrig",
+          "character": "Béla Kletzki",
+          "profile_path": "/3XrYcL5wC1wQnmqJautgZK3XuiM.jpg"
+        },
+        {
+          "name": "Koto Kawaguchi",
+          "character": "Koto Endo",
+          "profile_path": "/aTR2fKtjr2mTXTtU5ywNAKJv1jG.jpg"
+        }
+      ],
+      "poster": "assets/posters/1317288.jpg",
+      "media_type": "movie",
+      "tmdb_id": 1317288
+    },
+    {
       "id": 696506,
       "title": "Mickey 17",
       "year": "2025",
@@ -12107,6 +12383,75 @@ const libraryData = {
       "tmdb_id": 787781
     },
     {
+      "id": 680493,
+      "title": "Return to Silent Hill",
+      "year": "2026",
+      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Horror"
+      ],
+      "rating": 4.984,
+      "runtime": 106,
+      "director": "Christophe Gans",
+      "cast": [
+        {
+          "name": "Jeremy Irvine",
+          "character": "James Sunderland",
+          "profile_path": "/wnyLs0r9j1IB4zK2QBkgg2TyAzZ.jpg"
+        },
+        {
+          "name": "Hannah Emily Anderson",
+          "character": "Mary Crane  / Angela / Maria / Moth Mary",
+          "profile_path": "/fSyNGF4pZQj9Ne9IKv9kfimECzk.jpg"
+        },
+        {
+          "name": "Evie Templeton",
+          "character": "Laura",
+          "profile_path": "/rNNieMvkpWBCChKZhn69jDMrEJo.jpg"
+        },
+        {
+          "name": "Pearse Egan",
+          "character": "Eddie",
+          "profile_path": "/bzHkytLIEk4T4arzd7h5BRLufov.jpg"
+        },
+        {
+          "name": "Nicola Alexis",
+          "character": "M",
+          "profile_path": "/jPynKGMPaArRB4SAr6OIGHWQRl.jpg"
+        },
+        {
+          "name": "Robert Strange",
+          "character": "Pyramid Head",
+          "profile_path": "/4GBjA1itRhsKaPaOrVE1YN9qOqc.jpg"
+        },
+        {
+          "name": "Emily Carding",
+          "character": "Dara",
+          "profile_path": "/zW0SKNWWlEFrLm5XAZh24rL0E6b.jpg"
+        },
+        {
+          "name": "Eve Macklin",
+          "character": "Kaitlyn",
+          "profile_path": "/7e1bpd3iTst0PvCk4A7LVfUgNut.jpg"
+        },
+        {
+          "name": "Lara Duru",
+          "character": "Meyers Twin",
+          "profile_path": "/AoNaXZCfDs7A6AvCUYxmY9Npesl.jpg"
+        },
+        {
+          "name": "Karya Duru",
+          "character": "Meyers Twin",
+          "profile_path": "/sz21OipX3iSbdULxvaYbL1yFQDh.jpg"
+        }
+      ],
+      "poster": "assets/posters/680493.jpg",
+      "media_type": "movie",
+      "tmdb_id": 680493
+    },
+    {
       "id": 359410,
       "title": "Road House",
       "year": "2024",
@@ -12490,6 +12835,75 @@ const libraryData = {
       "poster": "assets/posters/1527153.jpg",
       "media_type": "movie",
       "tmdb_id": 1527153
+    },
+    {
+      "id": 1290821,
+      "title": "Shelter",
+      "year": "2026",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 6.759,
+      "runtime": 107,
+      "director": "Ric Roman Waugh",
+      "cast": [
+        {
+          "name": "Jason Statham",
+          "character": "Mason",
+          "profile_path": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+        },
+        {
+          "name": "Bodhi Rae Breathnach",
+          "character": "Jesse",
+          "profile_path": "/sONxErk3r0xfoESAmU3GVTxoPDe.jpg"
+        },
+        {
+          "name": "Michael Shaeffer",
+          "character": "Uncle",
+          "profile_path": "/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg"
+        },
+        {
+          "name": "Anna Crilly",
+          "character": "Haneron",
+          "profile_path": "/wT6e4gDsQwrJjhXlIAj5IhcLICy.jpg"
+        },
+        {
+          "name": "Bill Nighy",
+          "character": "Manafort",
+          "profile_path": "/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+        },
+        {
+          "name": "Harriet Walter",
+          "character": "Prime Minister Fordham",
+          "profile_path": "/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+        },
+        {
+          "name": "Eugenia Caruso",
+          "character": "Shop Clerk",
+          "profile_path": "/ocWaLnqvU58oU7ZAVsVKA1w2Als.jpg"
+        },
+        {
+          "name": "Celine Buckens",
+          "character": "Maddison",
+          "profile_path": "/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
+        },
+        {
+          "name": "Naomi Ackie",
+          "character": "Roberta",
+          "profile_path": "/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
+        },
+        {
+          "name": "Bally Gill",
+          "character": "Aziz",
+          "profile_path": "/kjlgABGFfYHwFmZwc7fBwckngMG.jpg"
+        }
+      ],
+      "poster": "assets/posters/1290821.jpg",
+      "media_type": "movie",
+      "tmdb_id": 1290821
     },
     {
       "id": 1233413,
@@ -14138,6 +14552,145 @@ const libraryData = {
       "poster": "assets/posters/1084736.jpg",
       "media_type": "movie",
       "tmdb_id": 1084736
+    },
+    {
+      "id": 155,
+      "title": "The Dark Knight",
+      "year": "2008",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "runtime": 152,
+      "director": "Christopher Nolan",
+      "cast": [
+        {
+          "name": "Christian Bale",
+          "character": "Bruce Wayne",
+          "profile_path": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "Heath Ledger",
+          "character": "Joker",
+          "profile_path": "/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+        },
+        {
+          "name": "Aaron Eckhart",
+          "character": "Harvey Dent",
+          "profile_path": "/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+        },
+        {
+          "name": "Michael Caine",
+          "character": "Alfred",
+          "profile_path": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Maggie Gyllenhaal",
+          "character": "Rachel",
+          "profile_path": "/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+        },
+        {
+          "name": "Gary Oldman",
+          "character": "Gordon",
+          "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+        },
+        {
+          "name": "Morgan Freeman",
+          "character": "Lucius Fox",
+          "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+        },
+        {
+          "name": "Monique Gabriela Curnen",
+          "character": "Ramirez",
+          "profile_path": "/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+        },
+        {
+          "name": "Ron Dean",
+          "character": "Wuertz",
+          "profile_path": "/mgqdr4VFrTVZatkki2suNLYxeDG.jpg"
+        },
+        {
+          "name": "Cillian Murphy",
+          "character": "Scarecrow",
+          "profile_path": "/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+        }
+      ],
+      "poster": "assets/posters/155.jpg",
+      "media_type": "movie",
+      "tmdb_id": 155
+    },
+    {
+      "id": 49026,
+      "title": "The Dark Knight Rises",
+      "year": "2012",
+      "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 7.793,
+      "runtime": 165,
+      "director": "Christopher Nolan",
+      "cast": [
+        {
+          "name": "Christian Bale",
+          "character": "Bruce Wayne",
+          "profile_path": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "Gary Oldman",
+          "character": "Commissioner Gordon",
+          "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+        },
+        {
+          "name": "Tom Hardy",
+          "character": "Bane",
+          "profile_path": "/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+        },
+        {
+          "name": "Joseph Gordon-Levitt",
+          "character": "Blake",
+          "profile_path": "/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+        },
+        {
+          "name": "Anne Hathaway",
+          "character": "Selina",
+          "profile_path": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+        },
+        {
+          "name": "Marion Cotillard",
+          "character": "Miranda",
+          "profile_path": "/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+        },
+        {
+          "name": "Morgan Freeman",
+          "character": "Fox",
+          "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+        },
+        {
+          "name": "Michael Caine",
+          "character": "Alfred",
+          "profile_path": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Matthew Modine",
+          "character": "Foley",
+          "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+        },
+        {
+          "name": "Alon Aboutboul",
+          "character": "Dr. Pavel",
+          "profile_path": "/ja0vix3b43U5whDTYZascbeXlQo.jpg"
+        }
+      ],
+      "poster": "assets/posters/49026.jpg",
+      "media_type": "movie",
+      "tmdb_id": 49026
     },
     {
       "id": 156022,
@@ -16320,6 +16873,74 @@ const libraryData = {
       "tmdb_id": 423
     },
     {
+      "id": 758323,
+      "title": "The Pope's Exorcist",
+      "year": "2023",
+      "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 6.911,
+      "runtime": 103,
+      "director": "Julius Avery",
+      "cast": [
+        {
+          "name": "Russell Crowe",
+          "character": "Father Gabriele Amorth",
+          "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+        },
+        {
+          "name": "Daniel Zovatto",
+          "character": "Father Esquibel",
+          "profile_path": "/gV0qvvMrNPXjDfsjgzLNNayaemj.jpg"
+        },
+        {
+          "name": "Alex Essoe",
+          "character": "Julia",
+          "profile_path": "/rmY5nkPOdhVFYh2b72LfgSJMHf5.jpg"
+        },
+        {
+          "name": "Peter DeSouza-Feighoney",
+          "character": "Henry",
+          "profile_path": "/reYy9iCjdmOEdKpTkhxD4quNNMP.jpg"
+        },
+        {
+          "name": "Ralph Ineson",
+          "character": "Asmodeus (voice)",
+          "profile_path": "/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+        },
+        {
+          "name": "Laurel Marsden",
+          "character": "Amy",
+          "profile_path": "/9qXzNvaTevBkR0odMrRBsL1GQ35.jpg"
+        },
+        {
+          "name": "Franco Nero",
+          "character": "The Pope",
+          "profile_path": "/4npNlt6KfUKxpTLV7DTlmR7m9U7.jpg"
+        },
+        {
+          "name": "Ryan O'Grady",
+          "character": "Cardinal Sullivan",
+          "profile_path": "/8mp6gnzhgC9VRe67NM0M1zH1yc9.jpg"
+        },
+        {
+          "name": "Bianca Bardoe",
+          "character": "Rosaria",
+          "profile_path": "/eFNZsjIlobCE2accPPFv6Og1k2A.jpg"
+        },
+        {
+          "name": "Carrie Munro",
+          "character": "Adella",
+          "profile_path": "/nYlPR77jIE0FenQ8dJesafbjN4A.jpg"
+        }
+      ],
+      "poster": "assets/posters/758323.jpg",
+      "media_type": "movie",
+      "tmdb_id": 758323
+    },
+    {
       "id": 467956,
       "title": "The Professor",
       "year": "2018",
@@ -16889,6 +17510,74 @@ const libraryData = {
       "poster": "assets/posters/1195518.jpg",
       "media_type": "movie",
       "tmdb_id": 1195518
+    },
+    {
+      "id": 704239,
+      "title": "The Union",
+      "year": "2024",
+      "overview": "A New Jersey construction worker goes from regular guy to aspiring spy when his long-lost high school sweetheart recruits him for an espionage mission.",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 6.07,
+      "runtime": 109,
+      "director": "Julian Farino",
+      "cast": [
+        {
+          "name": "Mark Wahlberg",
+          "character": "Mike McKenna",
+          "profile_path": "/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+        },
+        {
+          "name": "Halle Berry",
+          "character": "Roxanne Hall",
+          "profile_path": "/wtFetpWV8kjBsvzYKN9uEEmPdpy.jpg"
+        },
+        {
+          "name": "J.K. Simmons",
+          "character": "Tom Brennan",
+          "profile_path": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+          "name": "Mike Colter",
+          "character": "Nick Faraday",
+          "profile_path": "/9LG9AzoY2ak6M2kwhKlGkLOUUot.jpg"
+        },
+        {
+          "name": "Adewale Akinnuoye-Agbaje",
+          "character": "Frank Preiffer",
+          "profile_path": "/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+        },
+        {
+          "name": "Jessica De Gouw",
+          "character": "Juliet Quinn",
+          "profile_path": "/pu09eASIUzHPJZMfHPkpFqDZ2RR.jpg"
+        },
+        {
+          "name": "Alice Lee",
+          "character": "Athena Kim",
+          "profile_path": "/oFAOsbgtQk3d50Yjj8pw9jJ5lsH.jpg"
+        },
+        {
+          "name": "Jackie Earle Haley",
+          "character": "Foreman",
+          "profile_path": "/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+        },
+        {
+          "name": "Stephen Campbell Moore",
+          "character": "Cameron Foster",
+          "profile_path": "/5w4EvQfi5YipR5I5lhtN5dCDiEY.jpg"
+        },
+        {
+          "name": "Lorraine Bracco",
+          "character": "Lorraine McKenna",
+          "profile_path": "/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+        }
+      ],
+      "poster": "assets/posters/704239.jpg",
+      "media_type": "movie",
+      "tmdb_id": 704239
     },
     {
       "id": 629,
@@ -18088,6 +18777,75 @@ const libraryData = {
       "poster": "assets/posters/1241436.jpg",
       "media_type": "movie",
       "tmdb_id": 1241436
+    },
+    {
+      "id": 1155058,
+      "title": "Watchmen: Chapter I",
+      "year": "2024",
+      "overview": "In 1985, the murder of a government-sponsored superhero draws his outlawed colleagues out of retirement and into a mystery that threatens to upend their personal lives and the world itself.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Science Fiction"
+      ],
+      "rating": 7.377,
+      "runtime": 84,
+      "director": "Brandon Vietti",
+      "cast": [
+        {
+          "name": "Troy Baker",
+          "character": "Adrian Veidt / Ozymandias / Minister / Benny Anger (voice)",
+          "profile_path": "/9jeUft7h20HscRCrsVQTgKHXRwJ.jpg"
+        },
+        {
+          "name": "Adrienne Barbeau",
+          "character": "Sally Jupiter / Silk Spectre / TV Broadcaster (voice)",
+          "profile_path": "/8uQqjG63SFCkmgdFB4SG8wRQmfp.jpg"
+        },
+        {
+          "name": "Corey Burton",
+          "character": "Captain Metropolis / Forbes / American Newscaster (voice)",
+          "profile_path": "/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+        },
+        {
+          "name": "Michael Cerveris",
+          "character": "Jonathan Osterman / Dr. Manhattan / Father (voice)",
+          "profile_path": "/vahLGniF2yY8I11ZtzhhhXVTbDc.jpg"
+        },
+        {
+          "name": "Jeffrey Combs",
+          "character": "Edgar Jacobi / Moloch / British Newscaster / Photographer #1 (voice)",
+          "profile_path": "/dfWcxKNsyGuN18GjWkbOmMhO4c9.jpg"
+        },
+        {
+          "name": "Grey DeLisle",
+          "character": "Female Citizen #2 / Spanish Newscaster (voice)",
+          "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+        },
+        {
+          "name": "Kelly Hu",
+          "character": "Vietnamese Woman / Yvonne (voice)",
+          "profile_path": "/aE8K43akwifeAPpDFKiEJ678Bvn.jpg"
+        },
+        {
+          "name": "John Marshall Jones",
+          "character": "Hooded Justice / General #1 / Criminal #2 (voice)",
+          "profile_path": "/8aQ8qxVOeUx23Jw89ouj9gOwy1W.jpg"
+        },
+        {
+          "name": "Max Koch",
+          "character": "Detective Joe Bourquin / Bernard / President Nixon (voice)",
+          "profile_path": "/bi7D9dmHQur9r0YeakZ5xOpJhcs.jpg"
+        },
+        {
+          "name": "Phil LaMarr",
+          "character": "Comic Book Narrator / Bernie / Security Guard (voice)",
+          "profile_path": "/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+        }
+      ],
+      "poster": "assets/posters/1155058.jpg",
+      "media_type": "movie",
+      "tmdb_id": 1155058
     },
     {
       "id": 1078605,
@@ -19372,6 +20130,60 @@ const libraryData = {
       "tmdb_id": 259909
     },
     {
+      "id": 122226,
+      "title": "Echo",
+      "year": "2024",
+      "overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Action & Adventure"
+      ],
+      "rating": 6.078,
+      "runtime": 0,
+      "director": "",
+      "cast": [
+        {
+          "name": "Alaqua Cox",
+          "character": "Maya Lopez / Echo",
+          "profile_path": "/gvIuoDFjWTQe8WwhU5CZ6qAQCuT.jpg"
+        },
+        {
+          "name": "Chaske Spencer",
+          "character": "Henry 'Black Crow' Lopez",
+          "profile_path": "/yYXfNYra3BKPTXfLtAdUJ0RinjE.jpg"
+        },
+        {
+          "name": "Tantoo Cardinal",
+          "character": "Chula Battiest",
+          "profile_path": "/rxhjfygJlPwztf36iRI7UDn5dr7.jpg"
+        },
+        {
+          "name": "Devery Jacobs",
+          "character": "Bonnie",
+          "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg"
+        },
+        {
+          "name": "Cody Lightning",
+          "character": "Biscuits",
+          "profile_path": "/gDaoXjEHlif8r6EpuKdbB5fgN6b.jpg"
+        },
+        {
+          "name": "Graham Greene",
+          "character": "Skully",
+          "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+        },
+        {
+          "name": "Vincent D'Onofrio",
+          "character": "Wilson Fisk / Kingpin",
+          "profile_path": "/5xHJKUsA8qGvTPO4q5sLZRmzbH2.jpg"
+        }
+      ],
+      "poster": "assets/posters/122226.jpg",
+      "media_type": "tv",
+      "tmdb_id": 122226
+    },
+    {
       "id": 124364,
       "title": "FROM",
       "year": "2022",
@@ -20401,6 +21213,69 @@ const libraryData = {
       "poster": "assets/posters/46518.jpg",
       "media_type": "tv",
       "tmdb_id": 46518
+    },
+    {
+      "id": 97951,
+      "title": "Mayor of Kingstown",
+      "year": "2021",
+      "overview": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "rating": 7.844,
+      "runtime": 0,
+      "director": "Hugh Dillon, Taylor Sheridan",
+      "cast": [
+        {
+          "name": "Jeremy Renner",
+          "character": "Mike McLusky",
+          "profile_path": "/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        },
+        {
+          "name": "Hugh Dillon",
+          "character": "Ian Ferguson",
+          "profile_path": "/npY8dF5b1j5pUqt11sDBi89BDTi.jpg"
+        },
+        {
+          "name": "Tobi Bamtefa",
+          "character": "Deverin 'Bunny' Washington",
+          "profile_path": "/cjGQVrqpG7EfpFQz194tuFHHuih.jpg"
+        },
+        {
+          "name": "Taylor Handley",
+          "character": "Kyle McClusky",
+          "profile_path": "/m6Q0DtgxxAvqILCxpbXbOQov4TP.jpg"
+        },
+        {
+          "name": "Emma Laird",
+          "character": "Iris",
+          "profile_path": "/lcsyb7KZUcg8LRBkiCJScYD2rYT.jpg"
+        },
+        {
+          "name": "Derek Webster",
+          "character": "Stevie",
+          "profile_path": "/q2wo9lI656Chxejpqov5i8EU1ZO.jpg"
+        },
+        {
+          "name": "Hamish Allan-Headley",
+          "character": "Robert Sawyer",
+          "profile_path": "/wUi5ldLGBg9zjxFnh46EdulABUV.jpg"
+        },
+        {
+          "name": "Nishi Munshi",
+          "character": "Tracy",
+          "profile_path": "/z1m2Pp8Zy0Cuocb6RyqNWPZQDl7.jpg"
+        },
+        {
+          "name": "Michael Beach",
+          "character": "Captain Moore",
+          "profile_path": "/7gCBCpK2OSzuUWk5iTZds9NjqkF.jpg"
+        }
+      ],
+      "poster": "assets/posters/97951.jpg",
+      "media_type": "tv",
+      "tmdb_id": 97951
     },
     {
       "id": 247718,
@@ -21960,6 +22835,74 @@ const libraryData = {
       "poster": "assets/posters/222766.jpg",
       "media_type": "tv",
       "tmdb_id": 222766
+    },
+    {
+      "id": 250162,
+      "title": "The Decameron",
+      "year": "2024",
+      "overview": "As the bubonic plague spreads through Italy, a group of nobles and servants retreats to a villa, where their lavish getaway quickly spirals into chaos.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.1,
+      "runtime": 0,
+      "director": "Kathleen Jordan",
+      "cast": [
+        {
+          "name": "Tony Hale",
+          "character": "Sirisco",
+          "profile_path": "/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+        },
+        {
+          "name": "Tanya Reynolds",
+          "character": "Licisca",
+          "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+        },
+        {
+          "name": "Jessica Kate Plummer",
+          "character": "Filomena",
+          "profile_path": "/trt0VnEWXHRVllh11DjElBz3drU.jpg"
+        },
+        {
+          "name": "Karan Gill",
+          "character": "Panfilo",
+          "profile_path": "/7aPMmDXhW1u0HHL0RVyXVUbIBWK.jpg"
+        },
+        {
+          "name": "Lou Gala",
+          "character": "Neifile",
+          "profile_path": "/mBxprQBmKRpx5QqfiaDq1ubDt3A.jpg"
+        },
+        {
+          "name": "Zosia Mamet",
+          "character": "Pampinea",
+          "profile_path": "/8G4n5CMVhzKfYworKrc9Pd2QjHm.jpg"
+        },
+        {
+          "name": "Saoirse-Monica Jackson",
+          "character": "Misia",
+          "profile_path": "/5CSLLbQS59BlUPOqaxABQKfnnkz.jpg"
+        },
+        {
+          "name": "Douggie McMeekin",
+          "character": "Tindaro",
+          "profile_path": "/mPqhmMPosUfEYCrkrGaqQ01wcYf.jpg"
+        },
+        {
+          "name": "Leila Farzad",
+          "character": "Stratilia",
+          "profile_path": "/cjB87g9aZOfmgKBvYhfNCJUM1Kn.jpg"
+        },
+        {
+          "name": "Amar Chadha-Patel",
+          "character": "Dioneo",
+          "profile_path": "/6SZXUfn5A2IzwrWhpBDw99gC4uQ.jpg"
+        }
+      ],
+      "poster": "assets/posters/250162.jpg",
+      "media_type": "tv",
+      "tmdb_id": 250162
     },
     {
       "id": 236235,
@@ -23767,7 +24710,7 @@ const libraryData = {
       "tmdb_id": 201834
     }
   ],
-  "generatedAt": "2026-03-22T22:58:07.150590",
-  "totalMovies": 272,
-  "totalTvShows": 100
+  "generatedAt": "2026-04-03T19:43:06.501833",
+  "totalMovies": 283,
+  "totalTvShows": 103
 };
